@@ -1,0 +1,67 @@
+Loaded data for: ['DeepAtash' 'DeepHyperion']
+	Features Combinations: ['Mov-Lum' 'Mov-Or' 'Or-Lum']
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Tool : 
+============================================================================
+Log Statistics for: test input count
+Comparing: DeepAtash,DeepHyperion.
+ 	 p-Value 6335.5 - 4.96619275409379e-11 
+ 	 A12 0.782160 - large 
+ 	 power 1.0 - runs 15.016573792818322
+============================================================================
+DATASET RQ2 Showing comparisons for MAP test input count : 
+============================================================================
+Log Statistics for: test input count
+Comparing: DeepAtash,DeepHyperion.
+ 	 p-Value 6335.5 - 4.96619275409379e-11 
+ 	 A12 0.782160 - large 
+ 	 power 1.0 - runs 15.016573792818322
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Tool : 
+============================================================================
+Log Statistics for: num tsne clusters
+Comparing: DeepAtash,DeepHyperion.
+ 	 p-Value 6668.0 - 2.380728207221812e-15 
+ 	 A12 0.823210 - large 
+ 	 power 1.0 - runs 13.795011168956686
+============================================================================
+DATASET RQ2 Showing comparisons for MAP num tsne clusters : 
+============================================================================
+Log Statistics for: num tsne clusters
+Comparing: DeepAtash,DeepHyperion.
+ 	 p-Value 6668.0 - 2.380728207221812e-15 
+ 	 A12 0.823210 - large 
+ 	 power 1.0 - runs 13.795011168956686
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Tool : 
+============================================================================
+Log Statistics for: test input count in target
+Comparing: DeepAtash,DeepHyperion.
+ 	 p-Value 5886.0 - 1.1989383229149836e-09 
+ 	 A12 0.726667 - medium 
+ 	 power 0.999999999999995 - runs 17.01698914344614
+============================================================================
+DATASET RQ2 Showing comparisons for MAP test input count in target : 
+============================================================================
+Log Statistics for: test input count in target
+Comparing: DeepAtash,DeepHyperion.
+ 	 p-Value 5886.0 - 1.1989383229149836e-09 
+ 	 A12 0.726667 - medium 
+ 	 power 0.999999999999995 - runs 17.01698914344614
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Tool : 
+============================================================================
+Log Statistics for: target num tsne clusters
+Comparing: DeepAtash,DeepHyperion.
+ 	 p-Value 5849.5 - 1.4304278695190538e-09 
+ 	 A12 0.722160 - medium 
+ 	 power 0.9999999999999918 - runs 17.20037984785636
+============================================================================
+DATASET RQ2 Showing comparisons for MAP target num tsne clusters : 
+============================================================================
+Log Statistics for: target num tsne clusters
+Comparing: DeepAtash,DeepHyperion.
+ 	 p-Value 5849.5 - 1.4304278695190538e-09 
+ 	 A12 0.722160 - medium 
+ 	 power 0.9999999999999918 - runs 17.20037984785636
+Plot stored to  ./plots/RQ2-MNIST-all.pdf

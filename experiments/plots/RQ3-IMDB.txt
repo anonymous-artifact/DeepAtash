@@ -1,0 +1,18 @@
+                             accuracy test set
+Features Combination Tool                     
+Neg-Pos              After            0.895842
+                     Before           0.881900
+Neg-Verb             After            0.895694
+                     Before           0.881900
+Pos-Verb             After            0.895606
+                     Before           0.881900
+-------------------------------------------------------------------------------
+                             accuracy target test set
+Features Combination Tool                            
+Neg-Pos              After                   0.983607
+                     Before                  0.000000
+Neg-Verb             After                   0.994740
+                     Before                  0.000000
+Pos-Verb             After                   0.973572
+                     Before                  0.000000
+-------------------------------------------------------------------------------

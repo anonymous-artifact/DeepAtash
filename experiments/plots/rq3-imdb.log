@@ -1,0 +1,51 @@
+Loaded data for: ['After' 'Before']
+	Features Combinations: ['Neg-Pos' 'Neg-Verb' 'Pos-Verb']
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Neg-Pos : 
+============================================================================
+Log Statistics for: accuracy test set
+Comparing: After,Before.
+ 	 p-Value 10000.0 - 5.384233177796989e-39 
+ 	 A12 1.000000 - large 
+ 	 power 1.0 - runs 10.17998858134246
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Neg-Verb : 
+============================================================================
+Log Statistics for: accuracy test set
+Comparing: After,Before.
+ 	 p-Value 10000.0 - 5.402490362255343e-39 
+ 	 A12 1.000000 - large 
+ 	 power 1.0 - runs 10.17998858134246
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Pos-Verb : 
+============================================================================
+Log Statistics for: accuracy test set
+Comparing: After,Before.
+ 	 p-Value 10000.0 - 5.402092824717944e-39 
+ 	 A12 1.000000 - large 
+ 	 power 1.0 - runs 10.17998858134246
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Neg-Pos : 
+============================================================================
+Log Statistics for: accuracy target test set
+Comparing: After,Before.
+ 	 p-Value 10000.0 - 5.439329828605117e-41 
+ 	 A12 1.000000 - large 
+ 	 power 1.0 - runs 10.17998858134246
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Neg-Verb : 
+============================================================================
+Log Statistics for: accuracy target test set
+Comparing: After,Before.
+ 	 p-Value 10000.0 - 2.610050902155882e-43 
+ 	 A12 1.000000 - large 
+ 	 power 1.0 - runs 10.17998858134246
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Pos-Verb : 
+============================================================================
+Log Statistics for: accuracy target test set
+Comparing: After,Before.
+ 	 p-Value 10000.0 - 5.3610863918149315e-43 
+ 	 A12 1.000000 - large 
+ 	 power 1.0 - runs 10.17998858134246
+Plot stored to  ./plots/RQ3-IMDB.pdf

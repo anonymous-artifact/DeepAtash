@@ -1,0 +1,19 @@
+              test input count
+Tool                          
+DeepAtash            40.988889
+DeepHyperion         16.966667
+-------------------------------------------------------------------------------
+              num tsne clusters
+Tool                           
+DeepAtash              0.852222
+DeepHyperion           0.364222
+-------------------------------------------------------------------------------
+              test input count in target
+Tool                                    
+DeepAtash                      15.955556
+DeepHyperion                    1.366667
+-------------------------------------------------------------------------------
+              target num tsne clusters
+Tool                                  
+DeepAtash                     0.548333
+DeepHyperion                  0.101667

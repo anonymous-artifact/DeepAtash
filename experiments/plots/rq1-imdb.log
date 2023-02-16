@@ -1,0 +1,2310 @@
+Loaded data for: ['GA' 'NSGA2']
+	Features Combinations: ['Neg-Pos' 'Neg-Verb' 'Pos-Verb']
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Neg-Pos : 
+============================================================================
+Log Statistics for: test input count
+Comparing: GA-Heatmap,GA-Input.
+ 	 p-Value 21.0 - 0.030765746251039422 
+ 	 A12 0.210000 - large 
+ 	 power 0.14445376742187638 - runs 179.91971522641037
+Comparing: GA-Heatmap,GA-Latent.
+ 	 p-Value 49.5 - 1.0 
+ 	 A12 0.495000 - negligible 
+ 	 power 0.5536740864873521 - runs 34.06469432772933
+Comparing: GA-Heatmap,NSGA2-Heatmap.
+ 	 p-Value 28.0 - 0.10254701304279236 
+ 	 A12 0.280000 - medium 
+ 	 power 0.2203157138720109 - runs 102.0697398285414
+Comparing: GA-Heatmap,NSGA2-Input.
+ 	 p-Value 30.5 - 0.14954249585209708 
+ 	 A12 0.305000 - medium 
+ 	 power 0.2525898929857243 - runs 86.33706359089065
+*    Cannot compare GA-Heatmap (10) and NSGA2-Latent (10)
+Comparing: GA-Input,GA-Latent.
+ 	 p-Value 70.0 - 0.14001726508799317 
+ 	 A12 0.700000 - medium 
+ 	 power 0.8413059115450211 - runs 18.155324015800826
+Comparing: GA-Input,NSGA2-Heatmap.
+ 	 p-Value 69.5 - 0.1500044662016482 
+ 	 A12 0.695000 - medium 
+ 	 power 0.8361510597803816 - runs 18.38372441743017
+Comparing: GA-Input,NSGA2-Input.
+ 	 p-Value 65.0 - 0.2719522794479482 
+ 	 A12 0.650000 - small 
+ 	 power 0.7849494609978275 - runs 20.68606106652256
+Comparing: GA-Input,NSGA2-Latent.
+ 	 p-Value 16.5 - 0.010654896760733225 
+ 	 A12 0.165000 - large 
+ 	 power 0.10761575125890496 - runs 290.22933744976785
+Comparing: GA-Latent,NSGA2-Heatmap.
+ 	 p-Value 33.0 - 0.21143331043299984 
+ 	 A12 0.330000 - medium 
+ 	 power 0.28730942038314516 - runs 74.0446420163417
+Comparing: GA-Latent,NSGA2-Input.
+ 	 p-Value 40.0 - 0.47133901929086364 
+ 	 A12 0.400000 - small 
+ 	 power 0.39506921211364104 - runs 51.04914147919402
+Comparing: GA-Latent,NSGA2-Latent.
+ 	 p-Value 9.0 - 0.0017448948995761847 
+ 	 A12 0.090000 - large 
+ 	 power 0.0668304591390445 - runs 970.9195882584245
+Comparing: NSGA2-Heatmap,NSGA2-Input.
+ 	 p-Value 46.5 - 0.8201299533241891 
+ 	 A12 0.465000 - negligible 
+ 	 power 0.5033057525054936 - runs 38.318492676057126
+Comparing: NSGA2-Heatmap,NSGA2-Latent.
+ 	 p-Value 2.0 - 0.0002693911935493876 
+ 	 A12 0.020000 - large 
+ 	 power 0.05082370830495942 - runs 19624.07218831663
+Comparing: NSGA2-Input,NSGA2-Latent.
+ 	 p-Value 6.0 - 0.0008450847328853718 
+ 	 A12 0.060000 - large 
+ 	 power 0.057441954263394365 - runs 2182.161420225094
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Neg-Verb : 
+============================================================================
+Log Statistics for: test input count
+Comparing: GA-Heatmap,GA-Input.
+ 	 p-Value 63.0 - 0.34215086635386227 
+ 	 A12 0.630000 - small 
+ 	 power 0.7594908981858253 - runs 21.87338452806102
+Comparing: GA-Heatmap,GA-Latent.
+ 	 p-Value 74.5 - 0.06316129798618096 
+ 	 A12 0.745000 - large 
+ 	 power 0.8828790044321089 - runs 16.30547057245624
+Comparing: GA-Heatmap,NSGA2-Heatmap.
+ 	 p-Value 28.5 - 0.11146452624631818 
+ 	 A12 0.285000 - medium 
+ 	 power 0.2265643107196837 - runs 98.5891060475931
+Comparing: GA-Heatmap,NSGA2-Input.
+ 	 p-Value 61.5 - 0.3981273068952592 
+ 	 A12 0.615000 - small 
+ 	 power 0.7393660472101907 - runs 22.841803287193972
+Comparing: GA-Heatmap,NSGA2-Latent.
+ 	 p-Value 13.5 - 0.006302132190983283 
+ 	 A12 0.135000 - large 
+ 	 power 0.08826351801400723 - runs 432.5936266249919
+Comparing: GA-Input,GA-Latent.
+ 	 p-Value 68.5 - 0.15928365877907769 
+ 	 A12 0.685000 - medium 
+ 	 power 0.8255184765789538 - runs 18.855857867836757
+Comparing: GA-Input,NSGA2-Heatmap.
+ 	 p-Value 13.0 - 0.005722030191733962 
+ 	 A12 0.130000 - large 
+ 	 power 0.08543664326892705 - runs 466.35813272979306
+Comparing: GA-Input,NSGA2-Input.
+ 	 p-Value 53.0 - 0.8467688460797599 
+ 	 A12 0.530000 - negligible 
+ 	 power 0.6112978975546651 - runs 29.98947771240881
+Comparing: GA-Input,NSGA2-Latent.
+ 	 p-Value 11.5 - 0.004002752246609068 
+ 	 A12 0.115000 - large 
+ 	 power 0.0776294667693651 - runs 595.413441630759
+Comparing: GA-Latent,NSGA2-Heatmap.
+ 	 p-Value 13.0 - 0.0051538362266779075 
+ 	 A12 0.130000 - large 
+ 	 power 0.08543664326892705 - runs 466.35813272979306
+Comparing: GA-Latent,NSGA2-Input.
+ 	 p-Value 42.5 - 0.5622647872962122 
+ 	 A12 0.425000 - small 
+ 	 power 0.4362047320203461 - runs 45.456946665523816
+Comparing: GA-Latent,NSGA2-Latent.
+ 	 p-Value 6.0 - 0.0008490219415894534 
+ 	 A12 0.060000 - large 
+ 	 power 0.057441954263394365 - runs 2182.161420225094
+Comparing: NSGA2-Heatmap,NSGA2-Input.
+ 	 p-Value 75.5 - 0.05641212686415499 
+ 	 A12 0.755000 - large 
+ 	 power 0.8909582074607584 - runs 15.939440172891944
+Comparing: NSGA2-Heatmap,NSGA2-Latent.
+ 	 p-Value 32.0 - 0.18554575077897684 
+ 	 A12 0.320000 - medium 
+ 	 power 0.2731436914218108 - runs 78.61669544459792
+Comparing: NSGA2-Input,NSGA2-Latent.
+ 	 p-Value 13.5 - 0.006067063809448058 
+ 	 A12 0.135000 - large 
+ 	 power 0.08826351801400723 - runs 432.5936266249919
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Pos-Verb : 
+============================================================================
+Log Statistics for: test input count
+Comparing: GA-Heatmap,GA-Input.
+ 	 p-Value 21.5 - 0.03254938528048995 
+ 	 A12 0.215000 - large 
+ 	 power 0.14912966331277033 - runs 171.7388680332255
+Comparing: GA-Heatmap,GA-Latent.
+ 	 p-Value 23.0 - 0.04354488730888947 
+ 	 A12 0.230000 - large 
+ 	 power 0.1638538209325117 - runs 150.31670896505418
+Comparing: GA-Heatmap,NSGA2-Heatmap.
+ 	 p-Value 53.5 - 0.8197949465897073 
+ 	 A12 0.535000 - negligible 
+ 	 power 0.6193631892825366 - runs 29.471982618227315
+Comparing: GA-Heatmap,NSGA2-Input.
+ 	 p-Value 35.5 - 0.2873672569405772 
+ 	 A12 0.355000 - small 
+ 	 power 0.3242106305397382 - runs 64.25858773147063
+Comparing: GA-Heatmap,NSGA2-Latent.
+ 	 p-Value 6.5 - 0.0010936428354515319 
+ 	 A12 0.065000 - large 
+ 	 power 0.05874035309472243 - runs 1859.641141357753
+Comparing: GA-Input,GA-Latent.
+ 	 p-Value 37.0 - 0.34012458479991636 
+ 	 A12 0.370000 - small 
+ 	 power 0.34726688552733276 - runs 59.3161300684629
+Comparing: GA-Input,NSGA2-Heatmap.
+ 	 p-Value 89.5 - 0.0029290451961994065 
+ 	 A12 0.895000 - large 
+ 	 power 0.9657110794652484 - runs 12.058534191369045
+Comparing: GA-Input,NSGA2-Input.
+ 	 p-Value 73.0 - 0.08669033248364577 
+ 	 A12 0.730000 - medium 
+ 	 power 0.8699785026213249 - runs 16.88354900231809
+Comparing: GA-Input,NSGA2-Latent.
+ 	 p-Value 13.0 - 0.005380706256186839 
+ 	 A12 0.130000 - large 
+ 	 power 0.08543664326892705 - runs 466.35813272979306
+Comparing: GA-Latent,NSGA2-Heatmap.
+ 	 p-Value 78.5 - 0.0329495814654141 
+ 	 A12 0.785000 - large 
+ 	 power 0.9127731057075068 - runs 14.925704095778695
+Comparing: GA-Latent,NSGA2-Input.
+ 	 p-Value 70.5 - 0.12897684427128753 
+ 	 A12 0.705000 - medium 
+ 	 power 0.8463530567051786 - runs 17.931842066513568
+Comparing: GA-Latent,NSGA2-Latent.
+ 	 p-Value 22.0 - 0.03443926455634231 
+ 	 A12 0.220000 - large 
+ 	 power 0.15392183594040143 - runs 164.109530858328
+Comparing: NSGA2-Heatmap,NSGA2-Input.
+ 	 p-Value 27.0 - 0.08681050632255297 
+ 	 A12 0.270000 - medium 
+ 	 power 0.20813819390591104 - runs 109.62033481457837
+Comparing: NSGA2-Heatmap,NSGA2-Latent.
+ 	 p-Value 9.0 - 0.002102079099068034 
+ 	 A12 0.090000 - large 
+ 	 power 0.0668304591390445 - runs 970.9195882584245
+Comparing: NSGA2-Input,NSGA2-Latent.
+ 	 p-Value 10.5 - 0.0030949283404696163 
+ 	 A12 0.105000 - large 
+ 	 power 0.07298060929994463 - runs 713.8405967444339
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Neg-Pos : 
+============================================================================
+Log Statistics for: num tsne clusters
+Comparing: GA-Heatmap,GA-Input.
+ 	 p-Value 30.0 - 0.10346626726850223 
+ 	 A12 0.300000 - medium 
+ 	 power 0.2459320598793667 - runs 89.17157868667584
+Comparing: GA-Heatmap,GA-Latent.
+ 	 p-Value 42.0 - 0.5212327775120578 
+ 	 A12 0.420000 - small 
+ 	 power 0.42790621742953094 - runs 46.49582350178472
+Comparing: GA-Heatmap,NSGA2-Heatmap.
+ 	 p-Value 46.0 - 0.7559769815386957 
+ 	 A12 0.460000 - negligible 
+ 	 power 0.4948837731208071 - runs 39.109837063103136
+Comparing: GA-Heatmap,NSGA2-Input.
+ 	 p-Value 42.5 - 0.5141558972680107 
+ 	 A12 0.425000 - small 
+ 	 power 0.4362047320203461 - runs 45.456946665523816
+Comparing: GA-Heatmap,NSGA2-Latent.
+ 	 p-Value 26.0 - 0.05394992848057677 
+ 	 A12 0.260000 - large 
+ 	 power 0.19639527194424294 - runs 118.05919010378759
+Comparing: GA-Input,GA-Latent.
+ 	 p-Value 61.0 - 0.3984144928916784 
+ 	 A12 0.610000 - small 
+ 	 power 0.7324696116113469 - runs 23.180755997793106
+Comparing: GA-Input,NSGA2-Heatmap.
+ 	 p-Value 66.0 - 0.20665983370399432 
+ 	 A12 0.660000 - small 
+ 	 power 0.7970668200222908 - runs 20.132929592791854
+Comparing: GA-Input,NSGA2-Input.
+ 	 p-Value 67.5 - 0.15745037510363458 
+ 	 A12 0.675000 - medium 
+ 	 power 0.814456773853136 - runs 19.349446849915346
+Comparing: GA-Input,NSGA2-Latent.
+ 	 p-Value 44.5 - 0.6847864809779207 
+ 	 A12 0.445000 - negligible 
+ 	 power 0.46964659193024666 - runs 41.64655713986114
+Comparing: GA-Latent,NSGA2-Heatmap.
+ 	 p-Value 55.0 - 0.7088760570066984 
+ 	 A12 0.550000 - negligible 
+ 	 power 0.6432354534858052 - runs 28.003772871600567
+Comparing: GA-Latent,NSGA2-Input.
+ 	 p-Value 54.0 - 0.765008435121582 
+ 	 A12 0.540000 - negligible 
+ 	 power 0.6273766794751588 - runs 28.968879592438228
+Comparing: GA-Latent,NSGA2-Latent.
+ 	 p-Value 33.5 - 0.20101865898716864 
+ 	 A12 0.335000 - small 
+ 	 power 0.2945246198618618 - runs 71.91074768719442
+Comparing: NSGA2-Heatmap,NSGA2-Input.
+ 	 p-Value 48.5 - 0.9292846912646839 
+ 	 A12 0.485000 - negligible 
+ 	 power 0.5369408264422698 - runs 35.39490582301607
+Comparing: NSGA2-Heatmap,NSGA2-Latent.
+ 	 p-Value 28.5 - 0.09123619380690293 
+ 	 A12 0.285000 - medium 
+ 	 power 0.2265643107196837 - runs 98.5891060475931
+Comparing: NSGA2-Input,NSGA2-Latent.
+ 	 p-Value 27.0 - 0.0666684311299313 
+ 	 A12 0.270000 - medium 
+ 	 power 0.20813819390591104 - runs 109.62033481457837
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Neg-Verb : 
+============================================================================
+Log Statistics for: num tsne clusters
+Comparing: GA-Heatmap,GA-Input.
+ 	 p-Value 73.5 - 0.061517244631788905 
+ 	 A12 0.735000 - medium 
+ 	 power 0.8743838558647343 - runs 16.686844516613103
+Comparing: GA-Heatmap,GA-Latent.
+ 	 p-Value 83.5 - 0.008304204709896072 
+ 	 A12 0.835000 - large 
+ 	 power 0.9416307856002255 - runs 13.477848650825521
+Comparing: GA-Heatmap,NSGA2-Heatmap.
+ 	 p-Value 53.0 - 0.8413816989501717 
+ 	 A12 0.530000 - negligible 
+ 	 power 0.6112978975546651 - runs 29.98947771240881
+Comparing: GA-Heatmap,NSGA2-Input.
+ 	 p-Value 61.5 - 0.3815520632301457 
+ 	 A12 0.615000 - small 
+ 	 power 0.7393660472101907 - runs 22.841803287193972
+Comparing: GA-Heatmap,NSGA2-Latent.
+ 	 p-Value 33.0 - 0.1700262815085991 
+ 	 A12 0.330000 - medium 
+ 	 power 0.28730942038314516 - runs 74.0446420163417
+Comparing: GA-Input,GA-Latent.
+ 	 p-Value 67.5 - 0.17626824676423292 
+ 	 A12 0.675000 - medium 
+ 	 power 0.814456773853136 - runs 19.349446849915346
+Comparing: GA-Input,NSGA2-Heatmap.
+ 	 p-Value 31.5 - 0.1601216423580758 
+ 	 A12 0.315000 - medium 
+ 	 power 0.2661976742353381 - runs 81.06786340290115
+Comparing: GA-Input,NSGA2-Input.
+ 	 p-Value 49.0 - 0.9686997471594451 
+ 	 A12 0.490000 - negligible 
+ 	 power 0.5453175858137822 - runs 34.719576950811614
+Comparing: GA-Input,NSGA2-Latent.
+ 	 p-Value 10.0 - 0.0016919219741851036 
+ 	 A12 0.100000 - large 
+ 	 power 0.07082134518931076 - runs 786.811390047956
+Comparing: GA-Latent,NSGA2-Heatmap.
+ 	 p-Value 18.0 - 0.014701151087673928 
+ 	 A12 0.180000 - large 
+ 	 power 0.11884707541802035 - runs 244.18442734883354
+Comparing: GA-Latent,NSGA2-Input.
+ 	 p-Value 37.0 - 0.29857952416873657 
+ 	 A12 0.370000 - small 
+ 	 power 0.34726688552733276 - runs 59.3161300684629
+Comparing: GA-Latent,NSGA2-Latent.
+ 	 p-Value 5.0 - 0.0004865679626976785 
+ 	 A12 0.050000 - large 
+ 	 power 0.05516129211153329 - runs 3141.4660851772514
+Comparing: NSGA2-Heatmap,NSGA2-Input.
+ 	 p-Value 65.0 - 0.2618062758997505 
+ 	 A12 0.650000 - small 
+ 	 power 0.7849494609978275 - runs 20.68606106652256
+Comparing: NSGA2-Heatmap,NSGA2-Latent.
+ 	 p-Value 34.5 - 0.2372166407731916 
+ 	 A12 0.345000 - small 
+ 	 power 0.3092077000005377 - runs 67.9181822921431
+Comparing: NSGA2-Input,NSGA2-Latent.
+ 	 p-Value 30.0 - 0.1268558655928628 
+ 	 A12 0.300000 - medium 
+ 	 power 0.2459320598793667 - runs 89.17157868667584
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Pos-Verb : 
+============================================================================
+Log Statistics for: num tsne clusters
+Comparing: GA-Heatmap,GA-Input.
+ 	 p-Value 45.0 - 0.7271373608656564 
+ 	 A12 0.450000 - negligible 
+ 	 power 0.4780504126102153 - runs 40.772659936136826
+Comparing: GA-Heatmap,GA-Latent.
+ 	 p-Value 47.0 - 0.8462907269148376 
+ 	 A12 0.470000 - negligible 
+ 	 power 0.5117262206539932 - runs 37.5523553188398
+Comparing: GA-Heatmap,NSGA2-Heatmap.
+ 	 p-Value 53.0 - 0.8462907269148376 
+ 	 A12 0.530000 - negligible 
+ 	 power 0.6112978975546651 - runs 29.98947771240881
+Comparing: GA-Heatmap,NSGA2-Input.
+ 	 p-Value 51.5 - 0.9376239497396254 
+ 	 A12 0.515000 - negligible 
+ 	 power 0.5868243981348594 - runs 31.633952005213324
+Comparing: GA-Heatmap,NSGA2-Latent.
+ 	 p-Value 45.5 - 0.756341884001653 
+ 	 A12 0.455000 - negligible 
+ 	 power 0.4864640655553632 - runs 39.927500480666495
+Comparing: GA-Input,GA-Latent.
+ 	 p-Value 49.5 - 1.0 
+ 	 A12 0.495000 - negligible 
+ 	 power 0.5536740864873521 - runs 34.06469432772933
+Comparing: GA-Input,NSGA2-Heatmap.
+ 	 p-Value 60.5 - 0.44186293941453847 
+ 	 A12 0.605000 - small 
+ 	 power 0.725482073351579 - runs 23.528232383951146
+Comparing: GA-Input,NSGA2-Input.
+ 	 p-Value 56.0 - 0.6704950277919249 
+ 	 A12 0.560000 - negligible 
+ 	 power 0.6588493579524115 - runs 27.090233971369766
+Comparing: GA-Input,NSGA2-Latent.
+ 	 p-Value 48.5 - 0.9386990275194698 
+ 	 A12 0.485000 - negligible 
+ 	 power 0.5369408264422698 - runs 35.39490582301607
+Comparing: GA-Latent,NSGA2-Heatmap.
+ 	 p-Value 57.0 - 0.6170202439539111 
+ 	 A12 0.570000 - negligible 
+ 	 power 0.6741947956771835 - runs 26.224680356850257
+Comparing: GA-Latent,NSGA2-Input.
+ 	 p-Value 57.5 - 0.5880121357205698 
+ 	 A12 0.575000 - small 
+ 	 power 0.6817598365916735 - runs 25.808860635081047
+Comparing: GA-Latent,NSGA2-Latent.
+ 	 p-Value 46.5 - 0.8173962949870952 
+ 	 A12 0.465000 - negligible 
+ 	 power 0.5033057525054936 - runs 38.318492676057126
+Comparing: NSGA2-Heatmap,NSGA2-Input.
+ 	 p-Value 45.5 - 0.756900382307581 
+ 	 A12 0.455000 - negligible 
+ 	 power 0.4864640655553632 - runs 39.927500480666495
+Comparing: NSGA2-Heatmap,NSGA2-Latent.
+ 	 p-Value 40.0 - 0.4648505907191718 
+ 	 A12 0.400000 - small 
+ 	 power 0.39506921211364104 - runs 51.04914147919402
+Comparing: NSGA2-Input,NSGA2-Latent.
+ 	 p-Value 39.5 - 0.438999268491577 
+ 	 A12 0.395000 - small 
+ 	 power 0.38696692267951405 - runs 52.29711920368198
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Neg-Pos : 
+============================================================================
+Log Statistics for: test input count in target
+Comparing: GA-Heatmap,GA-Input.
+ 	 p-Value 20.0 - 0.025359498193538832 
+ 	 A12 0.200000 - large 
+ 	 power 0.13545156208769618 - runs 198.16064973346386
+Comparing: GA-Heatmap,GA-Latent.
+ 	 p-Value 32.5 - 0.19520078842054223 
+ 	 A12 0.325000 - medium 
+ 	 power 0.28018167627580864 - runs 76.27787321466796
+Comparing: GA-Heatmap,NSGA2-Heatmap.
+ 	 p-Value 33.5 - 0.2240219773777482 
+ 	 A12 0.335000 - small 
+ 	 power 0.2945246198618618 - runs 71.91074768719442
+Comparing: GA-Heatmap,NSGA2-Input.
+ 	 p-Value 40.0 - 0.4711712418735159 
+ 	 A12 0.400000 - small 
+ 	 power 0.39506921211364104 - runs 51.04914147919402
+Comparing: GA-Heatmap,NSGA2-Latent.
+ 	 p-Value 12.0 - 0.0039133326948992825 
+ 	 A12 0.120000 - large 
+ 	 power 0.08012013939337473 - runs 546.9871233731902
+Comparing: GA-Input,GA-Latent.
+ 	 p-Value 67.0 - 0.20987846699608614 
+ 	 A12 0.670000 - medium 
+ 	 power 0.8087659017519535 - runs 19.604689876078023
+Comparing: GA-Input,NSGA2-Heatmap.
+ 	 p-Value 70.0 - 0.13897082073440442 
+ 	 A12 0.700000 - medium 
+ 	 power 0.8413059115450211 - runs 18.155324015800826
+Comparing: GA-Input,NSGA2-Input.
+ 	 p-Value 75.0 - 0.0632228293510783 
+ 	 A12 0.750000 - large 
+ 	 power 0.8869702022546694 - runs 16.120588421506216
+Comparing: GA-Input,NSGA2-Latent.
+ 	 p-Value 28.0 - 0.09601115076733013 
+ 	 A12 0.280000 - medium 
+ 	 power 0.2203157138720109 - runs 102.0697398285414
+Comparing: GA-Latent,NSGA2-Heatmap.
+ 	 p-Value 51.5 - 0.9392161317902206 
+ 	 A12 0.515000 - negligible 
+ 	 power 0.5868243981348594 - runs 31.633952005213324
+Comparing: GA-Latent,NSGA2-Input.
+ 	 p-Value 57.5 - 0.5957318414203945 
+ 	 A12 0.575000 - small 
+ 	 power 0.6817598365916735 - runs 25.808860635081047
+Comparing: GA-Latent,NSGA2-Latent.
+ 	 p-Value 22.5 - 0.03614661709049339 
+ 	 A12 0.225000 - large 
+ 	 power 0.1588300064920433 - runs 156.98323066716281
+Comparing: NSGA2-Heatmap,NSGA2-Input.
+ 	 p-Value 59.0 - 0.5184716882785405 
+ 	 A12 0.590000 - small 
+ 	 power 0.7039928081939698 - runs 24.624698301982985
+Comparing: NSGA2-Heatmap,NSGA2-Latent.
+ 	 p-Value 18.0 - 0.015573961373640184 
+ 	 A12 0.180000 - large 
+ 	 power 0.11884707541802035 - runs 244.18442734883354
+Comparing: NSGA2-Input,NSGA2-Latent.
+ 	 p-Value 18.0 - 0.015734980898073094 
+ 	 A12 0.180000 - large 
+ 	 power 0.11884707541802035 - runs 244.18442734883354
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Neg-Verb : 
+============================================================================
+Log Statistics for: test input count in target
+Comparing: GA-Heatmap,GA-Input.
+ 	 p-Value 46.0 - 0.7720148404811398 
+ 	 A12 0.460000 - negligible 
+ 	 power 0.4948837731208071 - runs 39.109837063103136
+Comparing: GA-Heatmap,GA-Latent.
+ 	 p-Value 61.0 - 0.3277922976814811 
+ 	 A12 0.610000 - small 
+ 	 power 0.7324696116113469 - runs 23.180755997793106
+Comparing: GA-Heatmap,NSGA2-Heatmap.
+ 	 p-Value 40.5 - 0.46631705839538695 
+ 	 A12 0.405000 - small 
+ 	 power 0.4032177782673789 - runs 49.84719085004523
+Comparing: GA-Heatmap,NSGA2-Input.
+ 	 p-Value 51.5 - 0.9292846912646839 
+ 	 A12 0.515000 - negligible 
+ 	 power 0.5868243981348594 - runs 31.633952005213324
+Comparing: GA-Heatmap,NSGA2-Latent.
+ 	 p-Value 36.0 - 0.26375062542329986 
+ 	 A12 0.360000 - small 
+ 	 power 0.33182530934151383 - runs 62.54221728822961
+Comparing: GA-Input,GA-Latent.
+ 	 p-Value 67.5 - 0.1311851827872942 
+ 	 A12 0.675000 - medium 
+ 	 power 0.814456773853136 - runs 19.349446849915346
+Comparing: GA-Input,NSGA2-Heatmap.
+ 	 p-Value 47.5 - 0.8739034444574284 
+ 	 A12 0.475000 - negligible 
+ 	 power 0.5201413991684383 - runs 36.810370050756894
+Comparing: GA-Input,NSGA2-Input.
+ 	 p-Value 52.5 - 0.8644407720476415 
+ 	 A12 0.525000 - negligible 
+ 	 power 0.6031840910133661 - runs 30.52191506449765
+Comparing: GA-Input,NSGA2-Latent.
+ 	 p-Value 37.5 - 0.33201704457098025 
+ 	 A12 0.375000 - small 
+ 	 power 0.3550878551732913 - runs 57.799133634723106
+Comparing: GA-Latent,NSGA2-Heatmap.
+ 	 p-Value 29.5 - 0.08762534861067714 
+ 	 A12 0.295000 - medium 
+ 	 power 0.2393740553055912 - runs 92.15153143667071
+Comparing: GA-Latent,NSGA2-Input.
+ 	 p-Value 42.0 - 0.4562028338837304 
+ 	 A12 0.420000 - small 
+ 	 power 0.42790621742953094 - runs 46.49582350178472
+Comparing: GA-Latent,NSGA2-Latent.
+ 	 p-Value 30.0 - 0.08353660880198063 
+ 	 A12 0.300000 - medium 
+ 	 power 0.2459320598793667 - runs 89.17157868667584
+Comparing: NSGA2-Heatmap,NSGA2-Input.
+ 	 p-Value 60.5 - 0.407555419206056 
+ 	 A12 0.605000 - small 
+ 	 power 0.725482073351579 - runs 23.528232383951146
+Comparing: NSGA2-Heatmap,NSGA2-Latent.
+ 	 p-Value 44.0 - 0.6626549329211934 
+ 	 A12 0.440000 - negligible 
+ 	 power 0.4612563711239968 - runs 42.55050469730158
+Comparing: NSGA2-Input,NSGA2-Latent.
+ 	 p-Value 36.5 - 0.26712567043472735 
+ 	 A12 0.365000 - small 
+ 	 power 0.33951170241264816 - runs 60.89598622261219
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Pos-Verb : 
+============================================================================
+Log Statistics for: test input count in target
+Comparing: GA-Heatmap,GA-Input.
+ 	 p-Value 21.5 - 0.03254938528048995 
+ 	 A12 0.215000 - large 
+ 	 power 0.14912966331277033 - runs 171.7388680332255
+Comparing: GA-Heatmap,GA-Latent.
+ 	 p-Value 24.5 - 0.056884943077909846 
+ 	 A12 0.245000 - large 
+ 	 power 0.1796144029923979 - runs 132.70817519630953
+Comparing: GA-Heatmap,NSGA2-Heatmap.
+ 	 p-Value 48.5 - 0.9394698244730116 
+ 	 A12 0.485000 - negligible 
+ 	 power 0.5369408264422698 - runs 35.39490582301607
+Comparing: GA-Heatmap,NSGA2-Input.
+ 	 p-Value 33.5 - 0.2245495266391816 
+ 	 A12 0.335000 - small 
+ 	 power 0.2945246198618618 - runs 71.91074768719442
+Comparing: GA-Heatmap,NSGA2-Latent.
+ 	 p-Value 5.5 - 0.0008341874054276017 
+ 	 A12 0.055000 - large 
+ 	 power 0.05624906527697629 - runs 2596.5867555487816
+Comparing: GA-Input,GA-Latent.
+ 	 p-Value 37.0 - 0.3399394920694745 
+ 	 A12 0.370000 - small 
+ 	 power 0.34726688552733276 - runs 59.3161300684629
+Comparing: GA-Input,NSGA2-Heatmap.
+ 	 p-Value 89.5 - 0.0029290451961994065 
+ 	 A12 0.895000 - large 
+ 	 power 0.9657110794652484 - runs 12.058534191369045
+Comparing: GA-Input,NSGA2-Input.
+ 	 p-Value 73.0 - 0.08669033248364577 
+ 	 A12 0.730000 - medium 
+ 	 power 0.8699785026213249 - runs 16.88354900231809
+Comparing: GA-Input,NSGA2-Latent.
+ 	 p-Value 13.0 - 0.005380706256186839 
+ 	 A12 0.130000 - large 
+ 	 power 0.08543664326892705 - runs 466.35813272979306
+Comparing: GA-Latent,NSGA2-Heatmap.
+ 	 p-Value 78.5 - 0.03288278282122637 
+ 	 A12 0.785000 - large 
+ 	 power 0.9127731057075068 - runs 14.925704095778695
+Comparing: GA-Latent,NSGA2-Input.
+ 	 p-Value 70.5 - 0.12883177980818905 
+ 	 A12 0.705000 - medium 
+ 	 power 0.8463530567051786 - runs 17.931842066513568
+Comparing: GA-Latent,NSGA2-Latent.
+ 	 p-Value 21.5 - 0.03129171195092088 
+ 	 A12 0.215000 - large 
+ 	 power 0.14912966331277033 - runs 171.7388680332255
+Comparing: NSGA2-Heatmap,NSGA2-Input.
+ 	 p-Value 27.0 - 0.08681050632255297 
+ 	 A12 0.270000 - medium 
+ 	 power 0.20813819390591104 - runs 109.62033481457837
+Comparing: NSGA2-Heatmap,NSGA2-Latent.
+ 	 p-Value 9.0 - 0.002102079099068034 
+ 	 A12 0.090000 - large 
+ 	 power 0.0668304591390445 - runs 970.9195882584245
+Comparing: NSGA2-Input,NSGA2-Latent.
+ 	 p-Value 10.5 - 0.0030949283404696163 
+ 	 A12 0.105000 - large 
+ 	 power 0.07298060929994463 - runs 713.8405967444339
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Neg-Pos : 
+============================================================================
+Log Statistics for: target num tsne clusters
+Comparing: GA-Heatmap,GA-Input.
+ 	 p-Value 24.5 - 0.049952811866229144 
+ 	 A12 0.245000 - large 
+ 	 power 0.1796144029923979 - runs 132.70817519630953
+Comparing: GA-Heatmap,GA-Latent.
+ 	 p-Value 33.5 - 0.21400455569510413 
+ 	 A12 0.335000 - small 
+ 	 power 0.2945246198618618 - runs 71.91074768719442
+Comparing: GA-Heatmap,NSGA2-Heatmap.
+ 	 p-Value 40.0 - 0.45150957147227055 
+ 	 A12 0.400000 - small 
+ 	 power 0.39506921211364104 - runs 51.04914147919402
+Comparing: GA-Heatmap,NSGA2-Input.
+ 	 p-Value 46.5 - 0.8121448583634903 
+ 	 A12 0.465000 - negligible 
+ 	 power 0.5033057525054936 - runs 38.318492676057126
+Comparing: GA-Heatmap,NSGA2-Latent.
+ 	 p-Value 27.5 - 0.08978370125265171 
+ 	 A12 0.275000 - medium 
+ 	 power 0.21417323255537626 - runs 105.74204055395778
+Comparing: GA-Input,GA-Latent.
+ 	 p-Value 54.0 - 0.786004898181643 
+ 	 A12 0.540000 - negligible 
+ 	 power 0.6273766794751588 - runs 28.968879592438228
+Comparing: GA-Input,NSGA2-Heatmap.
+ 	 p-Value 67.5 - 0.18251535282174824 
+ 	 A12 0.675000 - medium 
+ 	 power 0.814456773853136 - runs 19.349446849915346
+Comparing: GA-Input,NSGA2-Input.
+ 	 p-Value 75.5 - 0.049952811866229144 
+ 	 A12 0.755000 - large 
+ 	 power 0.8909582074607584 - runs 15.939440172891944
+Comparing: GA-Input,NSGA2-Latent.
+ 	 p-Value 44.0 - 0.6709822897360269 
+ 	 A12 0.440000 - negligible 
+ 	 power 0.4612563711239968 - runs 42.55050469730158
+Comparing: GA-Latent,NSGA2-Heatmap.
+ 	 p-Value 59.0 - 0.5089915214546048 
+ 	 A12 0.590000 - small 
+ 	 power 0.7039928081939698 - runs 24.624698301982985
+Comparing: GA-Latent,NSGA2-Input.
+ 	 p-Value 63.5 - 0.3126696614508565 
+ 	 A12 0.635000 - small 
+ 	 power 0.7660056230251694 - runs 21.565887706524897
+Comparing: GA-Latent,NSGA2-Latent.
+ 	 p-Value 43.5 - 0.6378701798979456 
+ 	 A12 0.435000 - negligible 
+ 	 power 0.4528835029165356 - runs 43.48589118802079
+Comparing: NSGA2-Heatmap,NSGA2-Input.
+ 	 p-Value 57.5 - 0.5792094377113153 
+ 	 A12 0.575000 - small 
+ 	 power 0.6817598365916735 - runs 25.808860635081047
+Comparing: NSGA2-Heatmap,NSGA2-Latent.
+ 	 p-Value 33.0 - 0.2034060493077331 
+ 	 A12 0.330000 - medium 
+ 	 power 0.28730942038314516 - runs 74.0446420163417
+Comparing: NSGA2-Input,NSGA2-Latent.
+ 	 p-Value 30.5 - 0.14318074475516193 
+ 	 A12 0.305000 - medium 
+ 	 power 0.2525898929857243 - runs 86.33706359089065
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Neg-Verb : 
+============================================================================
+Log Statistics for: target num tsne clusters
+Comparing: GA-Heatmap,GA-Input.
+ 	 p-Value 46.5 - 0.8038644506811451 
+ 	 A12 0.465000 - negligible 
+ 	 power 0.5033057525054936 - runs 38.318492676057126
+Comparing: GA-Heatmap,GA-Latent.
+ 	 p-Value 58.5 - 0.4556650913933441 
+ 	 A12 0.585000 - small 
+ 	 power 0.6966613449698807 - runs 25.009231375593476
+Comparing: GA-Heatmap,NSGA2-Heatmap.
+ 	 p-Value 39.0 - 0.3961946382850805 
+ 	 A12 0.390000 - small 
+ 	 power 0.3789143215793564 - runs 53.5934917426254
+Comparing: GA-Heatmap,NSGA2-Input.
+ 	 p-Value 52.5 - 0.8591237614914782 
+ 	 A12 0.525000 - negligible 
+ 	 power 0.6031840910133661 - runs 30.52191506449765
+Comparing: GA-Heatmap,NSGA2-Latent.
+ 	 p-Value 41.5 - 0.5078021788769753 
+ 	 A12 0.415000 - small 
+ 	 power 0.4196398223505445 - runs 47.57256550851414
+Comparing: GA-Input,GA-Latent.
+ 	 p-Value 64.0 - 0.23113699116473263 
+ 	 A12 0.640000 - small 
+ 	 power 0.7724211369410072 - runs 21.26564764388516
+Comparing: GA-Input,NSGA2-Heatmap.
+ 	 p-Value 46.0 - 0.7813968422759356 
+ 	 A12 0.460000 - negligible 
+ 	 power 0.4948837731208071 - runs 39.109837063103136
+Comparing: GA-Input,NSGA2-Input.
+ 	 p-Value 52.5 - 0.8645050825863402 
+ 	 A12 0.525000 - negligible 
+ 	 power 0.6031840910133661 - runs 30.52191506449765
+Comparing: GA-Input,NSGA2-Latent.
+ 	 p-Value 37.5 - 0.3324324149670702 
+ 	 A12 0.375000 - small 
+ 	 power 0.3550878551732913 - runs 57.799133634723106
+Comparing: GA-Latent,NSGA2-Heatmap.
+ 	 p-Value 32.0 - 0.1346567236831228 
+ 	 A12 0.320000 - medium 
+ 	 power 0.2731436914218108 - runs 78.61669544459792
+Comparing: GA-Latent,NSGA2-Input.
+ 	 p-Value 45.0 - 0.6548256938652379 
+ 	 A12 0.450000 - negligible 
+ 	 power 0.4780504126102153 - runs 40.772659936136826
+Comparing: GA-Latent,NSGA2-Latent.
+ 	 p-Value 35.0 - 0.1983962836027553 
+ 	 A12 0.350000 - small 
+ 	 power 0.3166705082116901 - runs 66.04913280748079
+Comparing: NSGA2-Heatmap,NSGA2-Input.
+ 	 p-Value 59.0 - 0.48164747840658506 
+ 	 A12 0.590000 - small 
+ 	 power 0.7039928081939698 - runs 24.624698301982985
+Comparing: NSGA2-Heatmap,NSGA2-Latent.
+ 	 p-Value 45.0 - 0.7212530296947248 
+ 	 A12 0.450000 - negligible 
+ 	 power 0.4780504126102153 - runs 40.772659936136826
+Comparing: NSGA2-Input,NSGA2-Latent.
+ 	 p-Value 38.0 - 0.3262658323487414 
+ 	 A12 0.380000 - small 
+ 	 power 0.3629715314765412 - runs 56.34170948712888
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Pos-Verb : 
+============================================================================
+Log Statistics for: target num tsne clusters
+Comparing: GA-Heatmap,GA-Input.
+ 	 p-Value 37.0 - 0.3124741811994687 
+ 	 A12 0.370000 - small 
+ 	 power 0.34726688552733276 - runs 59.3161300684629
+Comparing: GA-Heatmap,GA-Latent.
+ 	 p-Value 30.5 - 0.13720601073801314 
+ 	 A12 0.305000 - medium 
+ 	 power 0.2525898929857243 - runs 86.33706359089065
+Comparing: GA-Heatmap,NSGA2-Heatmap.
+ 	 p-Value 44.5 - 0.6863272996849878 
+ 	 A12 0.445000 - negligible 
+ 	 power 0.46964659193024666 - runs 41.64655713986114
+Comparing: GA-Heatmap,NSGA2-Input.
+ 	 p-Value 38.5 - 0.3831318696208599 
+ 	 A12 0.385000 - small 
+ 	 power 0.37091476130998574 - runs 54.94079102218785
+Comparing: GA-Heatmap,NSGA2-Latent.
+ 	 p-Value 31.5 - 0.16362233796455772 
+ 	 A12 0.315000 - medium 
+ 	 power 0.2661976742353381 - runs 81.06786340290115
+Comparing: GA-Input,GA-Latent.
+ 	 p-Value 38.5 - 0.3895267931367222 
+ 	 A12 0.385000 - small 
+ 	 power 0.37091476130998574 - runs 54.94079102218785
+Comparing: GA-Input,NSGA2-Heatmap.
+ 	 p-Value 56.0 - 0.6567393997669468 
+ 	 A12 0.560000 - negligible 
+ 	 power 0.6588493579524115 - runs 27.090233971369766
+Comparing: GA-Input,NSGA2-Input.
+ 	 p-Value 47.0 - 0.8428137011699187 
+ 	 A12 0.470000 - negligible 
+ 	 power 0.5117262206539932 - runs 37.5523553188398
+Comparing: GA-Input,NSGA2-Latent.
+ 	 p-Value 40.5 - 0.4861183940172089 
+ 	 A12 0.405000 - small 
+ 	 power 0.4032177782673789 - runs 49.84719085004523
+Comparing: GA-Latent,NSGA2-Heatmap.
+ 	 p-Value 64.5 - 0.2734504556100642 
+ 	 A12 0.645000 - small 
+ 	 power 0.7787361448560968 - runs 20.97244575306828
+Comparing: GA-Latent,NSGA2-Input.
+ 	 p-Value 59.5 - 0.48525725182319956 
+ 	 A12 0.595000 - small 
+ 	 power 0.7112415704673126 - runs 24.24990041155445
+Comparing: GA-Latent,NSGA2-Latent.
+ 	 p-Value 52.5 - 0.8772847099344449 
+ 	 A12 0.525000 - negligible 
+ 	 power 0.6031840910133661 - runs 30.52191506449765
+Comparing: NSGA2-Heatmap,NSGA2-Input.
+ 	 p-Value 44.5 - 0.6917897655172613 
+ 	 A12 0.445000 - negligible 
+ 	 power 0.46964659193024666 - runs 41.64655713986114
+Comparing: NSGA2-Heatmap,NSGA2-Latent.
+ 	 p-Value 37.5 - 0.3530647718249067 
+ 	 A12 0.375000 - small 
+ 	 power 0.3550878551732913 - runs 57.799133634723106
+Comparing: NSGA2-Input,NSGA2-Latent.
+ 	 p-Value 41.5 - 0.5383956217607028 
+ 	 A12 0.415000 - small 
+ 	 power 0.4196398223505445 - runs 47.57256550851414
+Plot stored to  ./plots/RQ1-IMDB-dark.pdf
+Loaded data for: ['GA' 'NSGA2']
+	Features Combinations: ['Neg-Pos' 'Neg-Verb' 'Pos-Verb']
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Neg-Pos : 
+============================================================================
+Log Statistics for: test input count
+Comparing: GA-Heatmap,GA-Input.
+ 	 p-Value 20.0 - 0.017139382862378393 
+ 	 A12 0.200000 - large 
+ 	 power 0.13545156208769618 - runs 198.16064973346386
+Comparing: GA-Heatmap,GA-Latent.
+ 	 p-Value 46.0 - 0.7441393768671896 
+ 	 A12 0.460000 - negligible 
+ 	 power 0.4948837731208071 - runs 39.109837063103136
+Comparing: GA-Heatmap,NSGA2-Heatmap.
+ 	 p-Value 20.0 - 0.01709172673883766 
+ 	 A12 0.200000 - large 
+ 	 power 0.13545156208769618 - runs 198.16064973346386
+Comparing: GA-Heatmap,NSGA2-Input.
+ 	 p-Value 34.0 - 0.1857984063387198 
+ 	 A12 0.340000 - small 
+ 	 power 0.3018248766485636 - runs 69.87038663619644
+Comparing: GA-Heatmap,NSGA2-Latent.
+ 	 p-Value 17.0 - 0.009880575877941724 
+ 	 A12 0.170000 - large 
+ 	 power 0.1112435378562025 - runs 273.5209062727485
+Comparing: GA-Input,GA-Latent.
+ 	 p-Value 70.5 - 0.10592898856254442 
+ 	 A12 0.705000 - medium 
+ 	 power 0.8463530567051786 - runs 17.931842066513568
+Comparing: GA-Input,NSGA2-Heatmap.
+ 	 p-Value 57.0 - 0.617567524535177 
+ 	 A12 0.570000 - negligible 
+ 	 power 0.6741947956771835 - runs 26.224680356850257
+Comparing: GA-Input,NSGA2-Input.
+ 	 p-Value 59.5 - 0.4817694211134741 
+ 	 A12 0.595000 - small 
+ 	 power 0.7112415704673126 - runs 24.24990041155445
+Comparing: GA-Input,NSGA2-Latent.
+ 	 p-Value 47.0 - 0.8488664845268682 
+ 	 A12 0.470000 - negligible 
+ 	 power 0.5117262206539932 - runs 37.5523553188398
+Comparing: GA-Latent,NSGA2-Heatmap.
+ 	 p-Value 30.5 - 0.12439432331813022 
+ 	 A12 0.305000 - medium 
+ 	 power 0.2525898929857243 - runs 86.33706359089065
+Comparing: GA-Latent,NSGA2-Input.
+ 	 p-Value 40.5 - 0.44255249238767524 
+ 	 A12 0.405000 - small 
+ 	 power 0.4032177782673789 - runs 49.84719085004523
+Comparing: GA-Latent,NSGA2-Latent.
+ 	 p-Value 26.0 - 0.06232454731202906 
+ 	 A12 0.260000 - large 
+ 	 power 0.19639527194424294 - runs 118.05919010378759
+Comparing: NSGA2-Heatmap,NSGA2-Input.
+ 	 p-Value 55.0 - 0.7250409372434653 
+ 	 A12 0.550000 - negligible 
+ 	 power 0.6432354534858052 - runs 28.003772871600567
+Comparing: NSGA2-Heatmap,NSGA2-Latent.
+ 	 p-Value 42.0 - 0.5669352748445943 
+ 	 A12 0.420000 - small 
+ 	 power 0.42790621742953094 - runs 46.49582350178472
+Comparing: NSGA2-Input,NSGA2-Latent.
+ 	 p-Value 37.5 - 0.35344382471684543 
+ 	 A12 0.375000 - small 
+ 	 power 0.3550878551732913 - runs 57.799133634723106
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Neg-Verb : 
+============================================================================
+Log Statistics for: test input count
+Comparing: GA-Heatmap,GA-Input.
+ 	 p-Value 65.5 - 0.2546849674602435 
+ 	 A12 0.655000 - small 
+ 	 power 0.7910600087010341 - runs 20.406288190000375
+Comparing: GA-Heatmap,GA-Latent.
+ 	 p-Value 46.5 - 0.8198620976658383 
+ 	 A12 0.465000 - negligible 
+ 	 power 0.5033057525054936 - runs 38.318492676057126
+Comparing: GA-Heatmap,NSGA2-Heatmap.
+ 	 p-Value 33.5 - 0.2250761618162831 
+ 	 A12 0.335000 - small 
+ 	 power 0.2945246198618618 - runs 71.91074768719442
+Comparing: GA-Heatmap,NSGA2-Input.
+ 	 p-Value 30.0 - 0.1391204510066326 
+ 	 A12 0.300000 - medium 
+ 	 power 0.2459320598793667 - runs 89.17157868667584
+Comparing: GA-Heatmap,NSGA2-Latent.
+ 	 p-Value 25.0 - 0.06302317942205089 
+ 	 A12 0.250000 - large 
+ 	 power 0.18509565629116623 - runs 127.53122038249519
+Comparing: GA-Input,GA-Latent.
+ 	 p-Value 35.5 - 0.28828130466893764 
+ 	 A12 0.355000 - small 
+ 	 power 0.3242106305397382 - runs 64.25858773147063
+Comparing: GA-Input,NSGA2-Heatmap.
+ 	 p-Value 24.5 - 0.05811687556969589 
+ 	 A12 0.245000 - large 
+ 	 power 0.1796144029923979 - runs 132.70817519630953
+Comparing: GA-Input,NSGA2-Input.
+ 	 p-Value 23.5 - 0.049024623985803574 
+ 	 A12 0.235000 - large 
+ 	 power 0.168992847297436 - runs 144.07125399060547
+Comparing: GA-Input,NSGA2-Latent.
+ 	 p-Value 18.0 - 0.017006577801423665 
+ 	 A12 0.180000 - large 
+ 	 power 0.11884707541802035 - runs 244.18442734883354
+Comparing: GA-Latent,NSGA2-Heatmap.
+ 	 p-Value 40.5 - 0.4949914593945689 
+ 	 A12 0.405000 - small 
+ 	 power 0.4032177782673789 - runs 49.84719085004523
+Comparing: GA-Latent,NSGA2-Input.
+ 	 p-Value 37.5 - 0.36235365553359355 
+ 	 A12 0.375000 - small 
+ 	 power 0.3550878551732913 - runs 57.799133634723106
+Comparing: GA-Latent,NSGA2-Latent.
+ 	 p-Value 28.5 - 0.11173494902986826 
+ 	 A12 0.285000 - medium 
+ 	 power 0.2265643107196837 - runs 98.5891060475931
+Comparing: NSGA2-Heatmap,NSGA2-Input.
+ 	 p-Value 42.5 - 0.5955927900169042 
+ 	 A12 0.425000 - small 
+ 	 power 0.4362047320203461 - runs 45.456946665523816
+Comparing: NSGA2-Heatmap,NSGA2-Latent.
+ 	 p-Value 35.0 - 0.2699533551172142 
+ 	 A12 0.350000 - small 
+ 	 power 0.3166705082116901 - runs 66.04913280748079
+Comparing: NSGA2-Input,NSGA2-Latent.
+ 	 p-Value 46.5 - 0.8202634339098493 
+ 	 A12 0.465000 - negligible 
+ 	 power 0.5033057525054936 - runs 38.318492676057126
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Pos-Verb : 
+============================================================================
+Log Statistics for: test input count
+Comparing: GA-Heatmap,GA-Input.
+ 	 p-Value 51.0 - 0.9698045577720108 
+ 	 A12 0.510000 - negligible 
+ 	 power 0.5785853907356855 - runs 32.21479117012257
+Comparing: GA-Heatmap,GA-Latent.
+ 	 p-Value 64.0 - 0.3062131692373795 
+ 	 A12 0.640000 - small 
+ 	 power 0.7724211369410072 - runs 21.26564764388516
+Comparing: GA-Heatmap,NSGA2-Heatmap.
+ 	 p-Value 57.0 - 0.6231762238821174 
+ 	 A12 0.570000 - negligible 
+ 	 power 0.6741947956771835 - runs 26.224680356850257
+Comparing: GA-Heatmap,NSGA2-Input.
+ 	 p-Value 46.0 - 0.7905662189528319 
+ 	 A12 0.460000 - negligible 
+ 	 power 0.4948837731208071 - runs 39.109837063103136
+Comparing: GA-Heatmap,NSGA2-Latent.
+ 	 p-Value 37.5 - 0.3601593837295177 
+ 	 A12 0.375000 - small 
+ 	 power 0.3550878551732913 - runs 57.799133634723106
+Comparing: GA-Input,GA-Latent.
+ 	 p-Value 59.0 - 0.5194216305385262 
+ 	 A12 0.590000 - small 
+ 	 power 0.7039928081939698 - runs 24.624698301982985
+Comparing: GA-Input,NSGA2-Heatmap.
+ 	 p-Value 58.0 - 0.5704604728984778 
+ 	 A12 0.580000 - small 
+ 	 power 0.6892495364284373 - runs 25.40383652277505
+Comparing: GA-Input,NSGA2-Input.
+ 	 p-Value 47.0 - 0.8495467852012831 
+ 	 A12 0.470000 - negligible 
+ 	 power 0.5117262206539932 - runs 37.5523553188398
+Comparing: GA-Input,NSGA2-Latent.
+ 	 p-Value 41.5 - 0.5433728557881227 
+ 	 A12 0.415000 - small 
+ 	 power 0.4196398223505445 - runs 47.57256550851414
+Comparing: GA-Latent,NSGA2-Heatmap.
+ 	 p-Value 44.0 - 0.6770115120224494 
+ 	 A12 0.440000 - negligible 
+ 	 power 0.4612563711239968 - runs 42.55050469730158
+Comparing: GA-Latent,NSGA2-Input.
+ 	 p-Value 34.0 - 0.2400805483960896 
+ 	 A12 0.340000 - small 
+ 	 power 0.3018248766485636 - runs 69.87038663619644
+Comparing: GA-Latent,NSGA2-Latent.
+ 	 p-Value 22.5 - 0.03988274493986346 
+ 	 A12 0.225000 - large 
+ 	 power 0.1588300064920433 - runs 156.98323066716281
+Comparing: NSGA2-Heatmap,NSGA2-Input.
+ 	 p-Value 38.0 - 0.383418424232321 
+ 	 A12 0.380000 - small 
+ 	 power 0.3629715314765412 - runs 56.34170948712888
+Comparing: NSGA2-Heatmap,NSGA2-Latent.
+ 	 p-Value 30.5 - 0.14846268248465727 
+ 	 A12 0.305000 - medium 
+ 	 power 0.2525898929857243 - runs 86.33706359089065
+Comparing: NSGA2-Input,NSGA2-Latent.
+ 	 p-Value 52.0 - 0.9087953828717115 
+ 	 A12 0.520000 - negligible 
+ 	 power 0.595025120740934 - runs 31.069872264264326
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Neg-Pos : 
+============================================================================
+Log Statistics for: num tsne clusters
+Comparing: GA-Heatmap,GA-Input.
+ 	 p-Value 21.5 - 0.023367405214037358 
+ 	 A12 0.215000 - large 
+ 	 power 0.14912966331277033 - runs 171.7388680332255
+Comparing: GA-Heatmap,GA-Latent.
+ 	 p-Value 45.5 - 0.7091470125152434 
+ 	 A12 0.455000 - negligible 
+ 	 power 0.4864640655553632 - runs 39.927500480666495
+Comparing: GA-Heatmap,NSGA2-Heatmap.
+ 	 p-Value 21.0 - 0.021062204586304287 
+ 	 A12 0.210000 - large 
+ 	 power 0.14445376742187638 - runs 179.91971522641037
+Comparing: GA-Heatmap,NSGA2-Input.
+ 	 p-Value 33.0 - 0.15879114887447232 
+ 	 A12 0.330000 - medium 
+ 	 power 0.28730942038314516 - runs 74.0446420163417
+Comparing: GA-Heatmap,NSGA2-Latent.
+ 	 p-Value 15.0 - 0.006082467376770425 
+ 	 A12 0.150000 - large 
+ 	 power 0.09742459135246914 - runs 350.7693397596034
+Comparing: GA-Input,GA-Latent.
+ 	 p-Value 62.0 - 0.3506867629889956 
+ 	 A12 0.620000 - small 
+ 	 power 0.7461695424049184 - runs 22.51109462718827
+Comparing: GA-Input,NSGA2-Heatmap.
+ 	 p-Value 48.5 - 0.938070549110364 
+ 	 A12 0.485000 - negligible 
+ 	 power 0.5369408264422698 - runs 35.39490582301607
+Comparing: GA-Input,NSGA2-Input.
+ 	 p-Value 59.0 - 0.5031696048221512 
+ 	 A12 0.590000 - small 
+ 	 power 0.7039928081939698 - runs 24.624698301982985
+Comparing: GA-Input,NSGA2-Latent.
+ 	 p-Value 36.5 - 0.31873806376587865 
+ 	 A12 0.365000 - small 
+ 	 power 0.33951170241264816 - runs 60.89598622261219
+Comparing: GA-Latent,NSGA2-Heatmap.
+ 	 p-Value 37.0 - 0.30975701135298817 
+ 	 A12 0.370000 - small 
+ 	 power 0.34726688552733276 - runs 59.3161300684629
+Comparing: GA-Latent,NSGA2-Input.
+ 	 p-Value 45.5 - 0.7322721165982554 
+ 	 A12 0.455000 - negligible 
+ 	 power 0.4864640655553632 - runs 39.927500480666495
+Comparing: GA-Latent,NSGA2-Latent.
+ 	 p-Value 29.5 - 0.10967330555084977 
+ 	 A12 0.295000 - medium 
+ 	 power 0.2393740553055912 - runs 92.15153143667071
+Comparing: NSGA2-Heatmap,NSGA2-Input.
+ 	 p-Value 59.0 - 0.5031696048221512 
+ 	 A12 0.590000 - small 
+ 	 power 0.7039928081939698 - runs 24.624698301982985
+Comparing: NSGA2-Heatmap,NSGA2-Latent.
+ 	 p-Value 39.0 - 0.41955719964386373 
+ 	 A12 0.390000 - small 
+ 	 power 0.3789143215793564 - runs 53.5934917426254
+Comparing: NSGA2-Input,NSGA2-Latent.
+ 	 p-Value 31.0 - 0.151101703685546 
+ 	 A12 0.310000 - medium 
+ 	 power 0.2593457365936274 - runs 83.63868464657206
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Neg-Verb : 
+============================================================================
+Log Statistics for: num tsne clusters
+Comparing: GA-Heatmap,GA-Input.
+ 	 p-Value 59.5 - 0.4242221262131056 
+ 	 A12 0.595000 - small 
+ 	 power 0.7112415704673126 - runs 24.24990041155445
+Comparing: GA-Heatmap,GA-Latent.
+ 	 p-Value 52.0 - 0.8939366174962716 
+ 	 A12 0.520000 - negligible 
+ 	 power 0.595025120740934 - runs 31.069872264264326
+Comparing: GA-Heatmap,NSGA2-Heatmap.
+ 	 p-Value 59.5 - 0.4242221262131056 
+ 	 A12 0.595000 - small 
+ 	 power 0.7112415704673126 - runs 24.24990041155445
+Comparing: GA-Heatmap,NSGA2-Input.
+ 	 p-Value 49.0 - 0.9674782850176175 
+ 	 A12 0.490000 - negligible 
+ 	 power 0.5453175858137822 - runs 34.719576950811614
+Comparing: GA-Heatmap,NSGA2-Latent.
+ 	 p-Value 41.0 - 0.4886201818663878 
+ 	 A12 0.410000 - small 
+ 	 power 0.41140915432953323 - runs 48.68903036168573
+Comparing: GA-Input,GA-Latent.
+ 	 p-Value 42.0 - 0.4843154541616741 
+ 	 A12 0.420000 - small 
+ 	 power 0.42790621742953094 - runs 46.49582350178472
+Comparing: GA-Input,NSGA2-Heatmap.
+ 	 p-Value 50.0 - 1.0 
+ 	 A12 0.500000 - negligible 
+ 	 power 0.5620066465861494 - runs 33.42944489647465
+Comparing: GA-Input,NSGA2-Input.
+ 	 p-Value 42.0 - 0.5337599554886427 
+ 	 A12 0.420000 - small 
+ 	 power 0.42790621742953094 - runs 46.49582350178472
+Comparing: GA-Input,NSGA2-Latent.
+ 	 p-Value 31.5 - 0.135492665172059 
+ 	 A12 0.315000 - medium 
+ 	 power 0.2661976742353381 - runs 81.06786340290115
+Comparing: GA-Latent,NSGA2-Heatmap.
+ 	 p-Value 58.0 - 0.4843154541616741 
+ 	 A12 0.580000 - small 
+ 	 power 0.6892495364284373 - runs 25.40383652277505
+Comparing: GA-Latent,NSGA2-Input.
+ 	 p-Value 48.0 - 0.9007308743300594 
+ 	 A12 0.480000 - negligible 
+ 	 power 0.5285475192191126 - runs 36.09153656362616
+Comparing: GA-Latent,NSGA2-Latent.
+ 	 p-Value 38.5 - 0.36010622264147996 
+ 	 A12 0.385000 - small 
+ 	 power 0.37091476130998574 - runs 54.94079102218785
+Comparing: NSGA2-Heatmap,NSGA2-Input.
+ 	 p-Value 42.0 - 0.5337599554886427 
+ 	 A12 0.420000 - small 
+ 	 power 0.42790621742953094 - runs 46.49582350178472
+Comparing: NSGA2-Heatmap,NSGA2-Latent.
+ 	 p-Value 31.5 - 0.135492665172059 
+ 	 A12 0.315000 - medium 
+ 	 power 0.2661976742353381 - runs 81.06786340290115
+Comparing: NSGA2-Input,NSGA2-Latent.
+ 	 p-Value 43.0 - 0.6064533744042402 
+ 	 A12 0.430000 - negligible 
+ 	 power 0.4445317203467564 - runs 44.45418393278501
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Pos-Verb : 
+============================================================================
+Log Statistics for: num tsne clusters
+Comparing: GA-Heatmap,GA-Input.
+ 	 p-Value 42.0 - 0.5558181384745973 
+ 	 A12 0.420000 - small 
+ 	 power 0.42790621742953094 - runs 46.49582350178472
+Comparing: GA-Heatmap,GA-Latent.
+ 	 p-Value 35.5 - 0.2715122397796006 
+ 	 A12 0.355000 - small 
+ 	 power 0.3242106305397382 - runs 64.25858773147063
+Comparing: GA-Heatmap,NSGA2-Heatmap.
+ 	 p-Value 34.0 - 0.22681559597124823 
+ 	 A12 0.340000 - small 
+ 	 power 0.3018248766485636 - runs 69.87038663619644
+Comparing: GA-Heatmap,NSGA2-Input.
+ 	 p-Value 38.5 - 0.3823434327262276 
+ 	 A12 0.385000 - small 
+ 	 power 0.37091476130998574 - runs 54.94079102218785
+Comparing: GA-Heatmap,NSGA2-Latent.
+ 	 p-Value 31.5 - 0.14564472951494217 
+ 	 A12 0.315000 - medium 
+ 	 power 0.2661976742353381 - runs 81.06786340290115
+Comparing: GA-Input,GA-Latent.
+ 	 p-Value 44.0 - 0.6644740593149465 
+ 	 A12 0.440000 - negligible 
+ 	 power 0.4612563711239968 - runs 42.55050469730158
+Comparing: GA-Input,NSGA2-Heatmap.
+ 	 p-Value 40.0 - 0.4561258517135216 
+ 	 A12 0.400000 - small 
+ 	 power 0.39506921211364104 - runs 51.04914147919402
+Comparing: GA-Input,NSGA2-Input.
+ 	 p-Value 47.0 - 0.8424270053806923 
+ 	 A12 0.470000 - negligible 
+ 	 power 0.5117262206539932 - runs 37.5523553188398
+Comparing: GA-Input,NSGA2-Latent.
+ 	 p-Value 41.0 - 0.4914445121686475 
+ 	 A12 0.410000 - small 
+ 	 power 0.41140915432953323 - runs 48.68903036168573
+Comparing: GA-Latent,NSGA2-Heatmap.
+ 	 p-Value 46.5 - 0.812599876049512 
+ 	 A12 0.465000 - negligible 
+ 	 power 0.5033057525054936 - runs 38.318492676057126
+Comparing: GA-Latent,NSGA2-Input.
+ 	 p-Value 55.0 - 0.7201417143241604 
+ 	 A12 0.550000 - negligible 
+ 	 power 0.6432354534858052 - runs 28.003772871600567
+Comparing: GA-Latent,NSGA2-Latent.
+ 	 p-Value 49.5 - 1.0 
+ 	 A12 0.495000 - negligible 
+ 	 power 0.5536740864873521 - runs 34.06469432772933
+Comparing: NSGA2-Heatmap,NSGA2-Input.
+ 	 p-Value 58.0 - 0.554691327480183 
+ 	 A12 0.580000 - small 
+ 	 power 0.6892495364284373 - runs 25.40383652277505
+Comparing: NSGA2-Heatmap,NSGA2-Latent.
+ 	 p-Value 54.0 - 0.7797032835854754 
+ 	 A12 0.540000 - negligible 
+ 	 power 0.6273766794751588 - runs 28.968879592438228
+Comparing: NSGA2-Input,NSGA2-Latent.
+ 	 p-Value 44.0 - 0.6487411002233712 
+ 	 A12 0.440000 - negligible 
+ 	 power 0.4612563711239968 - runs 42.55050469730158
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Neg-Pos : 
+============================================================================
+Log Statistics for: test input count in target
+Comparing: GA-Heatmap,GA-Input.
+ 	 p-Value 30.0 - 0.03498309640812092 
+ 	 A12 0.300000 - medium 
+ 	 power 0.2459320598793667 - runs 89.17157868667584
+Comparing: GA-Heatmap,GA-Latent.
+ 	 p-Value 45.0 - 0.36812025069351895 
+ 	 A12 0.450000 - negligible 
+ 	 power 0.4780504126102153 - runs 40.772659936136826
+Comparing: GA-Heatmap,NSGA2-Heatmap.
+ 	 p-Value 45.0 - 0.36812025069351895 
+ 	 A12 0.450000 - negligible 
+ 	 power 0.4780504126102153 - runs 40.772659936136826
+Comparing: GA-Heatmap,NSGA2-Input.
+ 	 p-Value 40.0 - 0.16807831903497028 
+ 	 A12 0.400000 - small 
+ 	 power 0.39506921211364104 - runs 51.04914147919402
+Comparing: GA-Heatmap,NSGA2-Latent.
+ 	 p-Value 30.0 - 0.03498309640812092 
+ 	 A12 0.300000 - medium 
+ 	 power 0.2459320598793667 - runs 89.17157868667584
+Comparing: GA-Input,GA-Latent.
+ 	 p-Value 63.0 - 0.21428947867143555 
+ 	 A12 0.630000 - small 
+ 	 power 0.7594908981858253 - runs 21.87338452806102
+Comparing: GA-Input,NSGA2-Heatmap.
+ 	 p-Value 67.0 - 0.10116105881500473 
+ 	 A12 0.670000 - medium 
+ 	 power 0.8087659017519535 - runs 19.604689876078023
+Comparing: GA-Input,NSGA2-Input.
+ 	 p-Value 59.0 - 0.4282580450167388 
+ 	 A12 0.590000 - small 
+ 	 power 0.7039928081939698 - runs 24.624698301982985
+Comparing: GA-Input,NSGA2-Latent.
+ 	 p-Value 47.5 - 0.8644407720476415 
+ 	 A12 0.475000 - negligible 
+ 	 power 0.5201413991684383 - runs 36.810370050756894
+Comparing: GA-Latent,NSGA2-Heatmap.
+ 	 p-Value 50.5 - 1.0 
+ 	 A12 0.505000 - negligible 
+ 	 power 0.5703116179369029 - runs 32.81305415732143
+Comparing: GA-Latent,NSGA2-Input.
+ 	 p-Value 46.0 - 0.6704052955096476 
+ 	 A12 0.460000 - negligible 
+ 	 power 0.4948837731208071 - runs 39.109837063103136
+Comparing: GA-Latent,NSGA2-Latent.
+ 	 p-Value 36.0 - 0.17985386512073864 
+ 	 A12 0.360000 - small 
+ 	 power 0.33182530934151383 - runs 62.54221728822961
+Comparing: NSGA2-Heatmap,NSGA2-Input.
+ 	 p-Value 44.0 - 0.5036312588983317 
+ 	 A12 0.440000 - negligible 
+ 	 power 0.4612563711239968 - runs 42.55050469730158
+Comparing: NSGA2-Heatmap,NSGA2-Latent.
+ 	 p-Value 33.0 - 0.10116105881500473 
+ 	 A12 0.330000 - medium 
+ 	 power 0.28730942038314516 - runs 74.0446420163417
+Comparing: NSGA2-Input,NSGA2-Latent.
+ 	 p-Value 40.0 - 0.3759553785047234 
+ 	 A12 0.400000 - small 
+ 	 power 0.39506921211364104 - runs 51.04914147919402
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Neg-Verb : 
+============================================================================
+Log Statistics for: test input count in target
+Comparing: GA-Heatmap,GA-Input.
+ 	 p-Value 59.0 - 0.5191056026502978 
+ 	 A12 0.590000 - small 
+ 	 power 0.7039928081939698 - runs 24.624698301982985
+Comparing: GA-Heatmap,GA-Latent.
+ 	 p-Value 41.5 - 0.5427594343069414 
+ 	 A12 0.415000 - small 
+ 	 power 0.4196398223505445 - runs 47.57256550851414
+Comparing: GA-Heatmap,NSGA2-Heatmap.
+ 	 p-Value 37.5 - 0.36271726273854765 
+ 	 A12 0.375000 - small 
+ 	 power 0.3550878551732913 - runs 57.799133634723106
+Comparing: GA-Heatmap,NSGA2-Input.
+ 	 p-Value 28.0 - 0.10241666379707093 
+ 	 A12 0.280000 - medium 
+ 	 power 0.2203157138720109 - runs 102.0697398285414
+Comparing: GA-Heatmap,NSGA2-Latent.
+ 	 p-Value 31.5 - 0.17085790746919294 
+ 	 A12 0.315000 - medium 
+ 	 power 0.2661976742353381 - runs 81.06786340290115
+Comparing: GA-Input,GA-Latent.
+ 	 p-Value 35.5 - 0.28828130466893764 
+ 	 A12 0.355000 - small 
+ 	 power 0.3242106305397382 - runs 64.25858773147063
+Comparing: GA-Input,NSGA2-Heatmap.
+ 	 p-Value 30.5 - 0.14954249585209708 
+ 	 A12 0.305000 - medium 
+ 	 power 0.2525898929857243 - runs 86.33706359089065
+Comparing: GA-Input,NSGA2-Input.
+ 	 p-Value 23.5 - 0.049024623985803574 
+ 	 A12 0.235000 - large 
+ 	 power 0.168992847297436 - runs 144.07125399060547
+Comparing: GA-Input,NSGA2-Latent.
+ 	 p-Value 26.0 - 0.07500175264491164 
+ 	 A12 0.260000 - large 
+ 	 power 0.19639527194424294 - runs 118.05919010378759
+Comparing: GA-Latent,NSGA2-Heatmap.
+ 	 p-Value 48.0 - 0.909484397742386 
+ 	 A12 0.480000 - negligible 
+ 	 power 0.5285475192191126 - runs 36.09153656362616
+Comparing: GA-Latent,NSGA2-Input.
+ 	 p-Value 37.5 - 0.36235365553359355 
+ 	 A12 0.375000 - small 
+ 	 power 0.3550878551732913 - runs 57.799133634723106
+Comparing: GA-Latent,NSGA2-Latent.
+ 	 p-Value 40.0 - 0.470666962973713 
+ 	 A12 0.400000 - small 
+ 	 power 0.39506921211364104 - runs 51.04914147919402
+Comparing: NSGA2-Heatmap,NSGA2-Input.
+ 	 p-Value 37.5 - 0.36326155422480677 
+ 	 A12 0.375000 - small 
+ 	 power 0.3550878551732913 - runs 57.799133634723106
+Comparing: NSGA2-Heatmap,NSGA2-Latent.
+ 	 p-Value 42.5 - 0.5955927900169042 
+ 	 A12 0.425000 - small 
+ 	 power 0.4362047320203461 - runs 45.456946665523816
+Comparing: NSGA2-Input,NSGA2-Latent.
+ 	 p-Value 53.0 - 0.8496030631485854 
+ 	 A12 0.530000 - negligible 
+ 	 power 0.6112978975546651 - runs 29.98947771240881
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Pos-Verb : 
+============================================================================
+Log Statistics for: test input count in target
+Comparing: GA-Heatmap,GA-Input.
+ 	 p-Value 51.0 - 0.9698045577720108 
+ 	 A12 0.510000 - negligible 
+ 	 power 0.5785853907356855 - runs 32.21479117012257
+Comparing: GA-Heatmap,GA-Latent.
+ 	 p-Value 64.0 - 0.3062131692373795 
+ 	 A12 0.640000 - small 
+ 	 power 0.7724211369410072 - runs 21.26564764388516
+Comparing: GA-Heatmap,NSGA2-Heatmap.
+ 	 p-Value 57.0 - 0.6231762238821174 
+ 	 A12 0.570000 - negligible 
+ 	 power 0.6741947956771835 - runs 26.224680356850257
+Comparing: GA-Heatmap,NSGA2-Input.
+ 	 p-Value 46.0 - 0.7905662189528319 
+ 	 A12 0.460000 - negligible 
+ 	 power 0.4948837731208071 - runs 39.109837063103136
+Comparing: GA-Heatmap,NSGA2-Latent.
+ 	 p-Value 37.5 - 0.3601593837295177 
+ 	 A12 0.375000 - small 
+ 	 power 0.3550878551732913 - runs 57.799133634723106
+Comparing: GA-Input,GA-Latent.
+ 	 p-Value 59.0 - 0.5194216305385262 
+ 	 A12 0.590000 - small 
+ 	 power 0.7039928081939698 - runs 24.624698301982985
+Comparing: GA-Input,NSGA2-Heatmap.
+ 	 p-Value 58.0 - 0.5704604728984778 
+ 	 A12 0.580000 - small 
+ 	 power 0.6892495364284373 - runs 25.40383652277505
+Comparing: GA-Input,NSGA2-Input.
+ 	 p-Value 47.0 - 0.8495467852012831 
+ 	 A12 0.470000 - negligible 
+ 	 power 0.5117262206539932 - runs 37.5523553188398
+Comparing: GA-Input,NSGA2-Latent.
+ 	 p-Value 41.5 - 0.5433728557881227 
+ 	 A12 0.415000 - small 
+ 	 power 0.4196398223505445 - runs 47.57256550851414
+Comparing: GA-Latent,NSGA2-Heatmap.
+ 	 p-Value 44.0 - 0.6770115120224494 
+ 	 A12 0.440000 - negligible 
+ 	 power 0.4612563711239968 - runs 42.55050469730158
+Comparing: GA-Latent,NSGA2-Input.
+ 	 p-Value 34.0 - 0.2400805483960896 
+ 	 A12 0.340000 - small 
+ 	 power 0.3018248766485636 - runs 69.87038663619644
+Comparing: GA-Latent,NSGA2-Latent.
+ 	 p-Value 22.5 - 0.03988274493986346 
+ 	 A12 0.225000 - large 
+ 	 power 0.1588300064920433 - runs 156.98323066716281
+Comparing: NSGA2-Heatmap,NSGA2-Input.
+ 	 p-Value 38.0 - 0.383418424232321 
+ 	 A12 0.380000 - small 
+ 	 power 0.3629715314765412 - runs 56.34170948712888
+Comparing: NSGA2-Heatmap,NSGA2-Latent.
+ 	 p-Value 30.5 - 0.14846268248465727 
+ 	 A12 0.305000 - medium 
+ 	 power 0.2525898929857243 - runs 86.33706359089065
+Comparing: NSGA2-Input,NSGA2-Latent.
+ 	 p-Value 52.0 - 0.9087953828717115 
+ 	 A12 0.520000 - negligible 
+ 	 power 0.595025120740934 - runs 31.069872264264326
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Neg-Pos : 
+============================================================================
+Log Statistics for: target num tsne clusters
+Comparing: GA-Heatmap,GA-Input.
+ 	 p-Value 30.0 - 0.034423814325388775 
+ 	 A12 0.300000 - medium 
+ 	 power 0.2459320598793667 - runs 89.17157868667584
+Comparing: GA-Heatmap,GA-Latent.
+ 	 p-Value 45.0 - 0.36812025069351895 
+ 	 A12 0.450000 - negligible 
+ 	 power 0.4780504126102153 - runs 40.772659936136826
+Comparing: GA-Heatmap,NSGA2-Heatmap.
+ 	 p-Value 45.0 - 0.36812025069351895 
+ 	 A12 0.450000 - negligible 
+ 	 power 0.4780504126102153 - runs 40.772659936136826
+Comparing: GA-Heatmap,NSGA2-Input.
+ 	 p-Value 40.0 - 0.16807831903497028 
+ 	 A12 0.400000 - small 
+ 	 power 0.39506921211364104 - runs 51.04914147919402
+Comparing: GA-Heatmap,NSGA2-Latent.
+ 	 p-Value 30.0 - 0.034423814325388775 
+ 	 A12 0.300000 - medium 
+ 	 power 0.2459320598793667 - runs 89.17157868667584
+Comparing: GA-Input,GA-Latent.
+ 	 p-Value 66.0 - 0.12260830313598903 
+ 	 A12 0.660000 - small 
+ 	 power 0.7970668200222908 - runs 20.132929592791854
+Comparing: GA-Input,NSGA2-Heatmap.
+ 	 p-Value 67.0 - 0.10027432516539973 
+ 	 A12 0.670000 - medium 
+ 	 power 0.8087659017519535 - runs 19.604689876078023
+Comparing: GA-Input,NSGA2-Input.
+ 	 p-Value 63.5 - 0.22435089260557428 
+ 	 A12 0.635000 - small 
+ 	 power 0.7660056230251694 - runs 21.565887706524897
+Comparing: GA-Input,NSGA2-Latent.
+ 	 p-Value 50.0 - 1.0 
+ 	 A12 0.500000 - negligible 
+ 	 power 0.5620066465861494 - runs 33.42944489647465
+Comparing: GA-Latent,NSGA2-Heatmap.
+ 	 p-Value 50.5 - 1.0 
+ 	 A12 0.505000 - negligible 
+ 	 power 0.5703116179369029 - runs 32.81305415732143
+Comparing: GA-Latent,NSGA2-Input.
+ 	 p-Value 46.0 - 0.6704052955096476 
+ 	 A12 0.460000 - negligible 
+ 	 power 0.4948837731208071 - runs 39.109837063103136
+Comparing: GA-Latent,NSGA2-Latent.
+ 	 p-Value 34.0 - 0.12260830313598903 
+ 	 A12 0.340000 - small 
+ 	 power 0.3018248766485636 - runs 69.87038663619644
+Comparing: NSGA2-Heatmap,NSGA2-Input.
+ 	 p-Value 44.0 - 0.5036312588983317 
+ 	 A12 0.440000 - negligible 
+ 	 power 0.4612563711239968 - runs 42.55050469730158
+Comparing: NSGA2-Heatmap,NSGA2-Latent.
+ 	 p-Value 33.0 - 0.10027432516539973 
+ 	 A12 0.330000 - medium 
+ 	 power 0.28730942038314516 - runs 74.0446420163417
+Comparing: NSGA2-Input,NSGA2-Latent.
+ 	 p-Value 36.5 - 0.22435089260557428 
+ 	 A12 0.365000 - small 
+ 	 power 0.33951170241264816 - runs 60.89598622261219
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Neg-Verb : 
+============================================================================
+Log Statistics for: target num tsne clusters
+Comparing: GA-Heatmap,GA-Input.
+ 	 p-Value 62.5 - 0.28665408518190894 
+ 	 A12 0.625000 - small 
+ 	 power 0.7528783668100459 - runs 22.188372669562675
+Comparing: GA-Heatmap,GA-Latent.
+ 	 p-Value 56.5 - 0.6078414895298231 
+ 	 A12 0.565000 - negligible 
+ 	 power 0.6665570577113644 - runs 26.651670576914437
+Comparing: GA-Heatmap,NSGA2-Heatmap.
+ 	 p-Value 51.5 - 0.933725312226457 
+ 	 A12 0.515000 - negligible 
+ 	 power 0.5868243981348594 - runs 31.633952005213324
+Comparing: GA-Heatmap,NSGA2-Input.
+ 	 p-Value 43.0 - 0.5964151431792806 
+ 	 A12 0.430000 - negligible 
+ 	 power 0.4445317203467564 - runs 44.45418393278501
+Comparing: GA-Heatmap,NSGA2-Latent.
+ 	 p-Value 40.0 - 0.4276246575584298 
+ 	 A12 0.400000 - small 
+ 	 power 0.39506921211364104 - runs 51.04914147919402
+Comparing: GA-Input,GA-Latent.
+ 	 p-Value 44.0 - 0.6253021291295482 
+ 	 A12 0.440000 - negligible 
+ 	 power 0.4612563711239968 - runs 42.55050469730158
+Comparing: GA-Input,NSGA2-Heatmap.
+ 	 p-Value 39.0 - 0.36986241713122403 
+ 	 A12 0.390000 - small 
+ 	 power 0.3789143215793564 - runs 53.5934917426254
+Comparing: GA-Input,NSGA2-Input.
+ 	 p-Value 30.0 - 0.10599579419942542 
+ 	 A12 0.300000 - medium 
+ 	 power 0.2459320598793667 - runs 89.17157868667584
+Comparing: GA-Input,NSGA2-Latent.
+ 	 p-Value 27.0 - 0.05431212797551884 
+ 	 A12 0.270000 - medium 
+ 	 power 0.20813819390591104 - runs 109.62033481457837
+Comparing: GA-Latent,NSGA2-Heatmap.
+ 	 p-Value 45.5 - 0.7400926265001619 
+ 	 A12 0.455000 - negligible 
+ 	 power 0.4864640655553632 - runs 39.927500480666495
+Comparing: GA-Latent,NSGA2-Input.
+ 	 p-Value 36.0 - 0.2732697257917328 
+ 	 A12 0.360000 - small 
+ 	 power 0.33182530934151383 - runs 62.54221728822961
+Comparing: GA-Latent,NSGA2-Latent.
+ 	 p-Value 32.5 - 0.15763925769731746 
+ 	 A12 0.325000 - medium 
+ 	 power 0.28018167627580864 - runs 76.27787321466796
+Comparing: NSGA2-Heatmap,NSGA2-Input.
+ 	 p-Value 40.0 - 0.44773217189274206 
+ 	 A12 0.400000 - small 
+ 	 power 0.39506921211364104 - runs 51.04914147919402
+Comparing: NSGA2-Heatmap,NSGA2-Latent.
+ 	 p-Value 37.5 - 0.32824534924158366 
+ 	 A12 0.375000 - small 
+ 	 power 0.3550878551732913 - runs 57.799133634723106
+Comparing: NSGA2-Input,NSGA2-Latent.
+ 	 p-Value 48.5 - 0.9358997164636793 
+ 	 A12 0.485000 - negligible 
+ 	 power 0.5369408264422698 - runs 35.39490582301607
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Pos-Verb : 
+============================================================================
+Log Statistics for: target num tsne clusters
+Comparing: GA-Heatmap,GA-Input.
+ 	 p-Value 57.0 - 0.5991142340467233 
+ 	 A12 0.570000 - negligible 
+ 	 power 0.6741947956771835 - runs 26.224680356850257
+Comparing: GA-Heatmap,GA-Latent.
+ 	 p-Value 55.5 - 0.681235028687796 
+ 	 A12 0.555000 - negligible 
+ 	 power 0.65107452012709 - runs 27.54078891335398
+Comparing: GA-Heatmap,NSGA2-Heatmap.
+ 	 p-Value 58.0 - 0.5427587513612756 
+ 	 A12 0.580000 - small 
+ 	 power 0.6892495364284373 - runs 25.40383652277505
+Comparing: GA-Heatmap,NSGA2-Input.
+ 	 p-Value 66.0 - 0.19557180404072183 
+ 	 A12 0.660000 - small 
+ 	 power 0.7970668200222908 - runs 20.132929592791854
+Comparing: GA-Heatmap,NSGA2-Latent.
+ 	 p-Value 61.0 - 0.3941557331285813 
+ 	 A12 0.610000 - small 
+ 	 power 0.7324696116113469 - runs 23.180755997793106
+Comparing: GA-Input,GA-Latent.
+ 	 p-Value 47.5 - 0.8664544044005434 
+ 	 A12 0.475000 - negligible 
+ 	 power 0.5201413991684383 - runs 36.810370050756894
+Comparing: GA-Input,NSGA2-Heatmap.
+ 	 p-Value 49.0 - 0.9666974524956248 
+ 	 A12 0.490000 - negligible 
+ 	 power 0.5453175858137822 - runs 34.719576950811614
+Comparing: GA-Input,NSGA2-Input.
+ 	 p-Value 57.0 - 0.5634395077486765 
+ 	 A12 0.570000 - negligible 
+ 	 power 0.6741947956771835 - runs 26.224680356850257
+Comparing: GA-Input,NSGA2-Latent.
+ 	 p-Value 53.5 - 0.8021086378245554 
+ 	 A12 0.535000 - negligible 
+ 	 power 0.6193631892825366 - runs 29.471982618227315
+Comparing: GA-Latent,NSGA2-Heatmap.
+ 	 p-Value 52.0 - 0.8971792532790167 
+ 	 A12 0.520000 - negligible 
+ 	 power 0.595025120740934 - runs 31.069872264264326
+Comparing: GA-Latent,NSGA2-Input.
+ 	 p-Value 60.5 - 0.34997074430366115 
+ 	 A12 0.605000 - small 
+ 	 power 0.725482073351579 - runs 23.528232383951146
+Comparing: GA-Latent,NSGA2-Latent.
+ 	 p-Value 57.0 - 0.5754951391697136 
+ 	 A12 0.570000 - negligible 
+ 	 power 0.6741947956771835 - runs 26.224680356850257
+Comparing: NSGA2-Heatmap,NSGA2-Input.
+ 	 p-Value 59.5 - 0.40105706242999706 
+ 	 A12 0.595000 - small 
+ 	 power 0.7112415704673126 - runs 24.24990041155445
+Comparing: NSGA2-Heatmap,NSGA2-Latent.
+ 	 p-Value 56.0 - 0.63726238876802 
+ 	 A12 0.560000 - negligible 
+ 	 power 0.6588493579524115 - runs 27.090233971369766
+Comparing: NSGA2-Input,NSGA2-Latent.
+ 	 p-Value 48.0 - 0.8887581843262682 
+ 	 A12 0.480000 - negligible 
+ 	 power 0.5285475192191126 - runs 36.09153656362616
+Plot stored to  ./plots/RQ1-IMDB-grey.pdf
+Loaded data for: ['GA' 'NSGA2']
+	Features Combinations: ['Neg-Pos' 'Neg-Verb' 'Pos-Verb']
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Neg-Pos : 
+============================================================================
+Log Statistics for: test input count
+Comparing: GA-Heatmap,GA-Input.
+ 	 p-Value 59.5 - 0.4949914593945689 
+ 	 A12 0.595000 - small 
+ 	 power 0.7112415704673126 - runs 24.24990041155445
+Comparing: GA-Heatmap,GA-Latent.
+ 	 p-Value 26.5 - 0.08106336915577773 
+ 	 A12 0.265000 - medium 
+ 	 power 0.20221182860806558 - runs 113.72031314294209
+Comparing: GA-Heatmap,NSGA2-Heatmap.
+ 	 p-Value 45.5 - 0.7615851509629026 
+ 	 A12 0.455000 - negligible 
+ 	 power 0.4864640655553632 - runs 39.927500480666495
+Comparing: GA-Heatmap,NSGA2-Input.
+ 	 p-Value 20.5 - 0.028068599189382457 
+ 	 A12 0.205000 - large 
+ 	 power 0.1398943546886064 - runs 188.70652622272962
+Comparing: GA-Heatmap,NSGA2-Latent.
+ 	 p-Value 6.5 - 0.0010984328669733435 
+ 	 A12 0.065000 - large 
+ 	 power 0.05874035309472243 - runs 1859.641141357753
+Comparing: GA-Input,GA-Latent.
+ 	 p-Value 25.5 - 0.0690128524127314 
+ 	 A12 0.255000 - large 
+ 	 power 0.190689565038799 - runs 122.65588299130663
+Comparing: GA-Input,NSGA2-Heatmap.
+ 	 p-Value 39.0 - 0.425960337314758 
+ 	 A12 0.390000 - small 
+ 	 power 0.3789143215793564 - runs 53.5934917426254
+Comparing: GA-Input,NSGA2-Input.
+ 	 p-Value 25.0 - 0.0634225473658544 
+ 	 A12 0.250000 - large 
+ 	 power 0.18509565629116623 - runs 127.53122038249519
+Comparing: GA-Input,NSGA2-Latent.
+ 	 p-Value 10.5 - 0.003016832460757697 
+ 	 A12 0.105000 - large 
+ 	 power 0.07298060929994463 - runs 713.8405967444339
+Comparing: GA-Latent,NSGA2-Heatmap.
+ 	 p-Value 64.0 - 0.30694328264676696 
+ 	 A12 0.640000 - small 
+ 	 power 0.7724211369410072 - runs 21.26564764388516
+Comparing: GA-Latent,NSGA2-Input.
+ 	 p-Value 39.5 - 0.4481519197433447 
+ 	 A12 0.395000 - small 
+ 	 power 0.38696692267951405 - runs 52.29711920368198
+Comparing: GA-Latent,NSGA2-Latent.
+ 	 p-Value 10.0 - 0.0026741940352853354 
+ 	 A12 0.100000 - large 
+ 	 power 0.07082134518931076 - runs 786.811390047956
+Comparing: NSGA2-Heatmap,NSGA2-Input.
+ 	 p-Value 30.5 - 0.14985052996910941 
+ 	 A12 0.305000 - medium 
+ 	 power 0.2525898929857243 - runs 86.33706359089065
+Comparing: NSGA2-Heatmap,NSGA2-Latent.
+ 	 p-Value 7.5 - 0.001438039875561943 
+ 	 A12 0.075000 - large 
+ 	 power 0.06165538248380826 - runs 1397.276303525764
+Comparing: NSGA2-Input,NSGA2-Latent.
+ 	 p-Value 12.5 - 0.004780866956141555 
+ 	 A12 0.125000 - large 
+ 	 power 0.08272235581451418 - runs 504.2550024485632
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Neg-Verb : 
+============================================================================
+Log Statistics for: test input count
+Comparing: GA-Heatmap,GA-Input.
+ 	 p-Value 29.5 - 0.09748825762798613 
+ 	 A12 0.295000 - medium 
+ 	 power 0.2393740553055912 - runs 92.15153143667071
+Comparing: GA-Heatmap,GA-Latent.
+ 	 p-Value 17.0 - 0.009849994834410443 
+ 	 A12 0.170000 - large 
+ 	 power 0.1112435378562025 - runs 273.5209062727485
+Comparing: GA-Heatmap,NSGA2-Heatmap.
+ 	 p-Value 59.5 - 0.33009217263550095 
+ 	 A12 0.595000 - small 
+ 	 power 0.7112415704673126 - runs 24.24990041155445
+Comparing: GA-Heatmap,NSGA2-Input.
+ 	 p-Value 65.0 - 0.07758329748513153 
+ 	 A12 0.650000 - small 
+ 	 power 0.7849494609978275 - runs 20.68606106652256
+Comparing: GA-Heatmap,NSGA2-Latent.
+ 	 p-Value 32.5 - 0.14673692678758668 
+ 	 A12 0.325000 - medium 
+ 	 power 0.28018167627580864 - runs 76.27787321466796
+Comparing: GA-Input,GA-Latent.
+ 	 p-Value 37.5 - 0.35738571603752656 
+ 	 A12 0.375000 - small 
+ 	 power 0.3550878551732913 - runs 57.799133634723106
+Comparing: GA-Input,NSGA2-Heatmap.
+ 	 p-Value 76.0 - 0.023419600772816105 
+ 	 A12 0.760000 - large 
+ 	 power 0.8948439020066467 - runs 15.761927989627244
+Comparing: GA-Input,NSGA2-Input.
+ 	 p-Value 80.0 - 0.005943374521940573 
+ 	 A12 0.800000 - large 
+ 	 power 0.9223728273596525 - runs 14.46199369217486
+Comparing: GA-Input,NSGA2-Latent.
+ 	 p-Value 41.5 - 0.525724360918845 
+ 	 A12 0.415000 - small 
+ 	 power 0.4196398223505445 - runs 47.57256550851414
+Comparing: GA-Latent,NSGA2-Heatmap.
+ 	 p-Value 86.0 - 0.0032949032591334535 
+ 	 A12 0.860000 - large 
+ 	 power 0.9529217909259903 - runs 12.84916479991543
+Comparing: GA-Latent,NSGA2-Input.
+ 	 p-Value 90.0 - 0.0007467880185761926 
+ 	 A12 0.900000 - large 
+ 	 power 0.9672794916448453 - runs 11.953300227172239
+Comparing: GA-Latent,NSGA2-Latent.
+ 	 p-Value 46.0 - 0.7868266988723315 
+ 	 A12 0.460000 - negligible 
+ 	 power 0.4948837731208071 - runs 39.109837063103136
+Comparing: NSGA2-Heatmap,NSGA2-Input.
+ 	 p-Value 55.0 - 0.36812025069351895 
+ 	 A12 0.550000 - negligible 
+ 	 power 0.6432354534858052 - runs 28.003772871600567
+Comparing: NSGA2-Heatmap,NSGA2-Latent.
+ 	 p-Value 27.5 - 0.04033146358706222 
+ 	 A12 0.275000 - medium 
+ 	 power 0.21417323255537626 - runs 105.74204055395778
+Comparing: NSGA2-Input,NSGA2-Latent.
+ 	 p-Value 25.0 - 0.014931389578798809 
+ 	 A12 0.250000 - large 
+ 	 power 0.18509565629116623 - runs 127.53122038249519
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Pos-Verb : 
+============================================================================
+Log Statistics for: test input count
+Comparing: GA-Heatmap,GA-Input.
+ 	 p-Value 48.0 - 0.8814592181823938 
+ 	 A12 0.480000 - negligible 
+ 	 power 0.5285475192191126 - runs 36.09153656362616
+Comparing: GA-Heatmap,GA-Latent.
+ 	 p-Value 52.0 - 0.8710527848685038 
+ 	 A12 0.520000 - negligible 
+ 	 power 0.595025120740934 - runs 31.069872264264326
+Comparing: GA-Heatmap,NSGA2-Heatmap.
+ 	 p-Value 23.0 - 0.03533054078224419 
+ 	 A12 0.230000 - large 
+ 	 power 0.1638538209325117 - runs 150.31670896505418
+Comparing: GA-Heatmap,NSGA2-Input.
+ 	 p-Value 28.0 - 0.07064369888140146 
+ 	 A12 0.280000 - medium 
+ 	 power 0.2203157138720109 - runs 102.0697398285414
+Comparing: GA-Heatmap,NSGA2-Latent.
+ 	 p-Value 27.0 - 0.056056436975710354 
+ 	 A12 0.270000 - medium 
+ 	 power 0.20813819390591104 - runs 109.62033481457837
+Comparing: GA-Input,GA-Latent.
+ 	 p-Value 56.5 - 0.5508555370405768 
+ 	 A12 0.565000 - negligible 
+ 	 power 0.6665570577113644 - runs 26.651670576914437
+Comparing: GA-Input,NSGA2-Heatmap.
+ 	 p-Value 21.0 - 0.02590574342169787 
+ 	 A12 0.210000 - large 
+ 	 power 0.14445376742187638 - runs 179.91971522641037
+Comparing: GA-Input,NSGA2-Input.
+ 	 p-Value 22.5 - 0.028511273093444374 
+ 	 A12 0.225000 - large 
+ 	 power 0.1588300064920433 - runs 156.98323066716281
+Comparing: GA-Input,NSGA2-Latent.
+ 	 p-Value 21.5 - 0.022537012053082187 
+ 	 A12 0.215000 - large 
+ 	 power 0.14912966331277033 - runs 171.7388680332255
+Comparing: GA-Latent,NSGA2-Heatmap.
+ 	 p-Value 13.5 - 0.004297475920587722 
+ 	 A12 0.135000 - large 
+ 	 power 0.08826351801400723 - runs 432.5936266249919
+Comparing: GA-Latent,NSGA2-Input.
+ 	 p-Value 20.0 - 0.014203790689474643 
+ 	 A12 0.200000 - large 
+ 	 power 0.13545156208769618 - runs 198.16064973346386
+Comparing: GA-Latent,NSGA2-Latent.
+ 	 p-Value 19.0 - 0.010871837816126325 
+ 	 A12 0.190000 - large 
+ 	 power 0.12691605635823505 - runs 219.3573048362429
+Comparing: NSGA2-Heatmap,NSGA2-Input.
+ 	 p-Value 41.5 - 0.5405929635130362 
+ 	 A12 0.415000 - small 
+ 	 power 0.4196398223505445 - runs 47.57256550851414
+Comparing: NSGA2-Heatmap,NSGA2-Latent.
+ 	 p-Value 38.0 - 0.3757314705659478 
+ 	 A12 0.380000 - small 
+ 	 power 0.3629715314765412 - runs 56.34170948712888
+Comparing: NSGA2-Input,NSGA2-Latent.
+ 	 p-Value 47.5 - 0.8722124790619757 
+ 	 A12 0.475000 - negligible 
+ 	 power 0.5201413991684383 - runs 36.810370050756894
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Neg-Pos : 
+============================================================================
+Log Statistics for: num tsne clusters
+Comparing: GA-Heatmap,GA-Input.
+ 	 p-Value 39.5 - 0.41503345074375164 
+ 	 A12 0.395000 - small 
+ 	 power 0.38696692267951405 - runs 52.29711920368198
+Comparing: GA-Heatmap,GA-Latent.
+ 	 p-Value 37.0 - 0.29857952416873657 
+ 	 A12 0.370000 - small 
+ 	 power 0.34726688552733276 - runs 59.3161300684629
+Comparing: GA-Heatmap,NSGA2-Heatmap.
+ 	 p-Value 37.0 - 0.3174123688288243 
+ 	 A12 0.370000 - small 
+ 	 power 0.34726688552733276 - runs 59.3161300684629
+Comparing: GA-Heatmap,NSGA2-Input.
+ 	 p-Value 40.5 - 0.4649669953191502 
+ 	 A12 0.405000 - small 
+ 	 power 0.4032177782673789 - runs 49.84719085004523
+Comparing: GA-Heatmap,NSGA2-Latent.
+ 	 p-Value 41.0 - 0.4670283951048121 
+ 	 A12 0.410000 - small 
+ 	 power 0.41140915432953323 - runs 48.68903036168573
+Comparing: GA-Input,GA-Latent.
+ 	 p-Value 49.5 - 1.0 
+ 	 A12 0.495000 - negligible 
+ 	 power 0.5536740864873521 - runs 34.06469432772933
+Comparing: GA-Input,NSGA2-Heatmap.
+ 	 p-Value 48.5 - 0.9362774033908884 
+ 	 A12 0.485000 - negligible 
+ 	 power 0.5369408264422698 - runs 35.39490582301607
+Comparing: GA-Input,NSGA2-Input.
+ 	 p-Value 51.5 - 0.9362774033908884 
+ 	 A12 0.515000 - negligible 
+ 	 power 0.5868243981348594 - runs 31.633952005213324
+Comparing: GA-Input,NSGA2-Latent.
+ 	 p-Value 52.5 - 0.869658001957188 
+ 	 A12 0.525000 - negligible 
+ 	 power 0.6031840910133661 - runs 30.52191506449765
+Comparing: GA-Latent,NSGA2-Heatmap.
+ 	 p-Value 48.0 - 0.9045431288350965 
+ 	 A12 0.480000 - negligible 
+ 	 power 0.5285475192191126 - runs 36.09153656362616
+Comparing: GA-Latent,NSGA2-Input.
+ 	 p-Value 52.0 - 0.9039381825365174 
+ 	 A12 0.520000 - negligible 
+ 	 power 0.595025120740934 - runs 31.069872264264326
+Comparing: GA-Latent,NSGA2-Latent.
+ 	 p-Value 54.5 - 0.7382597635654166 
+ 	 A12 0.545000 - negligible 
+ 	 power 0.6353351496810975 - runs 28.479643466162123
+Comparing: NSGA2-Heatmap,NSGA2-Input.
+ 	 p-Value 54.0 - 0.7820110130495672 
+ 	 A12 0.540000 - negligible 
+ 	 power 0.6273766794751588 - runs 28.968879592438228
+Comparing: NSGA2-Heatmap,NSGA2-Latent.
+ 	 p-Value 56.0 - 0.6579746621479419 
+ 	 A12 0.560000 - negligible 
+ 	 power 0.6588493579524115 - runs 27.090233971369766
+Comparing: NSGA2-Input,NSGA2-Latent.
+ 	 p-Value 51.0 - 0.9674782850176175 
+ 	 A12 0.510000 - negligible 
+ 	 power 0.5785853907356855 - runs 32.21479117012257
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Neg-Verb : 
+============================================================================
+Log Statistics for: num tsne clusters
+Comparing: GA-Heatmap,GA-Input.
+ 	 p-Value 30.5 - 0.1157474173215449 
+ 	 A12 0.305000 - medium 
+ 	 power 0.2525898929857243 - runs 86.33706359089065
+Comparing: GA-Heatmap,GA-Latent.
+ 	 p-Value 15.0 - 0.006146064608848648 
+ 	 A12 0.150000 - large 
+ 	 power 0.09742459135246914 - runs 350.7693397596034
+Comparing: GA-Heatmap,NSGA2-Heatmap.
+ 	 p-Value 59.5 - 0.33046445910149613 
+ 	 A12 0.595000 - small 
+ 	 power 0.7112415704673126 - runs 24.24990041155445
+Comparing: GA-Heatmap,NSGA2-Input.
+ 	 p-Value 65.0 - 0.07787247147704081 
+ 	 A12 0.650000 - small 
+ 	 power 0.7849494609978275 - runs 20.68606106652256
+Comparing: GA-Heatmap,NSGA2-Latent.
+ 	 p-Value 33.0 - 0.15899099885533086 
+ 	 A12 0.330000 - medium 
+ 	 power 0.28730942038314516 - runs 74.0446420163417
+Comparing: GA-Input,GA-Latent.
+ 	 p-Value 28.0 - 0.09849893067169767 
+ 	 A12 0.280000 - medium 
+ 	 power 0.2203157138720109 - runs 102.0697398285414
+Comparing: GA-Input,NSGA2-Heatmap.
+ 	 p-Value 77.0 - 0.01874715760160069 
+ 	 A12 0.770000 - large 
+ 	 power 0.9023122190205385 - runs 15.4174360759352
+Comparing: GA-Input,NSGA2-Input.
+ 	 p-Value 80.0 - 0.005971963624595338 
+ 	 A12 0.800000 - large 
+ 	 power 0.9223728273596525 - runs 14.46199369217486
+Comparing: GA-Input,NSGA2-Latent.
+ 	 p-Value 45.0 - 0.7211424930749225 
+ 	 A12 0.450000 - negligible 
+ 	 power 0.4780504126102153 - runs 40.772659936136826
+Comparing: GA-Latent,NSGA2-Heatmap.
+ 	 p-Value 88.0 - 0.0018978935042603378 
+ 	 A12 0.880000 - large 
+ 	 power 0.9606311904301222 - runs 12.38545440980405
+Comparing: GA-Latent,NSGA2-Input.
+ 	 p-Value 90.0 - 0.0007424141867316933 
+ 	 A12 0.900000 - large 
+ 	 power 0.9672794916448453 - runs 11.953300227172239
+Comparing: GA-Latent,NSGA2-Latent.
+ 	 p-Value 61.0 - 0.41590816676082265 
+ 	 A12 0.610000 - small 
+ 	 power 0.7324696116113469 - runs 23.180755997793106
+Comparing: NSGA2-Heatmap,NSGA2-Input.
+ 	 p-Value 55.0 - 0.36812025069351895 
+ 	 A12 0.550000 - negligible 
+ 	 power 0.6432354534858052 - runs 28.003772871600567
+Comparing: NSGA2-Heatmap,NSGA2-Latent.
+ 	 p-Value 27.5 - 0.04033146358706222 
+ 	 A12 0.275000 - medium 
+ 	 power 0.21417323255537626 - runs 105.74204055395778
+Comparing: NSGA2-Input,NSGA2-Latent.
+ 	 p-Value 25.0 - 0.014931389578798809 
+ 	 A12 0.250000 - large 
+ 	 power 0.18509565629116623 - runs 127.53122038249519
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Pos-Verb : 
+============================================================================
+Log Statistics for: num tsne clusters
+Comparing: GA-Heatmap,GA-Input.
+ 	 p-Value 47.0 - 0.8033461131219807 
+ 	 A12 0.470000 - negligible 
+ 	 power 0.5117262206539932 - runs 37.5523553188398
+Comparing: GA-Heatmap,GA-Latent.
+ 	 p-Value 51.0 - 0.9567498363337371 
+ 	 A12 0.510000 - negligible 
+ 	 power 0.5785853907356855 - runs 32.21479117012257
+Comparing: GA-Heatmap,NSGA2-Heatmap.
+ 	 p-Value 18.0 - 0.010444427302597224 
+ 	 A12 0.180000 - large 
+ 	 power 0.11884707541802035 - runs 244.18442734883354
+Comparing: GA-Heatmap,NSGA2-Input.
+ 	 p-Value 23.5 - 0.02850913786145583 
+ 	 A12 0.235000 - large 
+ 	 power 0.168992847297436 - runs 144.07125399060547
+Comparing: GA-Heatmap,NSGA2-Latent.
+ 	 p-Value 26.0 - 0.049729667258846984 
+ 	 A12 0.260000 - large 
+ 	 power 0.19639527194424294 - runs 118.05919010378759
+Comparing: GA-Input,GA-Latent.
+ 	 p-Value 54.0 - 0.7263386976487618 
+ 	 A12 0.540000 - negligible 
+ 	 power 0.6273766794751588 - runs 28.968879592438228
+Comparing: GA-Input,NSGA2-Heatmap.
+ 	 p-Value 15.0 - 0.005229860618443238 
+ 	 A12 0.150000 - large 
+ 	 power 0.09742459135246914 - runs 350.7693397596034
+Comparing: GA-Input,NSGA2-Input.
+ 	 p-Value 21.5 - 0.021950660733107034 
+ 	 A12 0.215000 - large 
+ 	 power 0.14912966331277033 - runs 171.7388680332255
+Comparing: GA-Input,NSGA2-Latent.
+ 	 p-Value 25.0 - 0.04545529484905846 
+ 	 A12 0.250000 - large 
+ 	 power 0.18509565629116623 - runs 127.53122038249519
+Comparing: GA-Latent,NSGA2-Heatmap.
+ 	 p-Value 14.0 - 0.003524847918284367 
+ 	 A12 0.140000 - large 
+ 	 power 0.09120348188989777 - runs 402.3818268625747
+Comparing: GA-Latent,NSGA2-Input.
+ 	 p-Value 20.0 - 0.013336009957313263 
+ 	 A12 0.200000 - large 
+ 	 power 0.13545156208769618 - runs 198.16064973346386
+Comparing: GA-Latent,NSGA2-Latent.
+ 	 p-Value 23.0 - 0.026632837771113735 
+ 	 A12 0.230000 - large 
+ 	 power 0.1638538209325117 - runs 150.31670896505418
+Comparing: NSGA2-Heatmap,NSGA2-Input.
+ 	 p-Value 43.5 - 0.6301448317636394 
+ 	 A12 0.435000 - negligible 
+ 	 power 0.4528835029165356 - runs 43.48589118802079
+Comparing: NSGA2-Heatmap,NSGA2-Latent.
+ 	 p-Value 55.0 - 0.7178786475132275 
+ 	 A12 0.550000 - negligible 
+ 	 power 0.6432354534858052 - runs 28.003772871600567
+Comparing: NSGA2-Input,NSGA2-Latent.
+ 	 p-Value 58.0 - 0.5490943730494786 
+ 	 A12 0.580000 - small 
+ 	 power 0.6892495364284373 - runs 25.40383652277505
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Neg-Pos : 
+============================================================================
+Log Statistics for: test input count in target
+Comparing: GA-Heatmap,GA-Input.
+ 	 p-Value 67.5 - 0.1979195112877884 
+ 	 A12 0.675000 - medium 
+ 	 power 0.814456773853136 - runs 19.349446849915346
+Comparing: GA-Heatmap,GA-Latent.
+ 	 p-Value 63.0 - 0.3441594615512613 
+ 	 A12 0.630000 - small 
+ 	 power 0.7594908981858253 - runs 21.87338452806102
+Comparing: GA-Heatmap,NSGA2-Heatmap.
+ 	 p-Value 71.5 - 0.11214040300651025 
+ 	 A12 0.715000 - medium 
+ 	 power 0.8561245602655734 - runs 17.499087029993287
+Comparing: GA-Heatmap,NSGA2-Input.
+ 	 p-Value 45.5 - 0.7617599689873358 
+ 	 A12 0.455000 - negligible 
+ 	 power 0.4864640655553632 - runs 39.927500480666495
+Comparing: GA-Heatmap,NSGA2-Latent.
+ 	 p-Value 34.5 - 0.2557641975888 
+ 	 A12 0.345000 - small 
+ 	 power 0.3092077000005377 - runs 67.9181822921431
+Comparing: GA-Input,GA-Latent.
+ 	 p-Value 33.0 - 0.21177780105817157 
+ 	 A12 0.330000 - medium 
+ 	 power 0.28730942038314516 - runs 74.0446420163417
+Comparing: GA-Input,NSGA2-Heatmap.
+ 	 p-Value 42.5 - 0.5961481398688386 
+ 	 A12 0.425000 - small 
+ 	 power 0.4362047320203461 - runs 45.456946665523816
+Comparing: GA-Input,NSGA2-Input.
+ 	 p-Value 23.5 - 0.048768741014612906 
+ 	 A12 0.235000 - large 
+ 	 power 0.168992847297436 - runs 144.07125399060547
+Comparing: GA-Input,NSGA2-Latent.
+ 	 p-Value 20.5 - 0.02800933996675631 
+ 	 A12 0.205000 - large 
+ 	 power 0.1398943546886064 - runs 188.70652622272962
+Comparing: GA-Latent,NSGA2-Heatmap.
+ 	 p-Value 58.5 - 0.5448957446685609 
+ 	 A12 0.585000 - small 
+ 	 power 0.6966613449698807 - runs 25.009231375593476
+Comparing: GA-Latent,NSGA2-Input.
+ 	 p-Value 37.5 - 0.36326155422480677 
+ 	 A12 0.375000 - small 
+ 	 power 0.3550878551732913 - runs 57.799133634723106
+Comparing: GA-Latent,NSGA2-Latent.
+ 	 p-Value 29.0 - 0.11940311656208613 
+ 	 A12 0.290000 - medium 
+ 	 power 0.23291759866007922 - runs 95.28703585345161
+Comparing: NSGA2-Heatmap,NSGA2-Input.
+ 	 p-Value 26.5 - 0.08140846893049593 
+ 	 A12 0.265000 - medium 
+ 	 power 0.20221182860806558 - runs 113.72031314294209
+Comparing: NSGA2-Heatmap,NSGA2-Latent.
+ 	 p-Value 21.0 - 0.03082895140322003 
+ 	 A12 0.210000 - large 
+ 	 power 0.14445376742187638 - runs 179.91971522641037
+Comparing: NSGA2-Input,NSGA2-Latent.
+ 	 p-Value 33.0 - 0.21074320628374088 
+ 	 A12 0.330000 - medium 
+ 	 power 0.28730942038314516 - runs 74.0446420163417
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Neg-Verb : 
+============================================================================
+Log Statistics for: test input count in target
+Comparing: GA-Heatmap,GA-Input.
+ 	 p-Value 45.0 - 0.36812025069351895 
+ 	 A12 0.450000 - negligible 
+ 	 power 0.4780504126102153 - runs 40.772659936136826
+Comparing: GA-Heatmap,GA-Latent.
+ 	 p-Value 50.0 - 1.0 
+ 	 A12 0.500000 - negligible 
+ 	 power 0.5620066465861494 - runs 33.42944489647465
+Comparing: GA-Heatmap,NSGA2-Heatmap.
+ 	 p-Value 50.0 - 1.0 
+ 	 A12 0.500000 - negligible 
+ 	 power 0.5620066465861494 - runs 33.42944489647465
+Comparing: GA-Heatmap,NSGA2-Input.
+ 	 p-Value 50.0 - 1.0 
+ 	 A12 0.500000 - negligible 
+ 	 power 0.5620066465861494 - runs 33.42944489647465
+Comparing: GA-Heatmap,NSGA2-Latent.
+ 	 p-Value 35.0 - 0.07787247147704081 
+ 	 A12 0.350000 - small 
+ 	 power 0.3166705082116901 - runs 66.04913280748079
+Comparing: GA-Input,GA-Latent.
+ 	 p-Value 55.0 - 0.36812025069351895 
+ 	 A12 0.550000 - negligible 
+ 	 power 0.6432354534858052 - runs 28.003772871600567
+Comparing: GA-Input,NSGA2-Heatmap.
+ 	 p-Value 55.0 - 0.36812025069351895 
+ 	 A12 0.550000 - negligible 
+ 	 power 0.6432354534858052 - runs 28.003772871600567
+Comparing: GA-Input,NSGA2-Input.
+ 	 p-Value 55.0 - 0.36812025069351895 
+ 	 A12 0.550000 - negligible 
+ 	 power 0.6432354534858052 - runs 28.003772871600567
+Comparing: GA-Input,NSGA2-Latent.
+ 	 p-Value 40.5 - 0.33046445910149613 
+ 	 A12 0.405000 - small 
+ 	 power 0.4032177782673789 - runs 49.84719085004523
+Comparing: GA-Latent,NSGA2-Heatmap.
+ 	 p-Value 50.0 - 1.0 
+ 	 A12 0.500000 - negligible 
+ 	 power 0.5620066465861494 - runs 33.42944489647465
+Comparing: GA-Latent,NSGA2-Input.
+ 	 p-Value 50.0 - 1.0 
+ 	 A12 0.500000 - negligible 
+ 	 power 0.5620066465861494 - runs 33.42944489647465
+Comparing: GA-Latent,NSGA2-Latent.
+ 	 p-Value 35.0 - 0.07787247147704081 
+ 	 A12 0.350000 - small 
+ 	 power 0.3166705082116901 - runs 66.04913280748079
+Comparing: NSGA2-Heatmap,NSGA2-Input.
+ 	 p-Value 50.0 - 1.0 
+ 	 A12 0.500000 - negligible 
+ 	 power 0.5620066465861494 - runs 33.42944489647465
+Comparing: NSGA2-Heatmap,NSGA2-Latent.
+ 	 p-Value 35.0 - 0.07787247147704081 
+ 	 A12 0.350000 - small 
+ 	 power 0.3166705082116901 - runs 66.04913280748079
+Comparing: NSGA2-Input,NSGA2-Latent.
+ 	 p-Value 35.0 - 0.07787247147704081 
+ 	 A12 0.350000 - small 
+ 	 power 0.3166705082116901 - runs 66.04913280748079
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Pos-Verb : 
+============================================================================
+Log Statistics for: test input count in target
+Comparing: GA-Heatmap,GA-Input.
+ 	 p-Value 40.0 - 0.16807831903497028 
+ 	 A12 0.400000 - small 
+ 	 power 0.39506921211364104 - runs 51.04914147919402
+Comparing: GA-Heatmap,GA-Latent.
+ 	 p-Value 40.0 - 0.16807831903497028 
+ 	 A12 0.400000 - small 
+ 	 power 0.39506921211364104 - runs 51.04914147919402
+Comparing: GA-Heatmap,NSGA2-Heatmap.
+ 	 p-Value 40.0 - 0.16807831903497028 
+ 	 A12 0.400000 - small 
+ 	 power 0.39506921211364104 - runs 51.04914147919402
+Comparing: GA-Heatmap,NSGA2-Input.
+ 	 p-Value 30.0 - 0.03498309640812092 
+ 	 A12 0.300000 - medium 
+ 	 power 0.2459320598793667 - runs 89.17157868667584
+Comparing: GA-Heatmap,NSGA2-Latent.
+ 	 p-Value 35.0 - 0.07787247147704081 
+ 	 A12 0.350000 - small 
+ 	 power 0.3166705082116901 - runs 66.04913280748079
+Comparing: GA-Input,GA-Latent.
+ 	 p-Value 50.0 - 1.0 
+ 	 A12 0.500000 - negligible 
+ 	 power 0.5620066465861494 - runs 33.42944489647465
+Comparing: GA-Input,NSGA2-Heatmap.
+ 	 p-Value 50.0 - 1.0 
+ 	 A12 0.500000 - negligible 
+ 	 power 0.5620066465861494 - runs 33.42944489647465
+Comparing: GA-Input,NSGA2-Input.
+ 	 p-Value 38.5 - 0.305006945930164 
+ 	 A12 0.385000 - small 
+ 	 power 0.37091476130998574 - runs 54.94079102218785
+Comparing: GA-Input,NSGA2-Latent.
+ 	 p-Value 44.5 - 0.6191428547313992 
+ 	 A12 0.445000 - negligible 
+ 	 power 0.46964659193024666 - runs 41.64655713986114
+Comparing: GA-Latent,NSGA2-Heatmap.
+ 	 p-Value 51.5 - 0.9138257426743787 
+ 	 A12 0.515000 - negligible 
+ 	 power 0.5868243981348594 - runs 31.633952005213324
+Comparing: GA-Latent,NSGA2-Input.
+ 	 p-Value 36.0 - 0.20833320187793047 
+ 	 A12 0.360000 - small 
+ 	 power 0.33182530934151383 - runs 62.54221728822961
+Comparing: GA-Latent,NSGA2-Latent.
+ 	 p-Value 44.5 - 0.6191428547313992 
+ 	 A12 0.445000 - negligible 
+ 	 power 0.46964659193024666 - runs 41.64655713986114
+Comparing: NSGA2-Heatmap,NSGA2-Input.
+ 	 p-Value 36.0 - 0.20833320187793047 
+ 	 A12 0.360000 - small 
+ 	 power 0.33182530934151383 - runs 62.54221728822961
+Comparing: NSGA2-Heatmap,NSGA2-Latent.
+ 	 p-Value 43.5 - 0.5508555370405768 
+ 	 A12 0.435000 - negligible 
+ 	 power 0.4528835029165356 - runs 43.48589118802079
+Comparing: NSGA2-Input,NSGA2-Latent.
+ 	 p-Value 58.5 - 0.47772970601319353 
+ 	 A12 0.585000 - small 
+ 	 power 0.6966613449698807 - runs 25.009231375593476
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Neg-Pos : 
+============================================================================
+Log Statistics for: target num tsne clusters
+Comparing: GA-Heatmap,GA-Input.
+ 	 p-Value 41.5 - 0.45070078042613604 
+ 	 A12 0.415000 - small 
+ 	 power 0.4196398223505445 - runs 47.57256550851414
+Comparing: GA-Heatmap,GA-Latent.
+ 	 p-Value 54.5 - 0.6901211451992242 
+ 	 A12 0.545000 - negligible 
+ 	 power 0.6353351496810975 - runs 28.479643466162123
+Comparing: GA-Heatmap,NSGA2-Heatmap.
+ 	 p-Value 50.0 - 1.0 
+ 	 A12 0.500000 - negligible 
+ 	 power 0.5620066465861494 - runs 33.42944489647465
+Comparing: GA-Heatmap,NSGA2-Input.
+ 	 p-Value 45.5 - 0.7198074742415729 
+ 	 A12 0.455000 - negligible 
+ 	 power 0.4864640655553632 - runs 39.927500480666495
+Comparing: GA-Heatmap,NSGA2-Latent.
+ 	 p-Value 45.5 - 0.7198074742415729 
+ 	 A12 0.455000 - negligible 
+ 	 power 0.4864640655553632 - runs 39.927500480666495
+Comparing: GA-Input,GA-Latent.
+ 	 p-Value 63.5 - 0.19360096917122072 
+ 	 A12 0.635000 - small 
+ 	 power 0.7660056230251694 - runs 21.565887706524897
+Comparing: GA-Input,NSGA2-Heatmap.
+ 	 p-Value 58.5 - 0.45070078042613604 
+ 	 A12 0.585000 - small 
+ 	 power 0.6966613449698807 - runs 25.009231375593476
+Comparing: GA-Input,NSGA2-Input.
+ 	 p-Value 53.5 - 0.7863507532043057 
+ 	 A12 0.535000 - negligible 
+ 	 power 0.6193631892825366 - runs 29.471982618227315
+Comparing: GA-Input,NSGA2-Latent.
+ 	 p-Value 53.5 - 0.7863507532043057 
+ 	 A12 0.535000 - negligible 
+ 	 power 0.6193631892825366 - runs 29.471982618227315
+Comparing: GA-Latent,NSGA2-Heatmap.
+ 	 p-Value 45.5 - 0.6901211451992242 
+ 	 A12 0.455000 - negligible 
+ 	 power 0.4864640655553632 - runs 39.927500480666495
+Comparing: GA-Latent,NSGA2-Input.
+ 	 p-Value 41.0 - 0.4253332225979507 
+ 	 A12 0.410000 - small 
+ 	 power 0.41140915432953323 - runs 48.68903036168573
+Comparing: GA-Latent,NSGA2-Latent.
+ 	 p-Value 41.0 - 0.4253332225979507 
+ 	 A12 0.410000 - small 
+ 	 power 0.41140915432953323 - runs 48.68903036168573
+Comparing: NSGA2-Heatmap,NSGA2-Input.
+ 	 p-Value 45.5 - 0.7198074742415729 
+ 	 A12 0.455000 - negligible 
+ 	 power 0.4864640655553632 - runs 39.927500480666495
+Comparing: NSGA2-Heatmap,NSGA2-Latent.
+ 	 p-Value 45.5 - 0.7198074742415729 
+ 	 A12 0.455000 - negligible 
+ 	 power 0.4864640655553632 - runs 39.927500480666495
+Comparing: NSGA2-Input,NSGA2-Latent.
+ 	 p-Value 50.0 - 1.0 
+ 	 A12 0.500000 - negligible 
+ 	 power 0.5620066465861494 - runs 33.42944489647465
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Neg-Verb : 
+============================================================================
+Log Statistics for: target num tsne clusters
+Comparing: GA-Heatmap,GA-Input.
+ 	 p-Value 45.0 - 0.36812025069351895 
+ 	 A12 0.450000 - negligible 
+ 	 power 0.4780504126102153 - runs 40.772659936136826
+Comparing: GA-Heatmap,GA-Latent.
+ 	 p-Value 50.0 - 1.0 
+ 	 A12 0.500000 - negligible 
+ 	 power 0.5620066465861494 - runs 33.42944489647465
+Comparing: GA-Heatmap,NSGA2-Heatmap.
+ 	 p-Value 50.0 - 1.0 
+ 	 A12 0.500000 - negligible 
+ 	 power 0.5620066465861494 - runs 33.42944489647465
+Comparing: GA-Heatmap,NSGA2-Input.
+ 	 p-Value 50.0 - 1.0 
+ 	 A12 0.500000 - negligible 
+ 	 power 0.5620066465861494 - runs 33.42944489647465
+Comparing: GA-Heatmap,NSGA2-Latent.
+ 	 p-Value 35.0 - 0.07758329748513153 
+ 	 A12 0.350000 - small 
+ 	 power 0.3166705082116901 - runs 66.04913280748079
+Comparing: GA-Input,GA-Latent.
+ 	 p-Value 55.0 - 0.36812025069351895 
+ 	 A12 0.550000 - negligible 
+ 	 power 0.6432354534858052 - runs 28.003772871600567
+Comparing: GA-Input,NSGA2-Heatmap.
+ 	 p-Value 55.0 - 0.36812025069351895 
+ 	 A12 0.550000 - negligible 
+ 	 power 0.6432354534858052 - runs 28.003772871600567
+Comparing: GA-Input,NSGA2-Input.
+ 	 p-Value 55.0 - 0.36812025069351895 
+ 	 A12 0.550000 - negligible 
+ 	 power 0.6432354534858052 - runs 28.003772871600567
+Comparing: GA-Input,NSGA2-Latent.
+ 	 p-Value 40.5 - 0.32897177441062453 
+ 	 A12 0.405000 - small 
+ 	 power 0.4032177782673789 - runs 49.84719085004523
+Comparing: GA-Latent,NSGA2-Heatmap.
+ 	 p-Value 50.0 - 1.0 
+ 	 A12 0.500000 - negligible 
+ 	 power 0.5620066465861494 - runs 33.42944489647465
+Comparing: GA-Latent,NSGA2-Input.
+ 	 p-Value 50.0 - 1.0 
+ 	 A12 0.500000 - negligible 
+ 	 power 0.5620066465861494 - runs 33.42944489647465
+Comparing: GA-Latent,NSGA2-Latent.
+ 	 p-Value 35.0 - 0.07758329748513153 
+ 	 A12 0.350000 - small 
+ 	 power 0.3166705082116901 - runs 66.04913280748079
+Comparing: NSGA2-Heatmap,NSGA2-Input.
+ 	 p-Value 50.0 - 1.0 
+ 	 A12 0.500000 - negligible 
+ 	 power 0.5620066465861494 - runs 33.42944489647465
+Comparing: NSGA2-Heatmap,NSGA2-Latent.
+ 	 p-Value 35.0 - 0.07758329748513153 
+ 	 A12 0.350000 - small 
+ 	 power 0.3166705082116901 - runs 66.04913280748079
+Comparing: NSGA2-Input,NSGA2-Latent.
+ 	 p-Value 35.0 - 0.07758329748513153 
+ 	 A12 0.350000 - small 
+ 	 power 0.3166705082116901 - runs 66.04913280748079
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Pos-Verb : 
+============================================================================
+Log Statistics for: target num tsne clusters
+Comparing: GA-Heatmap,GA-Input.
+ 	 p-Value 40.0 - 0.16807831903497028 
+ 	 A12 0.400000 - small 
+ 	 power 0.39506921211364104 - runs 51.04914147919402
+Comparing: GA-Heatmap,GA-Latent.
+ 	 p-Value 40.0 - 0.16807831903497028 
+ 	 A12 0.400000 - small 
+ 	 power 0.39506921211364104 - runs 51.04914147919402
+Comparing: GA-Heatmap,NSGA2-Heatmap.
+ 	 p-Value 40.0 - 0.16807831903497028 
+ 	 A12 0.400000 - small 
+ 	 power 0.39506921211364104 - runs 51.04914147919402
+Comparing: GA-Heatmap,NSGA2-Input.
+ 	 p-Value 30.0 - 0.034423814325388775 
+ 	 A12 0.300000 - medium 
+ 	 power 0.2459320598793667 - runs 89.17157868667584
+Comparing: GA-Heatmap,NSGA2-Latent.
+ 	 p-Value 35.0 - 0.07787247147704081 
+ 	 A12 0.350000 - small 
+ 	 power 0.3166705082116901 - runs 66.04913280748079
+Comparing: GA-Input,GA-Latent.
+ 	 p-Value 50.0 - 1.0 
+ 	 A12 0.500000 - negligible 
+ 	 power 0.5620066465861494 - runs 33.42944489647465
+Comparing: GA-Input,NSGA2-Heatmap.
+ 	 p-Value 50.0 - 1.0 
+ 	 A12 0.500000 - negligible 
+ 	 power 0.5620066465861494 - runs 33.42944489647465
+Comparing: GA-Input,NSGA2-Input.
+ 	 p-Value 38.5 - 0.3025043470510781 
+ 	 A12 0.385000 - small 
+ 	 power 0.37091476130998574 - runs 54.94079102218785
+Comparing: GA-Input,NSGA2-Latent.
+ 	 p-Value 44.5 - 0.6191428547313992 
+ 	 A12 0.445000 - negligible 
+ 	 power 0.46964659193024666 - runs 41.64655713986114
+Comparing: GA-Latent,NSGA2-Heatmap.
+ 	 p-Value 50.0 - 1.0 
+ 	 A12 0.500000 - negligible 
+ 	 power 0.5620066465861494 - runs 33.42944489647465
+Comparing: GA-Latent,NSGA2-Input.
+ 	 p-Value 36.0 - 0.2072916904291242 
+ 	 A12 0.360000 - small 
+ 	 power 0.33182530934151383 - runs 62.54221728822961
+Comparing: GA-Latent,NSGA2-Latent.
+ 	 p-Value 42.5 - 0.4864966459499881 
+ 	 A12 0.425000 - small 
+ 	 power 0.4362047320203461 - runs 45.456946665523816
+Comparing: NSGA2-Heatmap,NSGA2-Input.
+ 	 p-Value 36.0 - 0.2072916904291242 
+ 	 A12 0.360000 - small 
+ 	 power 0.33182530934151383 - runs 62.54221728822961
+Comparing: NSGA2-Heatmap,NSGA2-Latent.
+ 	 p-Value 43.5 - 0.5508555370405768 
+ 	 A12 0.435000 - negligible 
+ 	 power 0.4528835029165356 - runs 43.48589118802079
+Comparing: NSGA2-Input,NSGA2-Latent.
+ 	 p-Value 58.5 - 0.4756645952169455 
+ 	 A12 0.585000 - small 
+ 	 power 0.6966613449698807 - runs 25.009231375593476
+Plot stored to  ./plots/RQ1-IMDB-white.pdf

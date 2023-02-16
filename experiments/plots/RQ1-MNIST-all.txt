@@ -1,0 +1,35 @@
+               test input count
+Tool                           
+GA-Heatmap            18.211111
+GA-Input              34.744444
+GA-Latent             33.555556
+NSGA2-Heatmap         22.555556
+NSGA2-Input           29.277778
+NSGA2-Latent          40.988889
+-------------------------------------------------------------------------------
+               num tsne clusters
+Tool                            
+GA-Heatmap              0.309497
+GA-Input                0.399107
+GA-Latent               0.366772
+NSGA2-Heatmap           0.401516
+NSGA2-Input             0.377476
+NSGA2-Latent            0.498921
+-------------------------------------------------------------------------------
+               test input count in target
+Tool                                     
+GA-Heatmap                       3.044444
+GA-Input                        17.366667
+GA-Latent                       17.200000
+NSGA2-Heatmap                    2.677778
+NSGA2-Input                      6.944444
+NSGA2-Latent                    15.966667
+-------------------------------------------------------------------------------
+               target num tsne clusters
+Tool                                   
+GA-Heatmap                     0.190401
+GA-Input                       0.399309
+GA-Latent                      0.424991
+NSGA2-Heatmap                  0.264782
+NSGA2-Input                    0.186784
+NSGA2-Latent                   0.353458

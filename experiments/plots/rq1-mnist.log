@@ -1,0 +1,1773 @@
+Loaded data for: ['GA' 'NSGA2']
+	Features Combinations: ['Mov-Lum' 'Mov-Or' 'Or-Lum']
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Mov-Lum : 
+============================================================================
+Log Statistics for: test input count
+Comparing: GA-Heatmap,GA-Input.
+ 	 p-Value 15.0 - 0.008926792618894766 
+ 	 A12 0.150000 - large 
+Comparing: GA-Heatmap,GA-Latent.
+ 	 p-Value 10.0 - 0.0027859446415680706 
+ 	 A12 0.100000 - large 
+Comparing: GA-Heatmap,NSGA2-Heatmap.
+ 	 p-Value 19.5 - 0.023134585695487334 
+ 	 A12 0.195000 - large 
+Comparing: GA-Heatmap,NSGA2-Input.
+ 	 p-Value 32.5 - 0.1982578062948097 
+ 	 A12 0.325000 - medium 
+Comparing: GA-Heatmap,NSGA2-Latent.
+ 	 p-Value 13.0 - 0.005685557585766341 
+ 	 A12 0.130000 - large 
+Comparing: GA-Input,GA-Latent.
+ 	 p-Value 34.5 - 0.2557641975888 
+ 	 A12 0.345000 - small 
+Comparing: GA-Input,NSGA2-Heatmap.
+ 	 p-Value 63.0 - 0.3439775865600383 
+ 	 A12 0.630000 - small 
+Comparing: GA-Input,NSGA2-Input.
+ 	 p-Value 45.0 - 0.7337299956962472 
+ 	 A12 0.450000 - negligible 
+Comparing: GA-Input,NSGA2-Latent.
+ 	 p-Value 36.0 - 0.3067609561706547 
+ 	 A12 0.360000 - small 
+Comparing: GA-Latent,NSGA2-Heatmap.
+ 	 p-Value 74.0 - 0.07533163202866662 
+ 	 A12 0.740000 - large 
+Comparing: GA-Latent,NSGA2-Input.
+ 	 p-Value 51.0 - 0.9698045577720108 
+ 	 A12 0.510000 - negligible 
+Comparing: GA-Latent,NSGA2-Latent.
+ 	 p-Value 51.5 - 0.9394698244730116 
+ 	 A12 0.515000 - negligible 
+Comparing: NSGA2-Heatmap,NSGA2-Input.
+ 	 p-Value 45.0 - 0.7336336437678685 
+ 	 A12 0.450000 - negligible 
+Comparing: NSGA2-Heatmap,NSGA2-Latent.
+ 	 p-Value 28.0 - 0.10384958179697429 
+ 	 A12 0.280000 - medium 
+Comparing: NSGA2-Input,NSGA2-Latent.
+ 	 p-Value 44.5 - 0.7052456444320859 
+ 	 A12 0.445000 - negligible 
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Mov-Or : 
+============================================================================
+Log Statistics for: test input count
+Comparing: GA-Heatmap,GA-Input.
+ 	 p-Value 12.5 - 0.0045586290217265665 
+ 	 A12 0.125000 - large 
+Comparing: GA-Heatmap,GA-Latent.
+ 	 p-Value 14.5 - 0.007889541738477824 
+ 	 A12 0.145000 - large 
+Comparing: GA-Heatmap,NSGA2-Heatmap.
+ 	 p-Value 48.5 - 0.939606870353425 
+ 	 A12 0.485000 - negligible 
+Comparing: GA-Heatmap,NSGA2-Input.
+ 	 p-Value 17.5 - 0.014718562753240261 
+ 	 A12 0.175000 - large 
+Comparing: GA-Heatmap,NSGA2-Latent.
+ 	 p-Value 21.0 - 0.02975993525926798 
+ 	 A12 0.210000 - large 
+Comparing: GA-Input,GA-Latent.
+ 	 p-Value 62.5 - 0.3484658075596955 
+ 	 A12 0.625000 - small 
+Comparing: GA-Input,NSGA2-Heatmap.
+ 	 p-Value 92.0 - 0.0015401424069443293 
+ 	 A12 0.920000 - large 
+Comparing: GA-Input,NSGA2-Input.
+ 	 p-Value 63.0 - 0.32165214875581327 
+ 	 A12 0.630000 - small 
+Comparing: GA-Input,NSGA2-Latent.
+ 	 p-Value 66.0 - 0.21909996461320014 
+ 	 A12 0.660000 - small 
+Comparing: GA-Latent,NSGA2-Heatmap.
+ 	 p-Value 92.0 - 0.0016721520347847427 
+ 	 A12 0.920000 - large 
+Comparing: GA-Latent,NSGA2-Input.
+ 	 p-Value 53.0 - 0.8468876804079128 
+ 	 A12 0.530000 - negligible 
+Comparing: GA-Latent,NSGA2-Latent.
+ 	 p-Value 56.0 - 0.6709822897360269 
+ 	 A12 0.560000 - negligible 
+Comparing: NSGA2-Heatmap,NSGA2-Input.
+ 	 p-Value 13.5 - 0.006262619150169513 
+ 	 A12 0.135000 - large 
+Comparing: NSGA2-Heatmap,NSGA2-Latent.
+ 	 p-Value 19.5 - 0.022567134388625783 
+ 	 A12 0.195000 - large 
+Comparing: NSGA2-Input,NSGA2-Latent.
+ 	 p-Value 51.0 - 0.9688507583764889 
+ 	 A12 0.510000 - negligible 
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Or-Lum : 
+============================================================================
+Log Statistics for: test input count
+Comparing: GA-Heatmap,GA-Input.
+ 	 p-Value 20.0 - 0.025193588674820015 
+ 	 A12 0.200000 - large 
+Comparing: GA-Heatmap,GA-Latent.
+ 	 p-Value 33.0 - 0.21212191786139534 
+ 	 A12 0.330000 - medium 
+Comparing: GA-Heatmap,NSGA2-Heatmap.
+ 	 p-Value 68.5 - 0.17313184279928717 
+ 	 A12 0.685000 - medium 
+Comparing: GA-Heatmap,NSGA2-Input.
+ 	 p-Value 85.0 - 0.009082426667640772 
+ 	 A12 0.850000 - large 
+Comparing: GA-Heatmap,NSGA2-Latent.
+ 	 p-Value 33.0 - 0.21126092482502423 
+ 	 A12 0.330000 - medium 
+Comparing: GA-Input,GA-Latent.
+ 	 p-Value 71.5 - 0.11146452624631818 
+ 	 A12 0.715000 - medium 
+Comparing: GA-Input,NSGA2-Heatmap.
+ 	 p-Value 91.5 - 0.0018942945584748188 
+ 	 A12 0.915000 - large 
+Comparing: GA-Input,NSGA2-Input.
+ 	 p-Value 94.5 - 0.0008533777298724805 
+ 	 A12 0.945000 - large 
+Comparing: GA-Input,NSGA2-Latent.
+ 	 p-Value 64.0 - 0.3025300306832158 
+ 	 A12 0.640000 - small 
+Comparing: GA-Latent,NSGA2-Heatmap.
+ 	 p-Value 87.0 - 0.005776978583674299 
+ 	 A12 0.870000 - large 
+Comparing: GA-Latent,NSGA2-Input.
+ 	 p-Value 91.5 - 0.001916926245372578 
+ 	 A12 0.915000 - large 
+Comparing: GA-Latent,NSGA2-Latent.
+ 	 p-Value 43.0 - 0.6223900254290324 
+ 	 A12 0.430000 - negligible 
+Comparing: NSGA2-Heatmap,NSGA2-Input.
+ 	 p-Value 72.0 - 0.10397974445898675 
+ 	 A12 0.720000 - medium 
+Comparing: NSGA2-Heatmap,NSGA2-Latent.
+ 	 p-Value 17.5 - 0.015370380887123393 
+ 	 A12 0.175000 - large 
+Comparing: NSGA2-Input,NSGA2-Latent.
+ 	 p-Value 10.5 - 0.003151445071291205 
+ 	 A12 0.105000 - large 
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Mov-Lum : 
+============================================================================
+Log Statistics for: num tsne clusters
+Comparing: GA-Heatmap,GA-Input.
+ 	 p-Value 36.0 - 0.3054808970016155 
+ 	 A12 0.360000 - small 
+Comparing: GA-Heatmap,GA-Latent.
+ 	 p-Value 35.0 - 0.27213326199524046 
+ 	 A12 0.350000 - small 
+Comparing: GA-Heatmap,NSGA2-Heatmap.
+ 	 p-Value 37.0 - 0.3425173739885067 
+ 	 A12 0.370000 - small 
+Comparing: GA-Heatmap,NSGA2-Input.
+ 	 p-Value 34.5 - 0.2548651295959251 
+ 	 A12 0.345000 - small 
+Comparing: GA-Heatmap,NSGA2-Latent.
+ 	 p-Value 31.5 - 0.1702056994347343 
+ 	 A12 0.315000 - medium 
+Comparing: GA-Input,GA-Latent.
+ 	 p-Value 47.0 - 0.8493210400200102 
+ 	 A12 0.470000 - negligible 
+Comparing: GA-Input,NSGA2-Heatmap.
+ 	 p-Value 53.0 - 0.8494904440333779 
+ 	 A12 0.530000 - negligible 
+Comparing: GA-Input,NSGA2-Input.
+ 	 p-Value 44.0 - 0.6759715637102298 
+ 	 A12 0.440000 - negligible 
+Comparing: GA-Input,NSGA2-Latent.
+ 	 p-Value 43.0 - 0.6204028580444134 
+ 	 A12 0.430000 - negligible 
+Comparing: GA-Latent,NSGA2-Heatmap.
+ 	 p-Value 61.0 - 0.4264846218865175 
+ 	 A12 0.610000 - small 
+Comparing: GA-Latent,NSGA2-Input.
+ 	 p-Value 37.5 - 0.36271726273854765 
+ 	 A12 0.375000 - small 
+Comparing: GA-Latent,NSGA2-Latent.
+ 	 p-Value 44.0 - 0.676203530099396 
+ 	 A12 0.440000 - negligible 
+Comparing: NSGA2-Heatmap,NSGA2-Input.
+ 	 p-Value 35.5 - 0.2879160744723901 
+ 	 A12 0.355000 - small 
+Comparing: NSGA2-Heatmap,NSGA2-Latent.
+ 	 p-Value 35.5 - 0.28608212723292936 
+ 	 A12 0.355000 - small 
+Comparing: NSGA2-Input,NSGA2-Latent.
+ 	 p-Value 58.5 - 0.5421435508900526 
+ 	 A12 0.585000 - small 
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Mov-Or : 
+============================================================================
+Log Statistics for: num tsne clusters
+Comparing: GA-Heatmap,GA-Input.
+ 	 p-Value 20.5 - 0.028306043228323398 
+ 	 A12 0.205000 - large 
+Comparing: GA-Heatmap,GA-Latent.
+ 	 p-Value 17.5 - 0.015525521661179775 
+ 	 A12 0.175000 - large 
+Comparing: GA-Heatmap,NSGA2-Heatmap.
+ 	 p-Value 56.5 - 0.6500246299061012 
+ 	 A12 0.565000 - negligible 
+Comparing: GA-Heatmap,NSGA2-Input.
+ 	 p-Value 21.5 - 0.034226150579334216 
+ 	 A12 0.215000 - large 
+Comparing: GA-Heatmap,NSGA2-Latent.
+ 	 p-Value 24.5 - 0.05868668127026371 
+ 	 A12 0.245000 - large 
+Comparing: GA-Input,GA-Latent.
+ 	 p-Value 48.5 - 0.9396750451437452 
+ 	 A12 0.485000 - negligible 
+Comparing: GA-Input,NSGA2-Heatmap.
+ 	 p-Value 86.5 - 0.006481595171709044 
+ 	 A12 0.865000 - large 
+Comparing: GA-Input,NSGA2-Input.
+ 	 p-Value 56.0 - 0.6775849579524755 
+ 	 A12 0.560000 - negligible 
+Comparing: GA-Input,NSGA2-Latent.
+ 	 p-Value 60.5 - 0.44952132576702597 
+ 	 A12 0.605000 - small 
+Comparing: GA-Latent,NSGA2-Heatmap.
+ 	 p-Value 88.0 - 0.004586392080253494 
+ 	 A12 0.880000 - large 
+Comparing: GA-Latent,NSGA2-Input.
+ 	 p-Value 63.0 - 0.3447042220069576 
+ 	 A12 0.630000 - small 
+Comparing: GA-Latent,NSGA2-Latent.
+ 	 p-Value 55.0 - 0.7337299956962472 
+ 	 A12 0.550000 - negligible 
+Comparing: NSGA2-Heatmap,NSGA2-Input.
+ 	 p-Value 15.5 - 0.01013686767857482 
+ 	 A12 0.155000 - large 
+Comparing: NSGA2-Heatmap,NSGA2-Latent.
+ 	 p-Value 18.5 - 0.019064814681934283 
+ 	 A12 0.185000 - large 
+Comparing: NSGA2-Input,NSGA2-Latent.
+ 	 p-Value 52.0 - 0.9096542252801711 
+ 	 A12 0.520000 - negligible 
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Or-Lum : 
+============================================================================
+Log Statistics for: num tsne clusters
+Comparing: GA-Heatmap,GA-Input.
+ 	 p-Value 26.5 - 0.08198366564857765 
+ 	 A12 0.265000 - medium 
+Comparing: GA-Heatmap,GA-Latent.
+ 	 p-Value 37.0 - 0.3447042220069576 
+ 	 A12 0.370000 - small 
+Comparing: GA-Heatmap,NSGA2-Heatmap.
+ 	 p-Value 68.5 - 0.17345557371239162 
+ 	 A12 0.685000 - medium 
+Comparing: GA-Heatmap,NSGA2-Input.
+ 	 p-Value 82.5 - 0.015525521661179775 
+ 	 A12 0.825000 - large 
+Comparing: GA-Heatmap,NSGA2-Latent.
+ 	 p-Value 45.0 - 0.7335371872311481 
+ 	 A12 0.450000 - negligible 
+Comparing: GA-Input,GA-Latent.
+ 	 p-Value 57.0 - 0.6231762238821174 
+ 	 A12 0.570000 - negligible 
+Comparing: GA-Input,NSGA2-Heatmap.
+ 	 p-Value 82.5 - 0.015525521661179775 
+ 	 A12 0.825000 - large 
+Comparing: GA-Input,NSGA2-Input.
+ 	 p-Value 87.5 - 0.005142183619730188 
+ 	 A12 0.875000 - large 
+Comparing: GA-Input,NSGA2-Latent.
+ 	 p-Value 74.5 - 0.06932757543362658 
+ 	 A12 0.745000 - large 
+Comparing: GA-Latent,NSGA2-Heatmap.
+ 	 p-Value 77.0 - 0.04515456962427901 
+ 	 A12 0.770000 - large 
+Comparing: GA-Latent,NSGA2-Input.
+ 	 p-Value 82.0 - 0.017257456083119765 
+ 	 A12 0.820000 - large 
+Comparing: GA-Latent,NSGA2-Latent.
+ 	 p-Value 60.0 - 0.47267559351158717 
+ 	 A12 0.600000 - small 
+Comparing: NSGA2-Heatmap,NSGA2-Input.
+ 	 p-Value 70.0 - 0.1401665724324623 
+ 	 A12 0.700000 - medium 
+Comparing: NSGA2-Heatmap,NSGA2-Latent.
+ 	 p-Value 26.0 - 0.07544160545694574 
+ 	 A12 0.260000 - large 
+Comparing: NSGA2-Input,NSGA2-Latent.
+ 	 p-Value 15.5 - 0.01013686767857482 
+ 	 A12 0.155000 - large 
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Mov-Lum : 
+============================================================================
+Log Statistics for: test input count in target
+Comparing: GA-Heatmap,GA-Input.
+ 	 p-Value 2.0 - 0.00020748681910326696 
+ 	 A12 0.020000 - large 
+Comparing: GA-Heatmap,GA-Latent.
+ 	 p-Value 6.0 - 0.0005598695176965334 
+ 	 A12 0.060000 - large 
+Comparing: GA-Heatmap,NSGA2-Heatmap.
+ 	 p-Value 38.0 - 0.3067071631457299 
+ 	 A12 0.380000 - small 
+Comparing: GA-Heatmap,NSGA2-Input.
+ 	 p-Value 36.5 - 0.22541430512718263 
+ 	 A12 0.365000 - small 
+Comparing: GA-Heatmap,NSGA2-Latent.
+ 	 p-Value 2.0 - 0.00020626949365999743 
+ 	 A12 0.020000 - large 
+Comparing: GA-Input,GA-Latent.
+ 	 p-Value 34.5 - 0.2557641975888 
+ 	 A12 0.345000 - small 
+Comparing: GA-Input,NSGA2-Heatmap.
+ 	 p-Value 97.5 - 0.0003261067893445474 
+ 	 A12 0.975000 - large 
+Comparing: GA-Input,NSGA2-Input.
+ 	 p-Value 69.0 - 0.15641254267416888 
+ 	 A12 0.690000 - medium 
+Comparing: GA-Input,NSGA2-Latent.
+ 	 p-Value 39.5 - 0.4490089734245807 
+ 	 A12 0.395000 - small 
+Comparing: GA-Latent,NSGA2-Heatmap.
+ 	 p-Value 92.5 - 0.0012597296650271525 
+ 	 A12 0.925000 - large 
+Comparing: GA-Latent,NSGA2-Input.
+ 	 p-Value 67.5 - 0.1886552466090623 
+ 	 A12 0.675000 - medium 
+Comparing: GA-Latent,NSGA2-Latent.
+ 	 p-Value 53.0 - 0.8496030631485854 
+ 	 A12 0.530000 - negligible 
+Comparing: NSGA2-Heatmap,NSGA2-Input.
+ 	 p-Value 46.0 - 0.771714414882099 
+ 	 A12 0.460000 - negligible 
+Comparing: NSGA2-Heatmap,NSGA2-Latent.
+ 	 p-Value 3.0 - 0.00037349756847635413 
+ 	 A12 0.030000 - large 
+Comparing: NSGA2-Input,NSGA2-Latent.
+ 	 p-Value 28.0 - 0.09902206428960078 
+ 	 A12 0.280000 - medium 
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Mov-Or : 
+============================================================================
+Log Statistics for: test input count in target
+Comparing: GA-Heatmap,GA-Input.
+ 	 p-Value 40.0 - 0.16807831903497028 
+ 	 A12 0.400000 - small 
+Comparing: GA-Heatmap,GA-Latent.
+ 	 p-Value 25.0 - 0.014931389578798809 
+ 	 A12 0.250000 - large 
+Comparing: GA-Heatmap,NSGA2-Heatmap.
+ 	 p-Value 35.0 - 0.07787247147704081 
+ 	 A12 0.350000 - small 
+Comparing: GA-Heatmap,NSGA2-Input.
+ 	 p-Value 40.0 - 0.16807831903497028 
+ 	 A12 0.400000 - small 
+Comparing: GA-Heatmap,NSGA2-Latent.
+ 	 p-Value 35.0 - 0.07758329748513153 
+ 	 A12 0.350000 - small 
+Comparing: GA-Input,GA-Latent.
+ 	 p-Value 34.5 - 0.1831321959549227 
+ 	 A12 0.345000 - small 
+Comparing: GA-Input,NSGA2-Heatmap.
+ 	 p-Value 46.0 - 0.7280505911468842 
+ 	 A12 0.460000 - negligible 
+Comparing: GA-Input,NSGA2-Input.
+ 	 p-Value 51.0 - 0.9568829891119314 
+ 	 A12 0.510000 - negligible 
+Comparing: GA-Input,NSGA2-Latent.
+ 	 p-Value 47.0 - 0.8037222296889039 
+ 	 A12 0.470000 - negligible 
+Comparing: GA-Latent,NSGA2-Heatmap.
+ 	 p-Value 61.5 - 0.3479709165794257 
+ 	 A12 0.615000 - small 
+Comparing: GA-Latent,NSGA2-Input.
+ 	 p-Value 67.0 - 0.14332190601165704 
+ 	 A12 0.670000 - medium 
+Comparing: GA-Latent,NSGA2-Latent.
+ 	 p-Value 66.0 - 0.185587441952772 
+ 	 A12 0.660000 - small 
+Comparing: NSGA2-Heatmap,NSGA2-Input.
+ 	 p-Value 55.5 - 0.6191428547313992 
+ 	 A12 0.555000 - negligible 
+Comparing: NSGA2-Heatmap,NSGA2-Latent.
+ 	 p-Value 52.5 - 0.8518002992091775 
+ 	 A12 0.525000 - negligible 
+Comparing: NSGA2-Input,NSGA2-Latent.
+ 	 p-Value 47.0 - 0.8037222296889039 
+ 	 A12 0.470000 - negligible 
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Or-Lum : 
+============================================================================
+Log Statistics for: test input count in target
+Comparing: GA-Heatmap,GA-Input.
+ 	 p-Value 12.5 - 0.0051087270583224445 
+ 	 A12 0.125000 - large 
+Comparing: GA-Heatmap,GA-Latent.
+ 	 p-Value 19.0 - 0.020843820995778223 
+ 	 A12 0.190000 - large 
+Comparing: GA-Heatmap,NSGA2-Heatmap.
+ 	 p-Value 60.5 - 0.4476357973481361 
+ 	 A12 0.605000 - small 
+Comparing: GA-Heatmap,NSGA2-Input.
+ 	 p-Value 67.0 - 0.2083160142115773 
+ 	 A12 0.670000 - medium 
+Comparing: GA-Heatmap,NSGA2-Latent.
+ 	 p-Value 38.5 - 0.40390601442593044 
+ 	 A12 0.385000 - small 
+Comparing: GA-Input,GA-Latent.
+ 	 p-Value 46.0 - 0.7912601064031788 
+ 	 A12 0.460000 - negligible 
+Comparing: GA-Input,NSGA2-Heatmap.
+ 	 p-Value 93.0 - 0.001271197210767016 
+ 	 A12 0.930000 - large 
+Comparing: GA-Input,NSGA2-Input.
+ 	 p-Value 89.0 - 0.003473040978755118 
+ 	 A12 0.890000 - large 
+Comparing: GA-Input,NSGA2-Latent.
+ 	 p-Value 71.5 - 0.11187012445676653 
+ 	 A12 0.715000 - medium 
+Comparing: GA-Latent,NSGA2-Heatmap.
+ 	 p-Value 82.5 - 0.015254465766944808 
+ 	 A12 0.825000 - large 
+Comparing: GA-Latent,NSGA2-Input.
+ 	 p-Value 84.0 - 0.010722346924839372 
+ 	 A12 0.840000 - large 
+Comparing: GA-Latent,NSGA2-Latent.
+ 	 p-Value 66.0 - 0.23954704214502698 
+ 	 A12 0.660000 - small 
+Comparing: NSGA2-Heatmap,NSGA2-Input.
+ 	 p-Value 58.5 - 0.5388691159513892 
+ 	 A12 0.585000 - small 
+Comparing: NSGA2-Heatmap,NSGA2-Latent.
+ 	 p-Value 34.5 - 0.2536015468059707 
+ 	 A12 0.345000 - small 
+Comparing: NSGA2-Input,NSGA2-Latent.
+ 	 p-Value 30.5 - 0.14520753309526996 
+ 	 A12 0.305000 - medium 
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Mov-Lum : 
+============================================================================
+Log Statistics for: target num tsne clusters
+Comparing: GA-Heatmap,GA-Input.
+ 	 p-Value 6.0 - 0.0006603480926725277 
+ 	 A12 0.060000 - large 
+Comparing: GA-Heatmap,GA-Latent.
+ 	 p-Value 11.0 - 0.002231521319858501 
+ 	 A12 0.110000 - large 
+Comparing: GA-Heatmap,NSGA2-Heatmap.
+ 	 p-Value 33.5 - 0.15477397523516848 
+ 	 A12 0.335000 - small 
+Comparing: GA-Heatmap,NSGA2-Input.
+ 	 p-Value 40.0 - 0.3759553785047234 
+ 	 A12 0.400000 - small 
+Comparing: GA-Heatmap,NSGA2-Latent.
+ 	 p-Value 5.0 - 0.0004491416668488636 
+ 	 A12 0.050000 - large 
+Comparing: GA-Input,GA-Latent.
+ 	 p-Value 50.5 - 1.0 
+ 	 A12 0.505000 - negligible 
+Comparing: GA-Input,NSGA2-Heatmap.
+ 	 p-Value 73.0 - 0.08320440737546349 
+ 	 A12 0.730000 - medium 
+Comparing: GA-Input,NSGA2-Input.
+ 	 p-Value 85.0 - 0.008070487403340642 
+ 	 A12 0.850000 - large 
+Comparing: GA-Input,NSGA2-Latent.
+ 	 p-Value 40.0 - 0.4631036183631356 
+ 	 A12 0.400000 - small 
+Comparing: GA-Latent,NSGA2-Heatmap.
+ 	 p-Value 69.0 - 0.15352392223176695 
+ 	 A12 0.690000 - medium 
+Comparing: GA-Latent,NSGA2-Input.
+ 	 p-Value 79.5 - 0.024929219632857002 
+ 	 A12 0.795000 - large 
+Comparing: GA-Latent,NSGA2-Latent.
+ 	 p-Value 41.0 - 0.5116620062832967 
+ 	 A12 0.410000 - small 
+Comparing: NSGA2-Heatmap,NSGA2-Input.
+ 	 p-Value 60.5 - 0.40585533724248357 
+ 	 A12 0.605000 - small 
+Comparing: NSGA2-Heatmap,NSGA2-Latent.
+ 	 p-Value 22.5 - 0.03718308373487623 
+ 	 A12 0.225000 - large 
+Comparing: NSGA2-Input,NSGA2-Latent.
+ 	 p-Value 10.5 - 0.0026544831054955264 
+ 	 A12 0.105000 - large 
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Mov-Or : 
+============================================================================
+Log Statistics for: target num tsne clusters
+Comparing: GA-Heatmap,GA-Input.
+ 	 p-Value 40.0 - 0.16748875557485465 
+ 	 A12 0.400000 - small 
+Comparing: GA-Heatmap,GA-Latent.
+ 	 p-Value 25.0 - 0.01428562147054283 
+ 	 A12 0.250000 - large 
+Comparing: GA-Heatmap,NSGA2-Heatmap.
+ 	 p-Value 35.0 - 0.07758329748513153 
+ 	 A12 0.350000 - small 
+Comparing: GA-Heatmap,NSGA2-Input.
+ 	 p-Value 40.0 - 0.16807831903497028 
+ 	 A12 0.400000 - small 
+Comparing: GA-Heatmap,NSGA2-Latent.
+ 	 p-Value 35.0 - 0.07758329748513153 
+ 	 A12 0.350000 - small 
+Comparing: GA-Input,GA-Latent.
+ 	 p-Value 31.0 - 0.09834078156223833 
+ 	 A12 0.310000 - medium 
+Comparing: GA-Input,NSGA2-Heatmap.
+ 	 p-Value 43.0 - 0.5170675255199431 
+ 	 A12 0.430000 - negligible 
+Comparing: GA-Input,NSGA2-Input.
+ 	 p-Value 49.0 - 0.9567498363337371 
+ 	 A12 0.490000 - negligible 
+Comparing: GA-Input,NSGA2-Latent.
+ 	 p-Value 46.0 - 0.7263386976487618 
+ 	 A12 0.460000 - negligible 
+Comparing: GA-Latent,NSGA2-Heatmap.
+ 	 p-Value 61.0 - 0.36191132736956044 
+ 	 A12 0.610000 - small 
+Comparing: GA-Latent,NSGA2-Input.
+ 	 p-Value 66.5 - 0.15132572887952783 
+ 	 A12 0.665000 - medium 
+Comparing: GA-Latent,NSGA2-Latent.
+ 	 p-Value 66.5 - 0.16932242627025484 
+ 	 A12 0.665000 - medium 
+Comparing: NSGA2-Heatmap,NSGA2-Input.
+ 	 p-Value 55.5 - 0.6182279750202075 
+ 	 A12 0.555000 - negligible 
+Comparing: NSGA2-Heatmap,NSGA2-Latent.
+ 	 p-Value 53.5 - 0.7791753842402162 
+ 	 A12 0.535000 - negligible 
+Comparing: NSGA2-Input,NSGA2-Latent.
+ 	 p-Value 47.0 - 0.8033461131219807 
+ 	 A12 0.470000 - negligible 
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Or-Lum : 
+============================================================================
+Log Statistics for: target num tsne clusters
+Comparing: GA-Heatmap,GA-Input.
+ 	 p-Value 41.5 - 0.45070078042613604 
+ 	 A12 0.415000 - small 
+Comparing: GA-Heatmap,GA-Latent.
+ 	 p-Value 36.5 - 0.26940911434504855 
+ 	 A12 0.365000 - small 
+Comparing: GA-Heatmap,NSGA2-Heatmap.
+ 	 p-Value 58.5 - 0.45385157484498273 
+ 	 A12 0.585000 - small 
+Comparing: GA-Heatmap,NSGA2-Input.
+ 	 p-Value 71.0 - 0.06600052971392922 
+ 	 A12 0.710000 - medium 
+Comparing: GA-Heatmap,NSGA2-Latent.
+ 	 p-Value 54.0 - 0.7544930115071693 
+ 	 A12 0.540000 - negligible 
+Comparing: GA-Input,GA-Latent.
+ 	 p-Value 43.5 - 0.6055766163353462 
+ 	 A12 0.435000 - negligible 
+Comparing: GA-Input,NSGA2-Heatmap.
+ 	 p-Value 67.0 - 0.12173996727957703 
+ 	 A12 0.670000 - medium 
+Comparing: GA-Input,NSGA2-Input.
+ 	 p-Value 79.0 - 0.010882840402413997 
+ 	 A12 0.790000 - large 
+Comparing: GA-Input,NSGA2-Latent.
+ 	 p-Value 62.0 - 0.30239602324246084 
+ 	 A12 0.620000 - small 
+Comparing: GA-Latent,NSGA2-Heatmap.
+ 	 p-Value 70.5 - 0.09203188003358147 
+ 	 A12 0.705000 - medium 
+Comparing: GA-Latent,NSGA2-Input.
+ 	 p-Value 80.0 - 0.01532232839176753 
+ 	 A12 0.800000 - large 
+Comparing: GA-Latent,NSGA2-Latent.
+ 	 p-Value 66.0 - 0.19863283867584214 
+ 	 A12 0.660000 - small 
+Comparing: NSGA2-Heatmap,NSGA2-Input.
+ 	 p-Value 63.0 - 0.2587355089356812 
+ 	 A12 0.630000 - small 
+Comparing: NSGA2-Heatmap,NSGA2-Latent.
+ 	 p-Value 46.0 - 0.7544930115071693 
+ 	 A12 0.460000 - negligible 
+Comparing: NSGA2-Input,NSGA2-Latent.
+ 	 p-Value 34.0 - 0.1783393318181613 
+ 	 A12 0.340000 - small 
+Plot stored to  ./plots/RQ1-MNIST-dark.pdf
+Loaded data for: ['GA' 'NSGA2']
+	Features Combinations: ['Mov-Lum' 'Mov-Or' 'Or-Lum']
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Mov-Lum : 
+============================================================================
+Log Statistics for: test input count
+Comparing: GA-Heatmap,GA-Input.
+ 	 p-Value 8.5 - 0.0018495403868602751 
+ 	 A12 0.085000 - large 
+Comparing: GA-Heatmap,GA-Latent.
+ 	 p-Value 23.0 - 0.04346474122964609 
+ 	 A12 0.230000 - large 
+Comparing: GA-Heatmap,NSGA2-Heatmap.
+ 	 p-Value 18.5 - 0.018437782423544827 
+ 	 A12 0.185000 - large 
+Comparing: GA-Heatmap,NSGA2-Input.
+ 	 p-Value 43.0 - 0.6155030584780999 
+ 	 A12 0.430000 - negligible 
+Comparing: GA-Heatmap,NSGA2-Latent.
+ 	 p-Value 14.5 - 0.0077721586698753 
+ 	 A12 0.145000 - large 
+Comparing: GA-Input,GA-Latent.
+ 	 p-Value 77.5 - 0.04079302705072225 
+ 	 A12 0.775000 - large 
+Comparing: GA-Input,NSGA2-Heatmap.
+ 	 p-Value 90.5 - 0.002459557776257098 
+ 	 A12 0.905000 - large 
+Comparing: GA-Input,NSGA2-Input.
+ 	 p-Value 71.0 - 0.11827968185461246 
+ 	 A12 0.710000 - medium 
+Comparing: GA-Input,NSGA2-Latent.
+ 	 p-Value 37.0 - 0.3432486410104163 
+ 	 A12 0.370000 - small 
+Comparing: GA-Latent,NSGA2-Heatmap.
+ 	 p-Value 63.5 - 0.323925591129819 
+ 	 A12 0.635000 - small 
+Comparing: GA-Latent,NSGA2-Input.
+ 	 p-Value 58.0 - 0.5655908910667207 
+ 	 A12 0.580000 - small 
+Comparing: GA-Latent,NSGA2-Latent.
+ 	 p-Value 22.0 - 0.037204801252293335 
+ 	 A12 0.220000 - large 
+Comparing: NSGA2-Heatmap,NSGA2-Input.
+ 	 p-Value 59.0 - 0.517036246660338 
+ 	 A12 0.590000 - small 
+Comparing: NSGA2-Heatmap,NSGA2-Latent.
+ 	 p-Value 18.5 - 0.018884808514768023 
+ 	 A12 0.185000 - large 
+Comparing: NSGA2-Input,NSGA2-Latent.
+ 	 p-Value 21.0 - 0.02963494331365379 
+ 	 A12 0.210000 - large 
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Mov-Or : 
+============================================================================
+Log Statistics for: test input count
+Comparing: GA-Heatmap,GA-Input.
+ 	 p-Value 42.0 - 0.5580464825811369 
+ 	 A12 0.420000 - small 
+Comparing: GA-Heatmap,GA-Latent.
+ 	 p-Value 47.0 - 0.8451983848066009 
+ 	 A12 0.470000 - negligible 
+Comparing: GA-Heatmap,NSGA2-Heatmap.
+ 	 p-Value 33.5 - 0.2240219773777482 
+ 	 A12 0.335000 - small 
+Comparing: GA-Heatmap,NSGA2-Input.
+ 	 p-Value 36.0 - 0.30290080698100874 
+ 	 A12 0.360000 - small 
+Comparing: GA-Heatmap,NSGA2-Latent.
+ 	 p-Value 29.5 - 0.12825114084856987 
+ 	 A12 0.295000 - medium 
+Comparing: GA-Input,GA-Latent.
+ 	 p-Value 52.0 - 0.9067418848182115 
+ 	 A12 0.520000 - negligible 
+Comparing: GA-Input,NSGA2-Heatmap.
+ 	 p-Value 48.0 - 0.9093478440058081 
+ 	 A12 0.480000 - negligible 
+Comparing: GA-Input,NSGA2-Input.
+ 	 p-Value 52.0 - 0.9089691107476919 
+ 	 A12 0.520000 - negligible 
+Comparing: GA-Input,NSGA2-Latent.
+ 	 p-Value 42.0 - 0.5690020791220465 
+ 	 A12 0.420000 - small 
+Comparing: GA-Latent,NSGA2-Heatmap.
+ 	 p-Value 44.0 - 0.6763193268966651 
+ 	 A12 0.440000 - negligible 
+Comparing: GA-Latent,NSGA2-Input.
+ 	 p-Value 43.0 - 0.6200016574954929 
+ 	 A12 0.430000 - negligible 
+Comparing: GA-Latent,NSGA2-Latent.
+ 	 p-Value 37.5 - 0.3619894495573145 
+ 	 A12 0.375000 - small 
+Comparing: NSGA2-Heatmap,NSGA2-Input.
+ 	 p-Value 49.5 - 1.0 
+ 	 A12 0.495000 - negligible 
+Comparing: NSGA2-Heatmap,NSGA2-Latent.
+ 	 p-Value 37.5 - 0.36362367124334105 
+ 	 A12 0.375000 - small 
+Comparing: NSGA2-Input,NSGA2-Latent.
+ 	 p-Value 39.0 - 0.4252590976307652 
+ 	 A12 0.390000 - small 
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Or-Lum : 
+============================================================================
+Log Statistics for: test input count
+Comparing: GA-Heatmap,GA-Input.
+ 	 p-Value 30.5 - 0.14846268248465727 
+ 	 A12 0.305000 - medium 
+Comparing: GA-Heatmap,GA-Latent.
+ 	 p-Value 52.0 - 0.9088997388029892 
+ 	 A12 0.520000 - negligible 
+Comparing: GA-Heatmap,NSGA2-Heatmap.
+ 	 p-Value 8.0 - 0.0016384943707788023 
+ 	 A12 0.080000 - large 
+Comparing: GA-Heatmap,NSGA2-Input.
+ 	 p-Value 12.0 - 0.004495124841870175 
+ 	 A12 0.120000 - large 
+Comparing: GA-Heatmap,NSGA2-Latent.
+ 	 p-Value 17.0 - 0.013554250029758576 
+ 	 A12 0.170000 - large 
+Comparing: GA-Input,GA-Latent.
+ 	 p-Value 62.5 - 0.36052660689201976 
+ 	 A12 0.625000 - small 
+Comparing: GA-Input,NSGA2-Heatmap.
+ 	 p-Value 10.0 - 0.002775670420071866 
+ 	 A12 0.100000 - large 
+Comparing: GA-Input,NSGA2-Input.
+ 	 p-Value 23.0 - 0.04491231241098703 
+ 	 A12 0.230000 - large 
+Comparing: GA-Input,NSGA2-Latent.
+ 	 p-Value 34.0 - 0.2382983753153164 
+ 	 A12 0.340000 - small 
+Comparing: GA-Latent,NSGA2-Heatmap.
+ 	 p-Value 16.0 - 0.011084846678352392 
+ 	 A12 0.160000 - large 
+Comparing: GA-Latent,NSGA2-Input.
+ 	 p-Value 19.0 - 0.020940353653959364 
+ 	 A12 0.190000 - large 
+Comparing: GA-Latent,NSGA2-Latent.
+ 	 p-Value 23.5 - 0.04817268180968322 
+ 	 A12 0.235000 - large 
+Comparing: NSGA2-Heatmap,NSGA2-Input.
+ 	 p-Value 60.5 - 0.4476357973481361 
+ 	 A12 0.605000 - small 
+Comparing: NSGA2-Heatmap,NSGA2-Latent.
+ 	 p-Value 73.5 - 0.08106336915577773 
+ 	 A12 0.735000 - medium 
+Comparing: NSGA2-Input,NSGA2-Latent.
+ 	 p-Value 58.5 - 0.5438313160227017 
+ 	 A12 0.585000 - small 
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Mov-Lum : 
+============================================================================
+Log Statistics for: num tsne clusters
+Comparing: GA-Heatmap,GA-Input.
+ 	 p-Value 21.5 - 0.02786559508611553 
+ 	 A12 0.215000 - large 
+Comparing: GA-Heatmap,GA-Latent.
+ 	 p-Value 35.5 - 0.24217983312109526 
+ 	 A12 0.355000 - small 
+Comparing: GA-Heatmap,NSGA2-Heatmap.
+ 	 p-Value 29.0 - 0.1025116552118774 
+ 	 A12 0.290000 - medium 
+Comparing: GA-Heatmap,NSGA2-Input.
+ 	 p-Value 51.0 - 0.9684949395141869 
+ 	 A12 0.510000 - negligible 
+Comparing: GA-Heatmap,NSGA2-Latent.
+ 	 p-Value 14.5 - 0.006225229835039884 
+ 	 A12 0.145000 - large 
+Comparing: GA-Input,GA-Latent.
+ 	 p-Value 69.0 - 0.1244546763464569 
+ 	 A12 0.690000 - medium 
+Comparing: GA-Input,NSGA2-Heatmap.
+ 	 p-Value 59.5 - 0.4718047589540372 
+ 	 A12 0.595000 - small 
+Comparing: GA-Input,NSGA2-Input.
+ 	 p-Value 74.5 - 0.060670101677053945 
+ 	 A12 0.745000 - large 
+Comparing: GA-Input,NSGA2-Latent.
+ 	 p-Value 34.0 - 0.20646154642216097 
+ 	 A12 0.340000 - small 
+Comparing: GA-Latent,NSGA2-Heatmap.
+ 	 p-Value 42.0 - 0.5210321550987619 
+ 	 A12 0.420000 - small 
+Comparing: GA-Latent,NSGA2-Input.
+ 	 p-Value 62.5 - 0.3250556648696773 
+ 	 A12 0.625000 - small 
+Comparing: GA-Latent,NSGA2-Latent.
+ 	 p-Value 19.5 - 0.016327240277318463 
+ 	 A12 0.195000 - large 
+Comparing: NSGA2-Heatmap,NSGA2-Input.
+ 	 p-Value 69.5 - 0.13403201735491999 
+ 	 A12 0.695000 - medium 
+Comparing: NSGA2-Heatmap,NSGA2-Latent.
+ 	 p-Value 28.0 - 0.08365511264405838 
+ 	 A12 0.280000 - medium 
+Comparing: NSGA2-Input,NSGA2-Latent.
+ 	 p-Value 18.0 - 0.012763758676205309 
+ 	 A12 0.180000 - large 
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Mov-Or : 
+============================================================================
+Log Statistics for: num tsne clusters
+Comparing: GA-Heatmap,GA-Input.
+ 	 p-Value 41.5 - 0.5286108788871167 
+ 	 A12 0.415000 - small 
+Comparing: GA-Heatmap,GA-Latent.
+ 	 p-Value 52.5 - 0.8743670611628918 
+ 	 A12 0.525000 - negligible 
+Comparing: GA-Heatmap,NSGA2-Heatmap.
+ 	 p-Value 34.0 - 0.22737254115861472 
+ 	 A12 0.340000 - small 
+Comparing: GA-Heatmap,NSGA2-Input.
+ 	 p-Value 38.0 - 0.3753584623899683 
+ 	 A12 0.380000 - small 
+Comparing: GA-Heatmap,NSGA2-Latent.
+ 	 p-Value 32.0 - 0.17598171382967243 
+ 	 A12 0.320000 - medium 
+Comparing: GA-Input,GA-Latent.
+ 	 p-Value 61.5 - 0.38547975639236365 
+ 	 A12 0.615000 - small 
+Comparing: GA-Input,NSGA2-Heatmap.
+ 	 p-Value 43.0 - 0.6142482639762159 
+ 	 A12 0.430000 - negligible 
+Comparing: GA-Input,NSGA2-Input.
+ 	 p-Value 49.5 - 1.0 
+ 	 A12 0.495000 - negligible 
+Comparing: GA-Input,NSGA2-Latent.
+ 	 p-Value 42.0 - 0.5619440752989311 
+ 	 A12 0.420000 - small 
+Comparing: GA-Latent,NSGA2-Heatmap.
+ 	 p-Value 31.0 - 0.15336286489381526 
+ 	 A12 0.310000 - medium 
+Comparing: GA-Latent,NSGA2-Input.
+ 	 p-Value 33.0 - 0.1982418156754575 
+ 	 A12 0.330000 - medium 
+Comparing: GA-Latent,NSGA2-Latent.
+ 	 p-Value 27.5 - 0.0889044616369164 
+ 	 A12 0.275000 - medium 
+Comparing: NSGA2-Heatmap,NSGA2-Input.
+ 	 p-Value 53.0 - 0.8469469939935355 
+ 	 A12 0.530000 - negligible 
+Comparing: NSGA2-Heatmap,NSGA2-Latent.
+ 	 p-Value 45.5 - 0.7536837177261574 
+ 	 A12 0.455000 - negligible 
+Comparing: NSGA2-Input,NSGA2-Latent.
+ 	 p-Value 44.5 - 0.7000330333722489 
+ 	 A12 0.445000 - negligible 
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Or-Lum : 
+============================================================================
+Log Statistics for: num tsne clusters
+Comparing: GA-Heatmap,GA-Input.
+ 	 p-Value 50.5 - 1.0 
+ 	 A12 0.505000 - negligible 
+Comparing: GA-Heatmap,GA-Latent.
+ 	 p-Value 57.0 - 0.6122717849588768 
+ 	 A12 0.570000 - negligible 
+Comparing: GA-Heatmap,NSGA2-Heatmap.
+ 	 p-Value 20.0 - 0.02237985065232556 
+ 	 A12 0.200000 - large 
+Comparing: GA-Heatmap,NSGA2-Input.
+ 	 p-Value 29.0 - 0.11277608262525177 
+ 	 A12 0.290000 - medium 
+Comparing: GA-Heatmap,NSGA2-Latent.
+ 	 p-Value 32.0 - 0.17835427314987007 
+ 	 A12 0.320000 - medium 
+Comparing: GA-Input,GA-Latent.
+ 	 p-Value 56.5 - 0.6405619565095443 
+ 	 A12 0.565000 - negligible 
+Comparing: GA-Input,NSGA2-Heatmap.
+ 	 p-Value 19.5 - 0.020449199979642174 
+ 	 A12 0.195000 - large 
+Comparing: GA-Input,NSGA2-Input.
+ 	 p-Value 27.0 - 0.08332462595163907 
+ 	 A12 0.270000 - medium 
+Comparing: GA-Input,NSGA2-Latent.
+ 	 p-Value 32.5 - 0.1922879771115198 
+ 	 A12 0.325000 - medium 
+Comparing: GA-Latent,NSGA2-Heatmap.
+ 	 p-Value 17.5 - 0.013672077072718782 
+ 	 A12 0.175000 - large 
+Comparing: GA-Latent,NSGA2-Input.
+ 	 p-Value 22.5 - 0.037928124043019665 
+ 	 A12 0.225000 - large 
+Comparing: GA-Latent,NSGA2-Latent.
+ 	 p-Value 26.5 - 0.07772870051112145 
+ 	 A12 0.265000 - medium 
+Comparing: NSGA2-Heatmap,NSGA2-Input.
+ 	 p-Value 56.5 - 0.6446183515419359 
+ 	 A12 0.565000 - negligible 
+Comparing: NSGA2-Heatmap,NSGA2-Latent.
+ 	 p-Value 54.0 - 0.7878810232549193 
+ 	 A12 0.540000 - negligible 
+Comparing: NSGA2-Input,NSGA2-Latent.
+ 	 p-Value 48.0 - 0.9085153374917286 
+ 	 A12 0.480000 - negligible 
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Mov-Lum : 
+============================================================================
+Log Statistics for: test input count in target
+Comparing: GA-Heatmap,GA-Input.
+ 	 p-Value 6.0 - 0.0005628370337027687 
+ 	 A12 0.060000 - large 
+Comparing: GA-Heatmap,GA-Latent.
+ 	 p-Value 30.0 - 0.08353660880198063 
+ 	 A12 0.300000 - medium 
+Comparing: GA-Heatmap,NSGA2-Heatmap.
+ 	 p-Value 52.0 - 0.8709541983676061 
+ 	 A12 0.520000 - negligible 
+Comparing: GA-Heatmap,NSGA2-Input.
+ 	 p-Value 60.0 - 0.16748875557485465 
+ 	 A12 0.600000 - small 
+Comparing: GA-Heatmap,NSGA2-Latent.
+ 	 p-Value 30.0 - 0.08353660880198063 
+ 	 A12 0.300000 - medium 
+Comparing: GA-Input,GA-Latent.
+ 	 p-Value 76.0 - 0.05067180892156299 
+ 	 A12 0.760000 - large 
+Comparing: GA-Input,NSGA2-Heatmap.
+ 	 p-Value 94.0 - 0.0005628370337027687 
+ 	 A12 0.940000 - large 
+Comparing: GA-Input,NSGA2-Input.
+ 	 p-Value 95.0 - 0.00023124570864334055 
+ 	 A12 0.950000 - large 
+Comparing: GA-Input,NSGA2-Latent.
+ 	 p-Value 63.5 - 0.31892527331936105 
+ 	 A12 0.635000 - small 
+Comparing: GA-Latent,NSGA2-Heatmap.
+ 	 p-Value 70.0 - 0.08353660880198063 
+ 	 A12 0.700000 - medium 
+Comparing: GA-Latent,NSGA2-Input.
+ 	 p-Value 75.0 - 0.014931389578798809 
+ 	 A12 0.750000 - large 
+Comparing: GA-Latent,NSGA2-Latent.
+ 	 p-Value 42.5 - 0.5718140573849769 
+ 	 A12 0.425000 - small 
+Comparing: NSGA2-Heatmap,NSGA2-Input.
+ 	 p-Value 60.0 - 0.16748875557485465 
+ 	 A12 0.600000 - small 
+Comparing: NSGA2-Heatmap,NSGA2-Latent.
+ 	 p-Value 30.0 - 0.08353660880198063 
+ 	 A12 0.300000 - medium 
+Comparing: NSGA2-Input,NSGA2-Latent.
+ 	 p-Value 25.0 - 0.014931389578798809 
+ 	 A12 0.250000 - large 
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Mov-Or : 
+============================================================================
+Log Statistics for: test input count in target
+Comparing: GA-Heatmap,GA-Input.
+ 	 p-Value 50.0 - 1.0 
+ 	 A12 0.500000 - negligible 
+Comparing: GA-Heatmap,GA-Latent.
+ 	 p-Value 48.0 - 0.8813826390127191 
+ 	 A12 0.480000 - negligible 
+Comparing: GA-Heatmap,NSGA2-Heatmap.
+ 	 p-Value 46.0 - 0.7278808449940147 
+ 	 A12 0.460000 - negligible 
+Comparing: GA-Heatmap,NSGA2-Input.
+ 	 p-Value 50.0 - 1.0 
+ 	 A12 0.500000 - negligible 
+Comparing: GA-Heatmap,NSGA2-Latent.
+ 	 p-Value 37.0 - 0.26655159650300464 
+ 	 A12 0.370000 - small 
+Comparing: GA-Input,GA-Latent.
+ 	 p-Value 48.0 - 0.8814592181823938 
+ 	 A12 0.480000 - negligible 
+Comparing: GA-Input,NSGA2-Heatmap.
+ 	 p-Value 46.0 - 0.7280505911468842 
+ 	 A12 0.460000 - negligible 
+Comparing: GA-Input,NSGA2-Input.
+ 	 p-Value 50.0 - 1.0 
+ 	 A12 0.500000 - negligible 
+Comparing: GA-Input,NSGA2-Latent.
+ 	 p-Value 36.0 - 0.23113699116473263 
+ 	 A12 0.360000 - small 
+Comparing: GA-Latent,NSGA2-Heatmap.
+ 	 p-Value 47.5 - 0.8520519248014127 
+ 	 A12 0.475000 - negligible 
+Comparing: GA-Latent,NSGA2-Input.
+ 	 p-Value 52.0 - 0.8814592181823938 
+ 	 A12 0.520000 - negligible 
+Comparing: GA-Latent,NSGA2-Latent.
+ 	 p-Value 33.5 - 0.17138700455950695 
+ 	 A12 0.335000 - small 
+Comparing: NSGA2-Heatmap,NSGA2-Input.
+ 	 p-Value 53.5 - 0.7655205236997535 
+ 	 A12 0.535000 - negligible 
+Comparing: NSGA2-Heatmap,NSGA2-Latent.
+ 	 p-Value 38.0 - 0.3262658323487414 
+ 	 A12 0.380000 - small 
+Comparing: NSGA2-Input,NSGA2-Latent.
+ 	 p-Value 35.5 - 0.21407874833497254 
+ 	 A12 0.355000 - small 
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Or-Lum : 
+============================================================================
+Log Statistics for: test input count in target
+Comparing: GA-Heatmap,GA-Input.
+ 	 p-Value 23.5 - 0.04454399950703308 
+ 	 A12 0.235000 - large 
+Comparing: GA-Heatmap,GA-Latent.
+ 	 p-Value 34.0 - 0.225512049300037 
+ 	 A12 0.340000 - small 
+Comparing: GA-Heatmap,NSGA2-Heatmap.
+ 	 p-Value 33.5 - 0.2110823802018632 
+ 	 A12 0.335000 - small 
+Comparing: GA-Heatmap,NSGA2-Input.
+ 	 p-Value 35.0 - 0.2564924378606587 
+ 	 A12 0.350000 - small 
+Comparing: GA-Heatmap,NSGA2-Latent.
+ 	 p-Value 48.0 - 0.901221439813786 
+ 	 A12 0.480000 - negligible 
+Comparing: GA-Input,GA-Latent.
+ 	 p-Value 62.5 - 0.36052660689201976 
+ 	 A12 0.625000 - small 
+Comparing: GA-Input,NSGA2-Heatmap.
+ 	 p-Value 66.5 - 0.22243382861412087 
+ 	 A12 0.665000 - medium 
+Comparing: GA-Input,NSGA2-Input.
+ 	 p-Value 57.5 - 0.5936309399603114 
+ 	 A12 0.575000 - small 
+Comparing: GA-Input,NSGA2-Latent.
+ 	 p-Value 68.0 - 0.17136280013730165 
+ 	 A12 0.680000 - medium 
+Comparing: GA-Latent,NSGA2-Heatmap.
+ 	 p-Value 48.5 - 0.9388885888581133 
+ 	 A12 0.485000 - negligible 
+Comparing: GA-Latent,NSGA2-Input.
+ 	 p-Value 53.0 - 0.8478285068142402 
+ 	 A12 0.530000 - negligible 
+Comparing: GA-Latent,NSGA2-Latent.
+ 	 p-Value 61.0 - 0.40532234382219123 
+ 	 A12 0.610000 - small 
+Comparing: NSGA2-Heatmap,NSGA2-Input.
+ 	 p-Value 49.5 - 1.0 
+ 	 A12 0.495000 - negligible 
+Comparing: NSGA2-Heatmap,NSGA2-Latent.
+ 	 p-Value 59.5 - 0.47549354868613214 
+ 	 A12 0.595000 - small 
+Comparing: NSGA2-Input,NSGA2-Latent.
+ 	 p-Value 60.5 - 0.427671283548297 
+ 	 A12 0.605000 - small 
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Mov-Lum : 
+============================================================================
+Log Statistics for: target num tsne clusters
+Comparing: GA-Heatmap,GA-Input.
+ 	 p-Value 8.5 - 0.0009516672780652021 
+ 	 A12 0.085000 - large 
+Comparing: GA-Heatmap,GA-Latent.
+ 	 p-Value 31.5 - 0.10832910673343309 
+ 	 A12 0.315000 - medium 
+Comparing: GA-Heatmap,NSGA2-Heatmap.
+ 	 p-Value 49.0 - 0.9567498363337371 
+ 	 A12 0.490000 - negligible 
+Comparing: GA-Heatmap,NSGA2-Input.
+ 	 p-Value 60.0 - 0.16807831903497028 
+ 	 A12 0.600000 - small 
+Comparing: GA-Heatmap,NSGA2-Latent.
+ 	 p-Value 31.0 - 0.09940051734775564 
+ 	 A12 0.310000 - medium 
+Comparing: GA-Input,GA-Latent.
+ 	 p-Value 74.5 - 0.055215478758081075 
+ 	 A12 0.745000 - large 
+Comparing: GA-Input,NSGA2-Heatmap.
+ 	 p-Value 90.0 - 0.0014209119801024872 
+ 	 A12 0.900000 - large 
+Comparing: GA-Input,NSGA2-Input.
+ 	 p-Value 95.0 - 0.00018155665320006544 
+ 	 A12 0.950000 - large 
+Comparing: GA-Input,NSGA2-Latent.
+ 	 p-Value 70.5 - 0.10622913098501534 
+ 	 A12 0.705000 - medium 
+Comparing: GA-Latent,NSGA2-Heatmap.
+ 	 p-Value 67.0 - 0.13895226832462415 
+ 	 A12 0.670000 - medium 
+Comparing: GA-Latent,NSGA2-Input.
+ 	 p-Value 75.0 - 0.014606942120216154 
+ 	 A12 0.750000 - large 
+Comparing: GA-Latent,NSGA2-Latent.
+ 	 p-Value 47.5 - 0.869428564444158 
+ 	 A12 0.475000 - negligible 
+Comparing: NSGA2-Heatmap,NSGA2-Input.
+ 	 p-Value 60.0 - 0.16748875557485465 
+ 	 A12 0.600000 - small 
+Comparing: NSGA2-Heatmap,NSGA2-Latent.
+ 	 p-Value 32.0 - 0.11791093515215097 
+ 	 A12 0.320000 - medium 
+Comparing: NSGA2-Input,NSGA2-Latent.
+ 	 p-Value 25.0 - 0.014606942120216154 
+ 	 A12 0.250000 - large 
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Mov-Or : 
+============================================================================
+Log Statistics for: target num tsne clusters
+Comparing: GA-Heatmap,GA-Input.
+ 	 p-Value 49.0 - 0.9567498363337371 
+ 	 A12 0.490000 - negligible 
+Comparing: GA-Heatmap,GA-Latent.
+ 	 p-Value 47.5 - 0.8423986970585505 
+ 	 A12 0.475000 - negligible 
+Comparing: GA-Heatmap,NSGA2-Heatmap.
+ 	 p-Value 44.0 - 0.5838005902931779 
+ 	 A12 0.440000 - negligible 
+Comparing: GA-Heatmap,NSGA2-Input.
+ 	 p-Value 49.0 - 0.9567498363337371 
+ 	 A12 0.490000 - negligible 
+Comparing: GA-Heatmap,NSGA2-Latent.
+ 	 p-Value 37.0 - 0.26655159650300464 
+ 	 A12 0.370000 - small 
+Comparing: GA-Input,GA-Latent.
+ 	 p-Value 48.0 - 0.8814592181823938 
+ 	 A12 0.480000 - negligible 
+Comparing: GA-Input,NSGA2-Heatmap.
+ 	 p-Value 46.0 - 0.7263386976487618 
+ 	 A12 0.460000 - negligible 
+Comparing: GA-Input,NSGA2-Input.
+ 	 p-Value 50.0 - 1.0 
+ 	 A12 0.500000 - negligible 
+Comparing: GA-Input,NSGA2-Latent.
+ 	 p-Value 40.0 - 0.3989414850850569 
+ 	 A12 0.400000 - small 
+Comparing: GA-Latent,NSGA2-Heatmap.
+ 	 p-Value 45.5 - 0.7091470125152434 
+ 	 A12 0.455000 - negligible 
+Comparing: GA-Latent,NSGA2-Input.
+ 	 p-Value 52.0 - 0.8814592181823938 
+ 	 A12 0.520000 - negligible 
+Comparing: GA-Latent,NSGA2-Latent.
+ 	 p-Value 34.5 - 0.19974597670755023 
+ 	 A12 0.345000 - small 
+Comparing: NSGA2-Heatmap,NSGA2-Input.
+ 	 p-Value 54.0 - 0.7263386976487618 
+ 	 A12 0.540000 - negligible 
+Comparing: NSGA2-Heatmap,NSGA2-Latent.
+ 	 p-Value 47.0 - 0.830851254204716 
+ 	 A12 0.470000 - negligible 
+Comparing: NSGA2-Input,NSGA2-Latent.
+ 	 p-Value 40.0 - 0.3989414850850569 
+ 	 A12 0.400000 - small 
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Or-Lum : 
+============================================================================
+Log Statistics for: target num tsne clusters
+Comparing: GA-Heatmap,GA-Input.
+ 	 p-Value 35.0 - 0.2553403615339004 
+ 	 A12 0.350000 - small 
+Comparing: GA-Heatmap,GA-Latent.
+ 	 p-Value 41.5 - 0.5284425290336885 
+ 	 A12 0.415000 - small 
+Comparing: GA-Heatmap,NSGA2-Heatmap.
+ 	 p-Value 32.0 - 0.16546542931427588 
+ 	 A12 0.320000 - medium 
+Comparing: GA-Heatmap,NSGA2-Input.
+ 	 p-Value 41.0 - 0.5031696048221512 
+ 	 A12 0.410000 - small 
+Comparing: GA-Heatmap,NSGA2-Latent.
+ 	 p-Value 55.5 - 0.6781132580151649 
+ 	 A12 0.555000 - negligible 
+Comparing: GA-Input,GA-Latent.
+ 	 p-Value 58.0 - 0.5586770527369542 
+ 	 A12 0.580000 - small 
+Comparing: GA-Input,NSGA2-Heatmap.
+ 	 p-Value 39.5 - 0.44061538930714217 
+ 	 A12 0.395000 - small 
+Comparing: GA-Input,NSGA2-Input.
+ 	 p-Value 58.0 - 0.5586770527369542 
+ 	 A12 0.580000 - small 
+Comparing: GA-Input,NSGA2-Latent.
+ 	 p-Value 71.0 - 0.10594657848788808 
+ 	 A12 0.710000 - medium 
+Comparing: GA-Latent,NSGA2-Heatmap.
+ 	 p-Value 37.0 - 0.330877157753913 
+ 	 A12 0.370000 - small 
+Comparing: GA-Latent,NSGA2-Input.
+ 	 p-Value 49.0 - 0.9689996047678737 
+ 	 A12 0.490000 - negligible 
+Comparing: GA-Latent,NSGA2-Latent.
+ 	 p-Value 64.5 - 0.26481570508520036 
+ 	 A12 0.645000 - small 
+Comparing: NSGA2-Heatmap,NSGA2-Input.
+ 	 p-Value 64.5 - 0.2789926115344017 
+ 	 A12 0.645000 - small 
+Comparing: NSGA2-Heatmap,NSGA2-Latent.
+ 	 p-Value 71.5 - 0.09123619380690293 
+ 	 A12 0.715000 - medium 
+Comparing: NSGA2-Input,NSGA2-Latent.
+ 	 p-Value 65.0 - 0.2483265330253105 
+ 	 A12 0.650000 - small 
+Plot stored to  ./plots/RQ1-MNIST-grey.pdf
+Loaded data for: ['GA' 'NSGA2']
+	Features Combinations: ['Mov-Lum' 'Mov-Or' 'Or-Lum']
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Mov-Lum : 
+============================================================================
+Log Statistics for: test input count
+Comparing: GA-Heatmap,GA-Input.
+ 	 p-Value 49.0 - 0.9688382575117562 
+ 	 A12 0.490000 - negligible 
+Comparing: GA-Heatmap,GA-Latent.
+ 	 p-Value 34.5 - 0.25233223194535204 
+ 	 A12 0.345000 - small 
+Comparing: GA-Heatmap,NSGA2-Heatmap.
+ 	 p-Value 31.5 - 0.1715089992164811 
+ 	 A12 0.315000 - medium 
+Comparing: GA-Heatmap,NSGA2-Input.
+ 	 p-Value 22.0 - 0.0361342808598698 
+ 	 A12 0.220000 - large 
+Comparing: GA-Heatmap,NSGA2-Latent.
+ 	 p-Value 26.0 - 0.07346320155387441 
+ 	 A12 0.260000 - large 
+Comparing: GA-Input,GA-Latent.
+ 	 p-Value 35.5 - 0.28571377117472785 
+ 	 A12 0.355000 - small 
+Comparing: GA-Input,NSGA2-Heatmap.
+ 	 p-Value 34.5 - 0.2546849674602435 
+ 	 A12 0.345000 - small 
+Comparing: GA-Input,NSGA2-Input.
+ 	 p-Value 29.0 - 0.11813911648074843 
+ 	 A12 0.290000 - medium 
+Comparing: GA-Input,NSGA2-Latent.
+ 	 p-Value 31.0 - 0.15864554313631996 
+ 	 A12 0.310000 - medium 
+Comparing: GA-Latent,NSGA2-Heatmap.
+ 	 p-Value 47.5 - 0.8796043615669001 
+ 	 A12 0.475000 - negligible 
+Comparing: GA-Latent,NSGA2-Input.
+ 	 p-Value 38.0 - 0.38395703557388927 
+ 	 A12 0.380000 - small 
+Comparing: GA-Latent,NSGA2-Latent.
+ 	 p-Value 41.5 - 0.5450472024811817 
+ 	 A12 0.415000 - small 
+Comparing: NSGA2-Heatmap,NSGA2-Input.
+ 	 p-Value 32.0 - 0.1853801433555199 
+ 	 A12 0.320000 - medium 
+Comparing: NSGA2-Heatmap,NSGA2-Latent.
+ 	 p-Value 39.0 - 0.4273553138978077 
+ 	 A12 0.390000 - small 
+Comparing: NSGA2-Input,NSGA2-Latent.
+ 	 p-Value 48.0 - 0.9096203362442886 
+ 	 A12 0.480000 - negligible 
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Mov-Or : 
+============================================================================
+Log Statistics for: test input count
+Comparing: GA-Heatmap,GA-Input.
+ 	 p-Value 26.0 - 0.0736828988611138 
+ 	 A12 0.260000 - large 
+Comparing: GA-Heatmap,GA-Latent.
+ 	 p-Value 19.5 - 0.022567134388625783 
+ 	 A12 0.195000 - large 
+Comparing: GA-Heatmap,NSGA2-Heatmap.
+ 	 p-Value 50.0 - 1.0 
+ 	 A12 0.500000 - negligible 
+Comparing: GA-Heatmap,NSGA2-Input.
+ 	 p-Value 58.5 - 0.540904332578235 
+ 	 A12 0.585000 - small 
+Comparing: GA-Heatmap,NSGA2-Latent.
+ 	 p-Value 18.0 - 0.01688171079491351 
+ 	 A12 0.180000 - large 
+Comparing: GA-Input,GA-Latent.
+ 	 p-Value 53.0 - 0.8498835087000991 
+ 	 A12 0.530000 - negligible 
+Comparing: GA-Input,NSGA2-Heatmap.
+ 	 p-Value 74.0 - 0.07434218731222063 
+ 	 A12 0.740000 - large 
+Comparing: GA-Input,NSGA2-Input.
+ 	 p-Value 70.5 - 0.1275244890244804 
+ 	 A12 0.705000 - medium 
+Comparing: GA-Input,NSGA2-Latent.
+ 	 p-Value 48.0 - 0.9096203362442886 
+ 	 A12 0.480000 - negligible 
+Comparing: GA-Latent,NSGA2-Heatmap.
+ 	 p-Value 78.5 - 0.0339562466732981 
+ 	 A12 0.785000 - large 
+Comparing: GA-Latent,NSGA2-Input.
+ 	 p-Value 76.5 - 0.04851311417586363 
+ 	 A12 0.765000 - large 
+Comparing: GA-Latent,NSGA2-Latent.
+ 	 p-Value 45.5 - 0.762282125586337 
+ 	 A12 0.455000 - negligible 
+Comparing: NSGA2-Heatmap,NSGA2-Input.
+ 	 p-Value 58.5 - 0.5418346808429118 
+ 	 A12 0.585000 - small 
+Comparing: NSGA2-Heatmap,NSGA2-Latent.
+ 	 p-Value 19.5 - 0.023134585695487334 
+ 	 A12 0.195000 - large 
+Comparing: NSGA2-Input,NSGA2-Latent.
+ 	 p-Value 18.0 - 0.017006577801423665 
+ 	 A12 0.180000 - large 
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Or-Lum : 
+============================================================================
+Log Statistics for: test input count
+Comparing: GA-Heatmap,GA-Input.
+ 	 p-Value 45.0 - 0.7335371872311481 
+ 	 A12 0.450000 - negligible 
+Comparing: GA-Heatmap,GA-Latent.
+ 	 p-Value 34.0 - 0.24025816616664397 
+ 	 A12 0.340000 - small 
+Comparing: GA-Heatmap,NSGA2-Heatmap.
+ 	 p-Value 54.5 - 0.7618472339695421 
+ 	 A12 0.545000 - negligible 
+Comparing: GA-Heatmap,NSGA2-Input.
+ 	 p-Value 49.5 - 1.0 
+ 	 A12 0.495000 - negligible 
+Comparing: GA-Heatmap,NSGA2-Latent.
+ 	 p-Value 11.0 - 0.0035852853678737984 
+ 	 A12 0.110000 - large 
+Comparing: GA-Input,GA-Latent.
+ 	 p-Value 41.0 - 0.5195794130314191 
+ 	 A12 0.410000 - small 
+Comparing: GA-Input,NSGA2-Heatmap.
+ 	 p-Value 55.0 - 0.7335371872311481 
+ 	 A12 0.550000 - negligible 
+Comparing: GA-Input,NSGA2-Input.
+ 	 p-Value 45.0 - 0.7335371872311481 
+ 	 A12 0.450000 - negligible 
+Comparing: GA-Input,NSGA2-Latent.
+ 	 p-Value 15.0 - 0.009056394245237357 
+ 	 A12 0.150000 - large 
+Comparing: GA-Latent,NSGA2-Heatmap.
+ 	 p-Value 67.5 - 0.1980887016391144 
+ 	 A12 0.675000 - medium 
+Comparing: GA-Latent,NSGA2-Input.
+ 	 p-Value 57.5 - 0.5964249614572503 
+ 	 A12 0.575000 - small 
+Comparing: GA-Latent,NSGA2-Latent.
+ 	 p-Value 20.5 - 0.028127899210924043 
+ 	 A12 0.205000 - large 
+Comparing: NSGA2-Heatmap,NSGA2-Input.
+ 	 p-Value 45.5 - 0.7621084549005652 
+ 	 A12 0.455000 - negligible 
+Comparing: NSGA2-Heatmap,NSGA2-Latent.
+ 	 p-Value 9.0 - 0.00216851606410531 
+ 	 A12 0.090000 - large 
+Comparing: NSGA2-Input,NSGA2-Latent.
+ 	 p-Value 31.5 - 0.17313184279928717 
+ 	 A12 0.315000 - medium 
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Mov-Lum : 
+============================================================================
+Log Statistics for: num tsne clusters
+Comparing: GA-Heatmap,GA-Input.
+ 	 p-Value 52.5 - 0.8743158005795765 
+ 	 A12 0.525000 - negligible 
+Comparing: GA-Heatmap,GA-Latent.
+ 	 p-Value 43.5 - 0.6355341037838087 
+ 	 A12 0.435000 - negligible 
+Comparing: GA-Heatmap,NSGA2-Heatmap.
+ 	 p-Value 32.0 - 0.1663383385678049 
+ 	 A12 0.320000 - medium 
+Comparing: GA-Heatmap,NSGA2-Input.
+ 	 p-Value 30.5 - 0.13910076544006417 
+ 	 A12 0.305000 - medium 
+Comparing: GA-Heatmap,NSGA2-Latent.
+ 	 p-Value 36.5 - 0.30742945807045796 
+ 	 A12 0.365000 - small 
+Comparing: GA-Input,GA-Latent.
+ 	 p-Value 39.0 - 0.41219111195197744 
+ 	 A12 0.390000 - small 
+Comparing: GA-Input,NSGA2-Heatmap.
+ 	 p-Value 28.5 - 0.10057639140230809 
+ 	 A12 0.285000 - medium 
+Comparing: GA-Input,NSGA2-Input.
+ 	 p-Value 28.0 - 0.096142199298264 
+ 	 A12 0.280000 - medium 
+Comparing: GA-Input,NSGA2-Latent.
+ 	 p-Value 33.5 - 0.21291190281150452 
+ 	 A12 0.335000 - small 
+Comparing: GA-Latent,NSGA2-Heatmap.
+ 	 p-Value 34.0 - 0.20784700491814323 
+ 	 A12 0.340000 - small 
+Comparing: GA-Latent,NSGA2-Input.
+ 	 p-Value 29.5 - 0.11636835372133747 
+ 	 A12 0.295000 - medium 
+Comparing: GA-Latent,NSGA2-Latent.
+ 	 p-Value 40.5 - 0.47273414872430664 
+ 	 A12 0.405000 - small 
+Comparing: NSGA2-Heatmap,NSGA2-Input.
+ 	 p-Value 45.0 - 0.7213634350694587 
+ 	 A12 0.450000 - negligible 
+Comparing: NSGA2-Heatmap,NSGA2-Latent.
+ 	 p-Value 55.0 - 0.7173042570814944 
+ 	 A12 0.550000 - negligible 
+Comparing: NSGA2-Input,NSGA2-Latent.
+ 	 p-Value 58.0 - 0.5566178172266157 
+ 	 A12 0.580000 - small 
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Mov-Or : 
+============================================================================
+Log Statistics for: num tsne clusters
+Comparing: GA-Heatmap,GA-Input.
+ 	 p-Value 52.0 - 0.9070384808036948 
+ 	 A12 0.520000 - negligible 
+Comparing: GA-Heatmap,GA-Latent.
+ 	 p-Value 43.5 - 0.6457705807539487 
+ 	 A12 0.435000 - negligible 
+Comparing: GA-Heatmap,NSGA2-Heatmap.
+ 	 p-Value 58.5 - 0.5302845968336095 
+ 	 A12 0.585000 - small 
+Comparing: GA-Heatmap,NSGA2-Input.
+ 	 p-Value 61.0 - 0.41955719964386373 
+ 	 A12 0.610000 - small 
+Comparing: GA-Heatmap,NSGA2-Latent.
+ 	 p-Value 32.0 - 0.17444840701580988 
+ 	 A12 0.320000 - medium 
+Comparing: GA-Input,GA-Latent.
+ 	 p-Value 44.0 - 0.671829829379121 
+ 	 A12 0.440000 - negligible 
+Comparing: GA-Input,NSGA2-Heatmap.
+ 	 p-Value 59.0 - 0.49857658559503615 
+ 	 A12 0.590000 - small 
+Comparing: GA-Input,NSGA2-Input.
+ 	 p-Value 63.0 - 0.3337471032338042 
+ 	 A12 0.630000 - small 
+Comparing: GA-Input,NSGA2-Latent.
+ 	 p-Value 32.0 - 0.17290876856872794 
+ 	 A12 0.320000 - medium 
+Comparing: GA-Latent,NSGA2-Heatmap.
+ 	 p-Value 66.5 - 0.21545554679916978 
+ 	 A12 0.665000 - medium 
+Comparing: GA-Latent,NSGA2-Input.
+ 	 p-Value 70.0 - 0.13672087790716708 
+ 	 A12 0.700000 - medium 
+Comparing: GA-Latent,NSGA2-Latent.
+ 	 p-Value 37.5 - 0.3530647718249067 
+ 	 A12 0.375000 - small 
+Comparing: NSGA2-Heatmap,NSGA2-Input.
+ 	 p-Value 57.5 - 0.5856388888640811 
+ 	 A12 0.575000 - small 
+Comparing: NSGA2-Heatmap,NSGA2-Latent.
+ 	 p-Value 24.5 - 0.05349415081742957 
+ 	 A12 0.245000 - large 
+Comparing: NSGA2-Input,NSGA2-Latent.
+ 	 p-Value 24.5 - 0.054714886877048306 
+ 	 A12 0.245000 - large 
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Or-Lum : 
+============================================================================
+Log Statistics for: num tsne clusters
+Comparing: GA-Heatmap,GA-Input.
+ 	 p-Value 50.0 - 1.0 
+ 	 A12 0.500000 - negligible 
+Comparing: GA-Heatmap,GA-Latent.
+ 	 p-Value 49.0 - 0.9689996047678737 
+ 	 A12 0.490000 - negligible 
+Comparing: GA-Heatmap,NSGA2-Heatmap.
+ 	 p-Value 47.5 - 0.8765136246689329 
+ 	 A12 0.475000 - negligible 
+Comparing: GA-Heatmap,NSGA2-Input.
+ 	 p-Value 50.0 - 1.0 
+ 	 A12 0.500000 - negligible 
+Comparing: GA-Heatmap,NSGA2-Latent.
+ 	 p-Value 36.5 - 0.3145823694909422 
+ 	 A12 0.365000 - small 
+Comparing: GA-Input,GA-Latent.
+ 	 p-Value 48.0 - 0.9051367884275813 
+ 	 A12 0.480000 - negligible 
+Comparing: GA-Input,NSGA2-Heatmap.
+ 	 p-Value 47.0 - 0.8425562208862922 
+ 	 A12 0.470000 - negligible 
+Comparing: GA-Input,NSGA2-Input.
+ 	 p-Value 50.5 - 1.0 
+ 	 A12 0.505000 - negligible 
+Comparing: GA-Input,NSGA2-Latent.
+ 	 p-Value 35.0 - 0.2585922352657104 
+ 	 A12 0.350000 - small 
+Comparing: GA-Latent,NSGA2-Heatmap.
+ 	 p-Value 49.0 - 0.9686997471594451 
+ 	 A12 0.490000 - negligible 
+Comparing: GA-Latent,NSGA2-Input.
+ 	 p-Value 53.0 - 0.8467093250690544 
+ 	 A12 0.530000 - negligible 
+Comparing: GA-Latent,NSGA2-Latent.
+ 	 p-Value 39.0 - 0.4144296214162363 
+ 	 A12 0.390000 - small 
+Comparing: NSGA2-Heatmap,NSGA2-Input.
+ 	 p-Value 53.0 - 0.8467093250690544 
+ 	 A12 0.530000 - negligible 
+Comparing: NSGA2-Heatmap,NSGA2-Latent.
+ 	 p-Value 39.0 - 0.4144296214162363 
+ 	 A12 0.390000 - small 
+Comparing: NSGA2-Input,NSGA2-Latent.
+ 	 p-Value 38.0 - 0.3717823983785198 
+ 	 A12 0.380000 - small 
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Mov-Lum : 
+============================================================================
+Log Statistics for: test input count in target
+Comparing: GA-Heatmap,GA-Input.
+ 	 p-Value 40.0 - 0.3759553785047234 
+ 	 A12 0.400000 - small 
+Comparing: GA-Heatmap,GA-Latent.
+ 	 p-Value 37.0 - 0.26754398010537783 
+ 	 A12 0.370000 - small 
+Comparing: GA-Heatmap,NSGA2-Heatmap.
+ 	 p-Value 56.0 - 0.5036312588983317 
+ 	 A12 0.560000 - negligible 
+Comparing: GA-Heatmap,NSGA2-Input.
+ 	 p-Value 47.0 - 0.8038471232053614 
+ 	 A12 0.470000 - negligible 
+Comparing: GA-Heatmap,NSGA2-Latent.
+ 	 p-Value 40.0 - 0.3759553785047234 
+ 	 A12 0.400000 - small 
+Comparing: GA-Input,GA-Latent.
+ 	 p-Value 48.0 - 0.901221439813786 
+ 	 A12 0.480000 - negligible 
+Comparing: GA-Input,NSGA2-Heatmap.
+ 	 p-Value 66.0 - 0.12358420113551419 
+ 	 A12 0.660000 - small 
+Comparing: GA-Input,NSGA2-Input.
+ 	 p-Value 59.0 - 0.4508848612658346 
+ 	 A12 0.590000 - small 
+Comparing: GA-Input,NSGA2-Latent.
+ 	 p-Value 49.5 - 1.0 
+ 	 A12 0.495000 - negligible 
+Comparing: GA-Latent,NSGA2-Heatmap.
+ 	 p-Value 70.5 - 0.0623296261782105 
+ 	 A12 0.705000 - medium 
+Comparing: GA-Latent,NSGA2-Input.
+ 	 p-Value 62.5 - 0.305440788419157 
+ 	 A12 0.625000 - small 
+Comparing: GA-Latent,NSGA2-Latent.
+ 	 p-Value 54.5 - 0.740544860682418 
+ 	 A12 0.545000 - negligible 
+Comparing: NSGA2-Heatmap,NSGA2-Input.
+ 	 p-Value 40.5 - 0.33046445910149613 
+ 	 A12 0.405000 - small 
+Comparing: NSGA2-Heatmap,NSGA2-Latent.
+ 	 p-Value 34.0 - 0.12358420113551419 
+ 	 A12 0.340000 - small 
+Comparing: NSGA2-Input,NSGA2-Latent.
+ 	 p-Value 41.5 - 0.47772970601319353 
+ 	 A12 0.415000 - small 
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Mov-Or : 
+============================================================================
+Log Statistics for: test input count in target
+Comparing: GA-Heatmap,GA-Input.
+ 	 p-Value 35.0 - 0.07758329748513153 
+ 	 A12 0.350000 - small 
+Comparing: GA-Heatmap,GA-Latent.
+ 	 p-Value 30.0 - 0.03498309640812092 
+ 	 A12 0.300000 - medium 
+Comparing: GA-Heatmap,NSGA2-Heatmap.
+ 	 p-Value 50.0 - 1.0 
+ 	 A12 0.500000 - negligible 
+Comparing: GA-Heatmap,NSGA2-Input.
+ 	 p-Value 45.0 - 0.36812025069351895 
+ 	 A12 0.450000 - negligible 
+Comparing: GA-Heatmap,NSGA2-Latent.
+ 	 p-Value 40.0 - 0.16807831903497028 
+ 	 A12 0.400000 - small 
+Comparing: GA-Input,GA-Latent.
+ 	 p-Value 42.0 - 0.5056755373994075 
+ 	 A12 0.420000 - small 
+Comparing: GA-Input,NSGA2-Heatmap.
+ 	 p-Value 65.0 - 0.07758329748513153 
+ 	 A12 0.650000 - small 
+Comparing: GA-Input,NSGA2-Input.
+ 	 p-Value 58.5 - 0.38664702728431366 
+ 	 A12 0.585000 - small 
+Comparing: GA-Input,NSGA2-Latent.
+ 	 p-Value 55.0 - 0.6546159027503529 
+ 	 A12 0.550000 - negligible 
+Comparing: GA-Latent,NSGA2-Heatmap.
+ 	 p-Value 70.0 - 0.03498309640812092 
+ 	 A12 0.700000 - medium 
+Comparing: GA-Latent,NSGA2-Input.
+ 	 p-Value 63.0 - 0.21428947867143555 
+ 	 A12 0.630000 - small 
+Comparing: GA-Latent,NSGA2-Latent.
+ 	 p-Value 61.0 - 0.3277922976814811 
+ 	 A12 0.610000 - small 
+Comparing: NSGA2-Heatmap,NSGA2-Input.
+ 	 p-Value 45.0 - 0.36812025069351895 
+ 	 A12 0.450000 - negligible 
+Comparing: NSGA2-Heatmap,NSGA2-Latent.
+ 	 p-Value 40.0 - 0.16807831903497028 
+ 	 A12 0.400000 - small 
+Comparing: NSGA2-Input,NSGA2-Latent.
+ 	 p-Value 46.0 - 0.6704052955096476 
+ 	 A12 0.460000 - negligible 
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Or-Lum : 
+============================================================================
+Log Statistics for: test input count in target
+Comparing: GA-Heatmap,GA-Input.
+ 	 p-Value 27.5 - 0.09542744969801384 
+ 	 A12 0.275000 - medium 
+Comparing: GA-Heatmap,GA-Latent.
+ 	 p-Value 18.5 - 0.01883991326742943 
+ 	 A12 0.185000 - large 
+Comparing: GA-Heatmap,NSGA2-Heatmap.
+ 	 p-Value 58.0 - 0.5687086229209692 
+ 	 A12 0.580000 - small 
+Comparing: GA-Heatmap,NSGA2-Input.
+ 	 p-Value 54.5 - 0.7604393795398413 
+ 	 A12 0.545000 - negligible 
+Comparing: GA-Heatmap,NSGA2-Latent.
+ 	 p-Value 8.0 - 0.0016857381150136568 
+ 	 A12 0.080000 - large 
+Comparing: GA-Input,GA-Latent.
+ 	 p-Value 43.5 - 0.6492850242269921 
+ 	 A12 0.435000 - negligible 
+Comparing: GA-Input,NSGA2-Heatmap.
+ 	 p-Value 75.0 - 0.06252435819712282 
+ 	 A12 0.750000 - large 
+Comparing: GA-Input,NSGA2-Input.
+ 	 p-Value 69.0 - 0.16086648167692308 
+ 	 A12 0.690000 - medium 
+Comparing: GA-Input,NSGA2-Latent.
+ 	 p-Value 45.0 - 0.7335371872311481 
+ 	 A12 0.450000 - negligible 
+Comparing: GA-Latent,NSGA2-Heatmap.
+ 	 p-Value 84.5 - 0.009744240785870028 
+ 	 A12 0.845000 - large 
+Comparing: GA-Latent,NSGA2-Input.
+ 	 p-Value 75.0 - 0.06362233260013418 
+ 	 A12 0.750000 - large 
+Comparing: GA-Latent,NSGA2-Latent.
+ 	 p-Value 49.0 - 0.969838641404833 
+ 	 A12 0.490000 - negligible 
+Comparing: NSGA2-Heatmap,NSGA2-Input.
+ 	 p-Value 44.0 - 0.6752726661454402 
+ 	 A12 0.440000 - negligible 
+Comparing: NSGA2-Heatmap,NSGA2-Latent.
+ 	 p-Value 3.0 - 0.000418144432661332 
+ 	 A12 0.030000 - large 
+Comparing: NSGA2-Input,NSGA2-Latent.
+ 	 p-Value 18.0 - 0.016964912953587128 
+ 	 A12 0.180000 - large 
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Mov-Lum : 
+============================================================================
+Log Statistics for: target num tsne clusters
+Comparing: GA-Heatmap,GA-Input.
+ 	 p-Value 40.5 - 0.400246299175947 
+ 	 A12 0.405000 - small 
+Comparing: GA-Heatmap,GA-Latent.
+ 	 p-Value 35.0 - 0.19583130788151493 
+ 	 A12 0.350000 - small 
+Comparing: GA-Heatmap,NSGA2-Heatmap.
+ 	 p-Value 56.0 - 0.5036312588983317 
+ 	 A12 0.560000 - negligible 
+Comparing: GA-Heatmap,NSGA2-Input.
+ 	 p-Value 46.5 - 0.7655205236997535 
+ 	 A12 0.465000 - negligible 
+Comparing: GA-Heatmap,NSGA2-Latent.
+ 	 p-Value 40.5 - 0.400246299175947 
+ 	 A12 0.405000 - small 
+Comparing: GA-Input,GA-Latent.
+ 	 p-Value 44.5 - 0.6761676078856204 
+ 	 A12 0.445000 - negligible 
+Comparing: GA-Input,NSGA2-Heatmap.
+ 	 p-Value 67.0 - 0.10093944183577895 
+ 	 A12 0.670000 - medium 
+Comparing: GA-Input,NSGA2-Input.
+ 	 p-Value 57.5 - 0.5336095760262227 
+ 	 A12 0.575000 - small 
+Comparing: GA-Input,NSGA2-Latent.
+ 	 p-Value 50.0 - 1.0 
+ 	 A12 0.500000 - negligible 
+Comparing: GA-Latent,NSGA2-Heatmap.
+ 	 p-Value 72.0 - 0.04448530178161215 
+ 	 A12 0.720000 - medium 
+Comparing: GA-Latent,NSGA2-Input.
+ 	 p-Value 63.0 - 0.28387330666279154 
+ 	 A12 0.630000 - small 
+Comparing: GA-Latent,NSGA2-Latent.
+ 	 p-Value 56.5 - 0.6173321767599902 
+ 	 A12 0.565000 - negligible 
+Comparing: NSGA2-Heatmap,NSGA2-Input.
+ 	 p-Value 39.5 - 0.2795593530933159 
+ 	 A12 0.395000 - small 
+Comparing: NSGA2-Heatmap,NSGA2-Latent.
+ 	 p-Value 33.0 - 0.10093944183577895 
+ 	 A12 0.330000 - medium 
+Comparing: NSGA2-Input,NSGA2-Latent.
+ 	 p-Value 42.5 - 0.5342469866587927 
+ 	 A12 0.425000 - small 
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Mov-Or : 
+============================================================================
+Log Statistics for: target num tsne clusters
+Comparing: GA-Heatmap,GA-Input.
+ 	 p-Value 35.0 - 0.07758329748513153 
+ 	 A12 0.350000 - small 
+Comparing: GA-Heatmap,GA-Latent.
+ 	 p-Value 30.0 - 0.034423814325388775 
+ 	 A12 0.300000 - medium 
+Comparing: GA-Heatmap,NSGA2-Heatmap.
+ 	 p-Value 50.0 - 1.0 
+ 	 A12 0.500000 - negligible 
+Comparing: GA-Heatmap,NSGA2-Input.
+ 	 p-Value 45.0 - 0.36812025069351895 
+ 	 A12 0.450000 - negligible 
+Comparing: GA-Heatmap,NSGA2-Latent.
+ 	 p-Value 40.0 - 0.16807831903497028 
+ 	 A12 0.400000 - small 
+Comparing: GA-Input,GA-Latent.
+ 	 p-Value 44.0 - 0.6220310366109307 
+ 	 A12 0.440000 - negligible 
+Comparing: GA-Input,NSGA2-Heatmap.
+ 	 p-Value 65.0 - 0.07758329748513153 
+ 	 A12 0.650000 - small 
+Comparing: GA-Input,NSGA2-Input.
+ 	 p-Value 59.5 - 0.32897177441062453 
+ 	 A12 0.595000 - small 
+Comparing: GA-Input,NSGA2-Latent.
+ 	 p-Value 55.0 - 0.6539842311730582 
+ 	 A12 0.550000 - negligible 
+Comparing: GA-Latent,NSGA2-Heatmap.
+ 	 p-Value 70.0 - 0.034423814325388775 
+ 	 A12 0.700000 - medium 
+Comparing: GA-Latent,NSGA2-Input.
+ 	 p-Value 64.5 - 0.16151331846754213 
+ 	 A12 0.645000 - small 
+Comparing: GA-Latent,NSGA2-Latent.
+ 	 p-Value 60.5 - 0.34858192677550914 
+ 	 A12 0.605000 - small 
+Comparing: NSGA2-Heatmap,NSGA2-Input.
+ 	 p-Value 45.0 - 0.36812025069351895 
+ 	 A12 0.450000 - negligible 
+Comparing: NSGA2-Heatmap,NSGA2-Latent.
+ 	 p-Value 40.0 - 0.16807831903497028 
+ 	 A12 0.400000 - small 
+Comparing: NSGA2-Input,NSGA2-Latent.
+ 	 p-Value 45.5 - 0.6263543610340876 
+ 	 A12 0.455000 - negligible 
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Or-Lum : 
+============================================================================
+Log Statistics for: target num tsne clusters
+Comparing: GA-Heatmap,GA-Input.
+ 	 p-Value 41.0 - 0.46573635914784983 
+ 	 A12 0.410000 - small 
+Comparing: GA-Heatmap,GA-Latent.
+ 	 p-Value 28.5 - 0.08489294280344772 
+ 	 A12 0.285000 - medium 
+Comparing: GA-Heatmap,NSGA2-Heatmap.
+ 	 p-Value 49.0 - 0.9658245826088196 
+ 	 A12 0.490000 - negligible 
+Comparing: GA-Heatmap,NSGA2-Input.
+ 	 p-Value 58.0 - 0.5402913746074198 
+ 	 A12 0.580000 - small 
+Comparing: GA-Heatmap,NSGA2-Latent.
+ 	 p-Value 35.0 - 0.23706077732391584 
+ 	 A12 0.350000 - small 
+Comparing: GA-Input,GA-Latent.
+ 	 p-Value 33.5 - 0.16495049234371217 
+ 	 A12 0.335000 - small 
+Comparing: GA-Input,NSGA2-Heatmap.
+ 	 p-Value 59.0 - 0.4269340104154864 
+ 	 A12 0.590000 - small 
+Comparing: GA-Input,NSGA2-Input.
+ 	 p-Value 68.0 - 0.13371872951115082 
+ 	 A12 0.680000 - medium 
+Comparing: GA-Input,NSGA2-Latent.
+ 	 p-Value 42.0 - 0.5179924948768349 
+ 	 A12 0.420000 - small 
+Comparing: GA-Latent,NSGA2-Heatmap.
+ 	 p-Value 74.5 - 0.03867696387528236 
+ 	 A12 0.745000 - large 
+Comparing: GA-Latent,NSGA2-Input.
+ 	 p-Value 79.5 - 0.017942517309083382 
+ 	 A12 0.795000 - large 
+Comparing: GA-Latent,NSGA2-Latent.
+ 	 p-Value 58.0 - 0.5344993438309444 
+ 	 A12 0.580000 - small 
+Comparing: NSGA2-Heatmap,NSGA2-Input.
+ 	 p-Value 60.0 - 0.41492949636404397 
+ 	 A12 0.600000 - small 
+Comparing: NSGA2-Heatmap,NSGA2-Latent.
+ 	 p-Value 33.5 - 0.16994297277567139 
+ 	 A12 0.335000 - small 
+Comparing: NSGA2-Input,NSGA2-Latent.
+ 	 p-Value 26.5 - 0.061517244631788905 
+ 	 A12 0.265000 - medium 
+Plot stored to  ./plots/RQ1-MNIST-white.pdf

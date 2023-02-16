@@ -1,0 +1,297 @@
+Loaded data for: ['DeepAtash' 'DeepHyperion']
+	Features Combinations: ['Mov-Lum' 'Mov-Or' 'Or-Lum']
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Mov-Lum : 
+============================================================================
+Log Statistics for: test input count
+Comparing: DeepAtash,DeepHyperion.
+ 	 p-Value 84.5 - 0.009550779520344011 
+ 	 A12 0.845000 - large 
+ 	 power 0.94637931118509 - runs 13.219473647252643
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Mov-Or : 
+============================================================================
+Log Statistics for: test input count
+Comparing: DeepAtash,DeepHyperion.
+ 	 p-Value 72.0 - 0.10267734574759609 
+ 	 A12 0.720000 - medium 
+ 	 power 0.8608493165459637 - runs 17.28955248135454
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Or-Lum : 
+============================================================================
+Log Statistics for: test input count
+Comparing: DeepAtash,DeepHyperion.
+ 	 p-Value 94.0 - 0.0009137158080701226 
+ 	 A12 0.940000 - large 
+ 	 power 0.9778130394122837 - runs 11.173070260410084
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Mov-Lum : 
+============================================================================
+Log Statistics for: num tsne clusters
+Comparing: DeepAtash,DeepHyperion.
+ 	 p-Value 81.0 - 0.01072672862031511 
+ 	 A12 0.810000 - large 
+ 	 power 0.9283118074317293 - runs 14.167405837794727
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Mov-Or : 
+============================================================================
+Log Statistics for: num tsne clusters
+Comparing: DeepAtash,DeepHyperion.
+ 	 p-Value 84.0 - 0.0079574640739736 
+ 	 A12 0.840000 - large 
+ 	 power 0.9440448228546254 - runs 13.347474887170309
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Or-Lum : 
+============================================================================
+Log Statistics for: num tsne clusters
+Comparing: DeepAtash,DeepHyperion.
+ 	 p-Value 92.5 - 0.0005562995873693621 
+ 	 A12 0.925000 - large 
+ 	 power 0.9742585494451881 - runs 11.453370065700375
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Mov-Lum : 
+============================================================================
+Log Statistics for: test input count in target
+Comparing: DeepAtash,DeepHyperion.
+ 	 p-Value 95.5 - 0.0004359646383188559 
+ 	 A12 0.955000 - large 
+ 	 power 0.9809437267261036 - runs 10.906394839131558
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Mov-Or : 
+============================================================================
+Log Statistics for: test input count in target
+Comparing: DeepAtash,DeepHyperion.
+ 	 p-Value 38.0 - 0.32533635174186126 
+ 	 A12 0.380000 - small 
+ 	 power 0.3629715314765412 - runs 56.34170948712888
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Or-Lum : 
+============================================================================
+Log Statistics for: test input count in target
+Comparing: DeepAtash,DeepHyperion.
+ 	 p-Value 80.0 - 0.01918951068787638 
+ 	 A12 0.800000 - large 
+ 	 power 0.9223728273596525 - runs 14.46199369217486
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Mov-Lum : 
+============================================================================
+Log Statistics for: target num tsne clusters
+Comparing: DeepAtash,DeepHyperion.
+ 	 p-Value 100.0 - 4.7682291610117017e-05 
+ 	 A12 1.000000 - large 
+ 	 power 0.9881789885195853 - runs 10.17998858134246
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Mov-Or : 
+============================================================================
+Log Statistics for: target num tsne clusters
+Comparing: DeepAtash,DeepHyperion.
+ 	 p-Value 39.5 - 0.3854583518678327 
+ 	 A12 0.395000 - small 
+ 	 power 0.38696692267951405 - runs 52.29711920368198
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Or-Lum : 
+============================================================================
+Log Statistics for: target num tsne clusters
+Comparing: DeepAtash,DeepHyperion.
+ 	 p-Value 82.0 - 0.010578716808708874 
+ 	 A12 0.820000 - large 
+ 	 power 0.9338953975901788 - runs 13.883802536835974
+Plot stored to  ./plots/RQ2-MNIST-dark.pdf
+Loaded data for: ['DeepAtash' 'DeepHyperion']
+	Features Combinations: ['Mov-Lum' 'Mov-Or' 'Or-Lum']
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Mov-Lum : 
+============================================================================
+Log Statistics for: test input count
+Comparing: DeepAtash,DeepHyperion.
+ 	 p-Value 78.0 - 0.036704188973292445 
+ 	 A12 0.780000 - large 
+ 	 power 0.9093834950948524 - runs 15.086395423148897
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Mov-Or : 
+============================================================================
+Log Statistics for: test input count
+Comparing: DeepAtash,DeepHyperion.
+ 	 p-Value 57.0 - 0.6212014723925856 
+ 	 A12 0.570000 - negligible 
+ 	 power 0.6741947956771835 - runs 26.224680356850257
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Or-Lum : 
+============================================================================
+Log Statistics for: test input count
+Comparing: DeepAtash,DeepHyperion.
+ 	 p-Value 90.0 - 0.0023462869869119987 
+ 	 A12 0.900000 - large 
+ 	 power 0.9672794916448453 - runs 11.953300227172239
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Mov-Lum : 
+============================================================================
+Log Statistics for: num tsne clusters
+Comparing: DeepAtash,DeepHyperion.
+ 	 p-Value 72.5 - 0.06620547967078123 
+ 	 A12 0.725000 - medium 
+ 	 power 0.86546715739933 - runs 17.084413073338204
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Mov-Or : 
+============================================================================
+Log Statistics for: num tsne clusters
+Comparing: DeepAtash,DeepHyperion.
+ 	 p-Value 78.5 - 0.022891551805456815 
+ 	 A12 0.785000 - large 
+ 	 power 0.9127731057075068 - runs 14.925704095778695
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Or-Lum : 
+============================================================================
+Log Statistics for: num tsne clusters
+Comparing: DeepAtash,DeepHyperion.
+ 	 p-Value 89.5 - 0.0024543913950563173 
+ 	 A12 0.895000 - large 
+ 	 power 0.9657110794652484 - runs 12.058534191369045
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Mov-Lum : 
+============================================================================
+Log Statistics for: test input count in target
+Comparing: DeepAtash,DeepHyperion.
+ 	 p-Value 71.5 - 0.05033092002285608 
+ 	 A12 0.715000 - medium 
+ 	 power 0.8561245602655734 - runs 17.499087029993287
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Mov-Or : 
+============================================================================
+Log Statistics for: test input count in target
+Comparing: DeepAtash,DeepHyperion.
+ 	 p-Value 65.5 - 0.19974597670755023 
+ 	 A12 0.655000 - small 
+ 	 power 0.7910600087010341 - runs 20.406288190000375
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Or-Lum : 
+============================================================================
+Log Statistics for: test input count in target
+Comparing: DeepAtash,DeepHyperion.
+ 	 p-Value 67.0 - 0.10116105881500473 
+ 	 A12 0.670000 - medium 
+ 	 power 0.8087659017519535 - runs 19.604689876078023
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Mov-Lum : 
+============================================================================
+Log Statistics for: target num tsne clusters
+Comparing: DeepAtash,DeepHyperion.
+ 	 p-Value 70.0 - 0.06362193848082277 
+ 	 A12 0.700000 - medium 
+ 	 power 0.8413059115450211 - runs 18.155324015800826
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Mov-Or : 
+============================================================================
+Log Statistics for: target num tsne clusters
+Comparing: DeepAtash,DeepHyperion.
+ 	 p-Value 64.0 - 0.24711243791692583 
+ 	 A12 0.640000 - small 
+ 	 power 0.7724211369410072 - runs 21.26564764388516
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Or-Lum : 
+============================================================================
+Log Statistics for: target num tsne clusters
+Comparing: DeepAtash,DeepHyperion.
+ 	 p-Value 67.0 - 0.10027432516539973 
+ 	 A12 0.670000 - medium 
+ 	 power 0.8087659017519535 - runs 19.604689876078023
+Plot stored to  ./plots/RQ2-MNIST-grey.pdf
+Loaded data for: ['DeepAtash' 'DeepHyperion']
+	Features Combinations: ['Mov-Lum' 'Mov-Or' 'Or-Lum']
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Mov-Lum : 
+============================================================================
+Log Statistics for: test input count
+Comparing: DeepAtash,DeepHyperion.
+ 	 p-Value 71.0 - 0.11940311656208613 
+ 	 A12 0.710000 - medium 
+ 	 power 0.8512925551652968 - runs 17.71314074729689
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Mov-Or : 
+============================================================================
+Log Statistics for: test input count
+Comparing: DeepAtash,DeepHyperion.
+ 	 p-Value 64.5 - 0.2891921192286624 
+ 	 A12 0.645000 - small 
+ 	 power 0.7787361448560968 - runs 20.97244575306828
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Or-Lum : 
+============================================================================
+Log Statistics for: test input count
+Comparing: DeepAtash,DeepHyperion.
+ 	 p-Value 100.0 - 8.627860458731718e-05 
+ 	 A12 1.000000 - large 
+ 	 power 0.9881789885195853 - runs 10.17998858134246
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Mov-Lum : 
+============================================================================
+Log Statistics for: num tsne clusters
+Comparing: DeepAtash,DeepHyperion.
+ 	 p-Value 69.0 - 0.1462167348480478 
+ 	 A12 0.690000 - medium 
+ 	 power 0.8308885370602308 - runs 18.6171882718965
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Mov-Or : 
+============================================================================
+Log Statistics for: num tsne clusters
+Comparing: DeepAtash,DeepHyperion.
+ 	 p-Value 66.0 - 0.22959006559238004 
+ 	 A12 0.660000 - small 
+ 	 power 0.7970668200222908 - runs 20.132929592791854
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Or-Lum : 
+============================================================================
+Log Statistics for: num tsne clusters
+Comparing: DeepAtash,DeepHyperion.
+ 	 p-Value 100.0 - 2.428174732475476e-05 
+ 	 A12 1.000000 - large 
+ 	 power 0.9881789885195853 - runs 10.17998858134246
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Mov-Lum : 
+============================================================================
+Log Statistics for: test input count in target
+Comparing: DeepAtash,DeepHyperion.
+ 	 p-Value 70.0 - 0.03498309640812092 
+ 	 A12 0.700000 - medium 
+ 	 power 0.8413059115450211 - runs 18.155324015800826
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Mov-Or : 
+============================================================================
+Log Statistics for: test input count in target
+Comparing: DeepAtash,DeepHyperion.
+ 	 p-Value 60.0 - 0.16807831903497028 
+ 	 A12 0.600000 - small 
+ 	 power 0.7184053765416689 - runs 23.884514921444218
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Or-Lum : 
+============================================================================
+Log Statistics for: test input count in target
+Comparing: DeepAtash,DeepHyperion.
+ 	 p-Value 100.0 - 6.340287417294021e-05 
+ 	 A12 1.000000 - large 
+ 	 power 0.9881789885195853 - runs 10.17998858134246
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Mov-Lum : 
+============================================================================
+Log Statistics for: target num tsne clusters
+Comparing: DeepAtash,DeepHyperion.
+ 	 p-Value 70.0 - 0.03358968076277688 
+ 	 A12 0.700000 - medium 
+ 	 power 0.8413059115450211 - runs 18.155324015800826
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Mov-Or : 
+============================================================================
+Log Statistics for: target num tsne clusters
+Comparing: DeepAtash,DeepHyperion.
+ 	 p-Value 60.0 - 0.16748875557485465 
+ 	 A12 0.600000 - small 
+ 	 power 0.7184053765416689 - runs 23.884514921444218
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Or-Lum : 
+============================================================================
+Log Statistics for: target num tsne clusters
+Comparing: DeepAtash,DeepHyperion.
+ 	 p-Value 100.0 - 1.5937911688066244e-05 
+ 	 A12 1.000000 - large 
+ 	 power 0.9881789885195853 - runs 10.17998858134246
+Plot stored to  ./plots/RQ2-MNIST-white.pdf

@@ -1,0 +1,51 @@
+Loaded data for: ['After' 'Before']
+	Features Combinations: ['Mov-Lum' 'Mov-Or' 'Or-Lum']
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Mov-Lum : 
+============================================================================
+Log Statistics for: accuracy test set
+Comparing: After,Before.
+ 	 p-Value 9850.0 - 6.064303410761097e-37 
+ 	 A12 0.985000 - large 
+ 	 power 1.0 - runs 10.41060004650663
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Mov-Or : 
+============================================================================
+Log Statistics for: accuracy test set
+Comparing: After,Before.
+ 	 p-Value 9650.0 - 4.257238846277433e-34 
+ 	 A12 0.965000 - large 
+ 	 power 1.0 - runs 10.735757659304888
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Or-Lum : 
+============================================================================
+Log Statistics for: accuracy test set
+Comparing: After,Before.
+ 	 p-Value 9700.0 - 6.03600609383122e-35 
+ 	 A12 0.970000 - large 
+ 	 power 1.0 - runs 10.65249544440682
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Mov-Lum : 
+============================================================================
+Log Statistics for: accuracy target test set
+Comparing: After,Before.
+ 	 p-Value 10000.0 - 2.317878713120177e-44 
+ 	 A12 1.000000 - large 
+ 	 power 1.0 - runs 10.17998858134246
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Mov-Or : 
+============================================================================
+Log Statistics for: accuracy target test set
+Comparing: After,Before.
+ 	 p-Value 10000.0 - 3.647496658149943e-41 
+ 	 A12 1.000000 - large 
+ 	 power 1.0 - runs 10.17998858134246
+============================================================================
+DATASET RQ2 Showing comparisons for MAP Or-Lum : 
+============================================================================
+Log Statistics for: accuracy target test set
+Comparing: After,Before.
+ 	 p-Value 10000.0 - 6.798391586850858e-40 
+ 	 A12 1.000000 - large 
+ 	 power 1.0 - runs 10.17998858134246
+Plot stored to  ./plots/RQ3-MNIST.pdf

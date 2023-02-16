@@ -1,0 +1,35 @@
+                                   test input count
+Features Combination Tool                          
+Neg-Pos              DeepAtash                 40.3
+                     DeepHyperion               8.2
+Neg-Verb             DeepAtash                 27.1
+                     DeepHyperion              10.8
+Pos-Verb             DeepAtash                 37.6
+                     DeepHyperion              12.0
+-------------------------------------------------------------------------------
+                                   num tsne clusters
+Features Combination Tool                           
+Neg-Pos              DeepAtash                 0.946
+                     DeepHyperion              0.112
+Neg-Verb             DeepAtash                 1.000
+                     DeepHyperion              0.050
+Pos-Verb             DeepAtash                 0.950
+                     DeepHyperion              0.150
+-------------------------------------------------------------------------------
+                                   test input count in target
+Features Combination Tool                                    
+Neg-Pos              DeepAtash                           33.4
+                     DeepHyperion                         1.6
+Neg-Verb             DeepAtash                           14.6
+                     DeepHyperion                         4.5
+Pos-Verb             DeepAtash                           37.6
+                     DeepHyperion                         5.2
+-------------------------------------------------------------------------------
+                                   target num tsne clusters
+Features Combination Tool                                  
+Neg-Pos              DeepAtash                        1.000
+                     DeepHyperion                     0.050
+Neg-Verb             DeepAtash                        0.431
+                     DeepHyperion                     0.073
+Pos-Verb             DeepAtash                        0.957
+                     DeepHyperion                     0.111

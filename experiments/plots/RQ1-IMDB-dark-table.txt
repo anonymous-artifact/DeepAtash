@@ -1,0 +1,83 @@
+                                    test input count
+Features Combination Tool                           
+Neg-Pos              GA-Heatmap                 25.7
+                     GA-Input                   33.0
+                     GA-Latent                  25.8
+                     NSGA2-Heatmap              29.9
+                     NSGA2-Input                29.4
+                     NSGA2-Latent               40.3
+Neg-Verb             GA-Heatmap                 11.2
+                     GA-Input                    7.2
+                     GA-Latent                   5.0
+                     NSGA2-Heatmap              19.7
+                     NSGA2-Input                 9.2
+                     NSGA2-Latent               27.1
+Pos-Verb             GA-Heatmap                 28.8
+                     GA-Input                   33.8
+                     GA-Latent                  33.7
+                     NSGA2-Heatmap              28.3
+                     NSGA2-Input                31.6
+                     NSGA2-Latent               37.6
+-------------------------------------------------------------------------------
+                                    num tsne clusters
+Features Combination Tool                            
+Neg-Pos              GA-Heatmap              0.498148
+                     GA-Input                0.687037
+                     GA-Latent               0.583333
+                     NSGA2-Heatmap           0.530556
+                     NSGA2-Input             0.511111
+                     NSGA2-Latent            0.744444
+Neg-Verb             GA-Heatmap              0.533333
+                     GA-Input                0.315625
+                     GA-Latent               0.167708
+                     NSGA2-Heatmap           0.548958
+                     NSGA2-Input             0.366667
+                     NSGA2-Latent            0.639583
+Pos-Verb             GA-Heatmap              0.501095
+                     GA-Input                0.530694
+                     GA-Latent               0.509213
+                     NSGA2-Heatmap           0.473046
+                     NSGA2-Input             0.451512
+                     NSGA2-Latent            0.523956
+-------------------------------------------------------------------------------
+                                    test input count in target
+Features Combination Tool                                     
+Neg-Pos              GA-Heatmap                            7.8
+                     GA-Input                             22.0
+                     GA-Latent                            14.3
+                     NSGA2-Heatmap                         9.6
+                     NSGA2-Input                           6.9
+                     NSGA2-Latent                         33.4
+Neg-Verb             GA-Heatmap                            3.6
+                     GA-Input                              3.2
+                     GA-Latent                             0.7
+                     NSGA2-Heatmap                         6.6
+                     NSGA2-Input                           6.3
+                     NSGA2-Latent                         14.6
+Pos-Verb             GA-Heatmap                           27.8
+                     GA-Input                             33.8
+                     GA-Latent                            33.4
+                     NSGA2-Heatmap                        28.3
+                     NSGA2-Input                          31.6
+                     NSGA2-Latent                         37.6
+-------------------------------------------------------------------------------
+                                    target num tsne clusters
+Features Combination Tool                                   
+Neg-Pos              GA-Heatmap                     0.313458
+                     GA-Input                       0.524701
+                     GA-Latent                      0.535746
+                     NSGA2-Heatmap                  0.373531
+                     NSGA2-Input                    0.345915
+                     NSGA2-Latent                   0.642945
+Neg-Verb             GA-Heatmap                     0.159259
+                     GA-Input                       0.122600
+                     GA-Latent                      0.110000
+                     NSGA2-Heatmap                  0.177209
+                     NSGA2-Input                    0.169259
+                     NSGA2-Latent                   0.341263
+Pos-Verb             GA-Heatmap                     0.380673
+                     GA-Input                       0.437211
+                     GA-Latent                      0.585632
+                     NSGA2-Heatmap                  0.411652
+                     NSGA2-Input                    0.473806
+                     NSGA2-Latent                   0.571962

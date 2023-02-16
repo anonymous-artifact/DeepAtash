@@ -1,0 +1,35 @@
+                                   test input count
+Features Combination Tool                          
+Mov-Lum              DeepAtash                 53.4
+                     DeepHyperion              22.7
+Mov-Or               DeepAtash                 20.5
+                     DeepHyperion              24.7
+Or-Lum               DeepAtash                 19.2
+                     DeepHyperion               2.2
+-------------------------------------------------------------------------------
+                                   num tsne clusters
+Features Combination Tool                           
+Mov-Lum              DeepAtash                 0.814
+                     DeepHyperion              0.500
+Mov-Or               DeepAtash                 0.880
+                     DeepHyperion              0.451
+Or-Lum               DeepAtash                 0.813
+                     DeepHyperion              0.194
+-------------------------------------------------------------------------------
+                                   test input count in target
+Features Combination Tool                                    
+Mov-Lum              DeepAtash                           28.4
+                     DeepHyperion                         3.7
+Mov-Or               DeepAtash                            4.7
+                     DeepHyperion                         1.1
+Or-Lum               DeepAtash                            6.8
+                     DeepHyperion                         0.1
+-------------------------------------------------------------------------------
+                                   target num tsne clusters
+Features Combination Tool                                  
+Mov-Lum              DeepAtash                         0.50
+                     DeepHyperion                      0.10
+Mov-Or               DeepAtash                         0.45
+                     DeepHyperion                      0.15
+Or-Lum               DeepAtash                         0.39
+                     DeepHyperion                      0.01

@@ -1,0 +1,18 @@
+                             accuracy test set
+Features Combination Tool                     
+Mov-Lum              After            0.992387
+                     Before           0.991100
+Mov-Or               After            0.992468
+                     Before           0.991100
+Or-Lum               After            0.992399
+                     Before           0.991100
+-------------------------------------------------------------------------------
+                             accuracy target test set
+Features Combination Tool                            
+Mov-Lum              After                   0.999233
+                     Before                  0.000000
+Mov-Or               After                   0.996516
+                     Before                  0.002500
+Or-Lum               After                   0.990268
+                     Before                  0.000000
+-------------------------------------------------------------------------------

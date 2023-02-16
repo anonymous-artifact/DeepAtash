@@ -1,0 +1,83 @@
+                                    test input count
+Features Combination Tool                           
+Mov-Lum              GA-Heatmap                 16.4
+                     GA-Input                   41.1
+                     GA-Latent                  51.7
+                     NSGA2-Heatmap              33.6
+                     NSGA2-Input                43.1
+                     NSGA2-Latent               50.5
+Mov-Or               GA-Heatmap                 28.5
+                     GA-Input                   69.1
+                     GA-Latent                  66.1
+                     NSGA2-Heatmap              26.7
+                     NSGA2-Input                58.6
+                     NSGA2-Latent               55.3
+Or-Lum               GA-Heatmap                 55.3
+                     GA-Input                   70.3
+                     GA-Latent                  65.5
+                     NSGA2-Heatmap              42.8
+                     NSGA2-Input                32.1
+                     NSGA2-Latent               64.3
+-------------------------------------------------------------------------------
+                                    num tsne clusters
+Features Combination Tool                            
+Mov-Lum              GA-Heatmap              0.241849
+                     GA-Input                0.381129
+                     GA-Latent               0.377449
+                     NSGA2-Heatmap           0.289830
+                     NSGA2-Input             0.364678
+                     NSGA2-Latent            0.318675
+Mov-Or               GA-Heatmap              0.145876
+                     GA-Input                0.289772
+                     GA-Latent               0.301623
+                     NSGA2-Heatmap           0.128843
+                     NSGA2-Input             0.222129
+                     NSGA2-Latent            0.224797
+Or-Lum               GA-Heatmap              0.218444
+                     GA-Input                0.278304
+                     GA-Latent               0.313199
+                     NSGA2-Heatmap           0.183579
+                     NSGA2-Input             0.148434
+                     NSGA2-Latent            0.227900
+-------------------------------------------------------------------------------
+                                    test input count in target
+Features Combination Tool                                     
+Mov-Lum              GA-Heatmap                            1.0
+                     GA-Input                             41.1
+                     GA-Latent                            51.7
+                     NSGA2-Heatmap                         1.8
+                     NSGA2-Input                          23.9
+                     NSGA2-Latent                         46.8
+Mov-Or               GA-Heatmap                            0.0
+                     GA-Input                              4.4
+                     GA-Latent                            10.2
+                     NSGA2-Heatmap                         3.0
+                     NSGA2-Input                           1.6
+                     NSGA2-Latent                          1.2
+Or-Lum               GA-Heatmap                            8.6
+                     GA-Input                             24.2
+                     GA-Latent                            25.9
+                     NSGA2-Heatmap                         5.8
+                     NSGA2-Input                           5.9
+                     NSGA2-Latent                         15.6
+-------------------------------------------------------------------------------
+                                    target num tsne clusters
+Features Combination Tool                                   
+Mov-Lum              GA-Heatmap                     0.052500
+                     GA-Input                       0.489020
+                     GA-Latent                      0.474423
+                     NSGA2-Heatmap                  0.250000
+                     NSGA2-Input                    0.129968
+                     NSGA2-Latent                   0.580426
+Mov-Or               GA-Heatmap                     0.000000
+                     GA-Input                       0.100000
+                     GA-Latent                      0.450000
+                     NSGA2-Heatmap                  0.250000
+                     NSGA2-Input                    0.150000
+                     NSGA2-Latent                   0.133333
+Or-Lum               GA-Heatmap                     0.550000
+                     GA-Input                       0.650000
+                     GA-Latent                      0.700000
+                     NSGA2-Heatmap                  0.450000
+                     NSGA2-Input                    0.300000
+                     NSGA2-Latent                   0.500000
