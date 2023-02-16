@@ -112,7 +112,6 @@ pip install -r requirements.txt
 ### Input ###
 
 * A trained model in h5 format. The default one is in the folder `models`;
-* A list of seeds used for the input generation. In this implementation, the seeds are indexes of elements of the MNIST dataset. The default list is in the file `bootstraps_five`;
 * `config.py` containing the configuration of the tool selected by the user.
 
 ### Run the Tool ###
