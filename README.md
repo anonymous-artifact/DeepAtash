@@ -104,7 +104,7 @@ or
 ```
 cd /DeepAtash/IMDB
 ```
-``
+```
 pip install -r requirements.txt
 ``` 
 
